@@ -1,0 +1,20 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="none" -->
+<!--#set var="date"      value="Agosto 2004" -->
+<!--#set var="dir"      value="trucchi2" -->
+<!--#set var="file"      value="trucchi2-f.shtml" -->
+<!--#set var="flink"      value="/./trucchi2/trucchi2-f.shtml" -->
+<!--#set var="follow"      value="" -->
+<!--#set var="ilink"      value="/./trucchi2/trucchi2.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="trucchi2" -->
+<!--#set var="keywords"      value="BSA, Yolanda Rios, Pirateria, Neruda, exedre" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="reserved" -->
+<!--#set var="lm"      value="" -->
+<!--#set var="next"      value="trucchi3" -->
+<!--#set var="prev"      value="trucchi1" -->
+<!--#set var="serie"      value="Senza carte truccate sul tavolo dell' anti-pirateria (2 di 3)" -->
+<!--#set var="subtitle"      value="Dalla teoria alla propaganda. Zitti tutti parla BSA!" -->
+<!--#set var="title"      value="Io, secondo me, dovrei guadagnare il doppio (ma ci sono i pirati)" -->

@@ -1,0 +1,151 @@
+Da: caparossa <caparossa@autistici.org>
+Data: Sab 22 feb 2003  12:40:04 Europe/Rome
+A: Emmanuele Somma <esomma@ieee.org>
+Cc: linuxmag@edmaster.it
+Oggetto: Note sull'editoriale dell'ultimo Linux Magazine
+
+Caro Emmanuele,
+ho letto con stupore il tuo editoriale sull'ultimo numero di Linux
+Magaziene.
+Stupore dettato non dal contenuto, dato che nel mondo di quelli che io
+chiamo affettuosamente "linuxari paludati" e' abbastanza comune, quanto
+dal fatto che tu abbia deciso di alzare un tal vespaio con un editoriale
+squisitamente *politico*.
+
+Non sono d'accordo su quasi nulla di quanto tu hai scritto, e
+onestamente alcune cosa mi hanno pure fatto arrabbiare.
+Ma non e' questo il problema (anzi, questo e' il sale della vita, che se
+la pensassimo tutt* allo stesso modo sai che noia! :).
+Percio' non ho intenzione di ribatterti punto su punto, che ne verrebbe
+fuori una cosa veramente pallosa.
+
+Ti racconto, allora, una storia. La mia storia.
+
+	Come caparossa si avvicina a Linux e al Software Libero
+
+Nel 1998 ero un giovane studente di Storia Contemporana in un'iversita'
+del centro Italia, in procindo di dedicarmi alla tesi.
+Mio argomento di studio in tutti gli anni dell'universita' furono in
+movimenti politici antagonisti degli anni '60 - '70, utilizzando come
+metodo storiografico la "storia orale".
+Decisi, visto che ero originario di Milano, di fare una tesi sulla
+storia del Centro Sociale Occupato Autogestito "Cox 18" di Milano.
+
+In contemporanea alla tesi mi fu regalato il mio primo pc (fino ad
+allora non ne avevo mai visto uno), un p.100 con 32Mb di ram e,
+ovviamente, Finestre98 installato. E Ufficio97, con cui iniziai a
+lavorare alla tesi.
+
+Un bel giorno dell'autunno del '98 mi avviai a fare le mie interviste ad
+alcune persone del centro sociale, come da appuntamento, ma trovai il
+luogo chiuso e queste persone che mi dissero "scusa ci siamo
+dimenticati, ma oggi abbiamo organizzato una install fest di linux in
+p.zza castello. Perche' non vieni con noi?".
+
+L'unico termine che mi era noto in quella frase era "fest"; cosi' decisi
+di andare, che una festa non fa mai male :)
+Arrivammo in piazza castello e trovai una situazione veramente folle, a
+miei occhi di allora: una trentina di persone in mezzo alla piazza, con
+tavoli e seggiole di fortuna, un cavo attaccato alla luce e un numero
+non indifferente di personal computers.
+Quelli che poi scoprii essere gli "installatori" erano evidentemente
+giovani del giro dei centri sociali, e oltre ad installare spiegavano
+cos'era GNU, cos'era la Free Software Foundation, cos'era Linux.
+Spiegavano, soprattutto, ed e' quello che mi colpii di piu', come si
+sviluppava Linux, o meglio, GNU/Linux: un modello decentrato e
+orizzontale di continuo scambio, dove chiunque poteva partecipare, in
+base alle sue capacita' e alla sua volonta'; dove tutto quello che
+veniva fatto era liberamente riutilizzabile e modificabile.
+
+Sentii una voce: "tu hai visto la luce!" ;-)
+
+Finita l'install fest corsi in libreria e comprai il mio primo libro su
+GNU/Linux (ne seguirono molti), e tempo un mese recuperai un secondo
+disco fisso e installai la mia prima distribuzione (ne sono ancora molto
+orgoglione: lo feci tutto da solo! :).
+Sei mesi dopo, finalmente passato a Debian, tolsi Finestre98 dal mio pc
+e da allora sulle mie macchine non c'e' piu' stato software
+proprietario.
+
+Perche' questa lunga e noiosa storia?
+
+Perche', a differenza di quello che dici tu nel tuo editoriale, io mi
+sono avvicinato a GNU/Linux e al Software Libero proprio da quegli
+ambienti che tu dici essere cosi' lontani dal nostro mondo.
+
+A te paiono cosi' lontani, il mondo del "movimento" e il mondo del
+software libero, perche' hai una visione dell'ideologie (il plurale e'
+voluto) sbagliata, o quanto meno, poco approfondita.
+Ti cito:
+"I no-global [...] immaginano che prendera' il sopravvento un modello
+"centralistico" di realizzazione del software libero? Ma quanto sara'
+libero un software realizzato cosi'?".
+
+Ecco l'errore!
+La visione "centralizzata" della societa' non capitalistica e' una roba
+da prima meta' del '900, da Paritto Comunista della Terza
+Internazionale.
+E' dagli anni '60, con l'Operaismo, che il movimento "antagonista",
+nelle sue componenti maggioritarie *rifiuta* una visione centralistica
+della societa'.
+Ancor di piu' dopo il '68 e il '77, per non parlare di movimento come la
+Pantera del '90, o come quello dei centri sociali, dove il rifiuto e'
+totale e incondizionato.
+
+Quello che a me colpi' profondamente e che mi porto' a buttarmi nel modo
+di Linux prima, di GNU/Linux poi, fu proprio questo approccio
+decentralizzato; il fatto che il concetto base della comunita' GNU/Linux
+e del software libero fosse la CONDIVISIONE, e non la competizione
+(per questo la citazione di Primo Moroni, intellettuale, militante e
+librario della mitica libreria "Calusca" di Milano).
+
+Tu, alla fine del tuo editoriale, ironizzi sul fatto che bisognerebbe
+avvertire i "no-global" che sotto il costume del pinguino potrebbe
+esserci un agente della CIA.
+
+Io ti dico, soltanto: usa netcraft, e vai a vedere i maggiori server di
+movimento, quelli piu' vecchi, come Isole nella Rete
+(http://www.ecn.org) o Kyuzz (http://www.kyuzz.org) o Tactical Media
+Crew (http://www.tmcrew.org) o Autistici/Inventati
+(http://www.autistici.org - http://www.inventati.org). Oppure la tanto
+famosa Indymedia (http://italy.indymedia.org). E tanti altri che mi sono
+dimenticato.
+Isole nella rete usa GNU/Linux fin dalla fine degli anni '90, quando in
+italia era usato solo nelle universita', e manco in tutte.
+
+Ma ti diro' di piu': nel 2001, al G8 di Genova, nel Mediacenter
+organizzato dal Genoa Social Forum, i pc a disposizione di tutti (ed
+erano una 50 di macchine) erano *tutti* dotati *esclusivamente* di
+software libero; cosi' come al Social Forum Europeo di Firenze dell'anno
+scorso (dove le macchine erano raddoppiate).
+E a mettere su quei Mediacenter non furono chiamate ditte di
+"professionisti", ma persone del movimento che *da anni* si occupano e
+spingono il software libero.
+Alcuni esempi?
+Gli Hackmeeting (http://www.hackmeeting.org), che dal '98 vengono fatti
+e autogestiti nei centri sociali; gli hacklab, dove vengono fatti corsi
+di tutti i tipi, ma in particolare di GNU/Linux; e dove, per esempio,
+sono usiti progetti come Bolic1 (http://autistici.org/bolic1/),
+minidistribuzione nata al LOA (http://www.autistici.org/loa) e da cui
+poi si e' sviluppata Dyne:bolic (http://dynebolic.org).
+
+Potrei continuare all'infinito, ma sicuramente ti/vi ho gia' scocciato.
+
+Il mondo del software libero e', da che lo conosco e lo "studio",
+*sempre* stato diviso tra chi lo vedeva come la palingenesi del libero
+mercato (Bob Young o Eric Raimond) e da chi, invece, lo vadeva come
+campo di massima espressione libertaria (Stalmann, per esempio, ma anche
+tanti e tanti altri).
+Che non e', a mio avviso, la divisione tra "comunisti" e "liberisti",
+non e' una battaglia.
+Anzi, e' il punto di forza del softeare libero: ognuno puo' vedereci
+quello che gli e' piu' affine, senza per questo ledere o inverare cio'
+che e' piu' affine ad una altro.
+
+Un modello aperto e condiviso, insomma.
+
+-- 
+caparossa
+"Socializzare saperi senza fondare poteri"
+			     Primo Moroni
+

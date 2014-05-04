@@ -1,0 +1,10 @@
+<!-- Copyright dell'articolo -->
+
+<P><I>"<!--#echo var='title'-->" ( <B>
+<!--#if expr="$link" -->
+      <!--#echo var="link" -->
+<!--#else -->
+      http://<!--#echo var="site" -->/<!--#if expr="$dir!='.'" --><!--#echo var="dir" -->/<!--#endif --><!--#echo var="input"-->.shtml 
+<!--#endif --> </B> ) </I>
+<!--#if expr="$oldcopy" --><BR><!--#echo var='oldcopy' --> <!--#endif -->
+<BR>Copyright (C) <!--#if expr="$cdate" --> <!--#echo var='cdate'--> <!--#else --> <!--#echo var='date'--> <!--#endif -->by <!--#if expr="$cname" --> <!--#echo var='cname' --> <!--#else -->  <!--#echo var='author'--> <!--#endif -->  <!--#if expr="$email" --><tt>&lt;<!--#echo var="email" -->></tt><!--#endif --> <!--#if expr="$address" -->, <!--#echo var="address" --><!--#endif --> - All Rights Reserved.</P>

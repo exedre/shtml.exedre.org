@@ -1,0 +1,87 @@
+<!--#include virtual="$base/frags/art-title.shtml" -->
+
+<p>Cosa vuole la Free Software Foundation? Risponde Forbes, una delle più
+importanti ed influenti riviste economiche del mondo: "Alla FSF non
+interessano le royalty [sui prodotti che infrangono la GPL], loro
+vogliono bruciarti la casa!" 
+
+<p>L'articolo di Daniel Lyons inaugura una nuova fase nella strategia
+contro il Software Libero e vale la pena di considerarlo, anche se
+mischia il caso SCO, i problemi di Cisco e Linksys, la soluzione
+OpenTV e, perfino, la storia di NuSphere/MySQL.
+
+<p>L'obiettivo (solito) è screditare la GPL, che è di per sé
+inattaccabile quindi, nella peggiore tradizione retorica, si ricorre
+alla tecnica di distruggere chi la difende attivamente: la FSF e i
+suoi legali.
+
+<p>Boies, il legale di SCO, l'aveva detto. Questa azienda non ha
+argomenti nella sua battaglia contro Linux e un po' di analisti
+finanziari devono giustificare gli sconclusionati consigli d'acquisto
+sulla base dei "solidi fondamentali" di quest'azienda, che tanto
+solidi oggi non sembrano più. Quindi diventa assolutamente necessario
+mettere in discussione la GPL. E così hanno liberato il pitbull.
+
+<p>Daniel Lyons si dichiara scioccato, addirittura!, di sapere che la FSF
+dica pubblicamente di difendere "attivamente" la propria licenza, cioè
+nei casi di accertata violazione, di scendere in campo ed intavolare
+trattative, più o meno lunghe, più o meno dure e più o meno riservate,
+per far smettere le violazioni in atto. In una mano la carota della
+gratitudine della Comunità, nell'altra il bastone di una licenza molto
+dura con i trasgressori.
+
+<p>Ma questo non è di oggi come tenta di far credere Forbes appigliandosi
+al caso Linksys. Infatti fin dal 1991 il gruppo di legali della FSF
+hanno seguito centinaia di casi riuscendo a risolverli con la massima
+soddisfazione di tutti e senza mai dover portare in tribunale la
+GPL. Un curriculum di successi che pochi avvocati al mondo possono
+vantare.
+
+<p>Questa volta però Forbes ha interesse a riportare il caso del router
+wireless Linksys, uno dei bestseller del momento con 400.000 unità
+vendute solo nel primo trimestre di quest'anno, basato su Linux ma di
+cui il produttore non ha rilasciato subito le modifiche violando la
+GPL. Di mezzo ci si è messa la Cisco che ha comprato Linksys, e pure
+la Broadcom che realizza il sottosistema wireless. Per mesi la FSF ha
+tentato di trovare un accordo con Cisco, Linksys e Broadcom per
+cercare di mettere insieme le richieste della licenza GPL e le
+esigenze di riservatezza e di proprietà intellettuale degli
+sviluppatori. E è riuscita a far rilasciare pubblicamente tutte le
+modifiche al kernel e chiudere all'interno di un modulo caricabile
+ i dettagli relaitvi solo all'interfaccia wireless 802.11g. Adesso
+l'opera continuerà nei confronti della Broadcom che sembra essere più
+riluttante. I rapporti tra FSF, Broadcom, Cisco e Linksys sono
+dichiaratamente buoni e rilassati, si sta semplicemente tentando
+-senza fretta e con la riservatezza minima necessaria a trattare
+queste questioni- di "fare la cosa giusta".
+
+<p>Ma Lyons deve prendere questo esempio per teorizzare l'esistenza di un
+ricatto segreto della FSF nei confronti di Cisco, che si troverebbe ad
+aver speso 500 milioni di dollari per l'acquisto di Linksys che non è
+neppure proprietaria di quello che vende e che si trova a dover
+fronteggiare i terribili "comunisti" e anti-sociali della FSF, che tra
+l'altro in alcuni casi precedenti, ed elenca quelli di OpenTV e MySQL
+che in precedenti occasioni avevano liquidato (almeno però dice
+volontariamente come equo compeso per il supporto legale) sostanziosi
+assegni (65 e 25 mila dollari rispettivamente) di contributi alla Free
+Software Foundation per risolvere casi simili. Giova far notare che
+Linksys prevede di guadagnare 20 milioni di dollari solo in quest'anno
+dal progetto.
+
+<p>Che strano mondo quello in cui desiderano vivere Forbes e Lyons. Non
+sembrano affatto turbati dalle attività, spesso ben oltre il limite
+del semplice lobbismo (come quelle della BSA), o di discutibilissimo
+accanimento legale (come quella della RIIA) per proteggere attivamente
+il copyright che sottrae diritti ai cittadini, basate su finanziamenti
+milionari da parte di quelle multinazionali dell'intrattenimento
+discografico o cinematografico o da parte di Microsoft nel software, e
+sono invece addirittura scioccati dal fatto che una microscopica
+realtà organizzativa (12 dipendenti in tutto il mondo, meno
+dell'ufficio legale della BSA nel più piccolo dei paesi europei) tenti
+con le poche forze che ha a disposizione di proteggere attivamente le
+stesse identiche leggi solo che per dare diritti agli utenti.
+
+<!--#include virtual="$base/frags/firma.shtml" -->
+
+<!--#include virtual="$base/frags/art-trans.shtml" -->
+<!--#include virtual="$base/frags/art-accessori.shtml" -->

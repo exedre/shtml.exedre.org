@@ -1,0 +1,9 @@
+<!--#include virtual="cover-f.shtml" -->
+<!--#include virtual="followup-f.shtml" -->
+<!--#include virtual="eventi-a.shtml" -->
+<!--#include virtual="pirateria-a.shtml" -->
+<!--#include virtual="spot-a.shtml" -->
+<!--#include virtual="trans-a.shtml" -->
+
+<!--#include virtual="$base/frags/art-void.shtml" --> 
+<!--#set var='follow' value='' -->

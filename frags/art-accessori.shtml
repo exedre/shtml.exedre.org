@@ -1,0 +1,59 @@
+<!-- Art Accessori -->
+
+<!--#if expr="$published" -->
+<P>Questo articolo è apparso  <!--#echo var="published"--></P>
+<!--#endif -->
+
+<!-- #if expr="$bio" -->
+<!-- #if expr=<!--#fsize file="/$base/$bio.shtml" --> > 0 -->
+<!-- hr -->
+<!-- #include virtual="/$base/$bio.shtml" -->
+<!-- #endif -->
+<!-- #else -->
+<!-- #endif -->
+
+
+<!--#if expr="$license" -->
+<hr>
+<!--#include virtual="/$base/frags/licenza-$license.shtml" -->
+<!--#else -->
+no license
+<!--#endif -->
+
+
+
+<!--#if expr="$rate = 'yes'" -->
+<hr><!--#include virtual="/$base/frags/rate.shtml" -->
+<!--#endif -->
+
+<!-- Fine Art Accessori -->
+
+<!--#if expr="$follow != ''" -->
+<hr>
+<h3><a name=amargine>A Margine</a></h3>
+<!--#include virtual="/$dir/$follow" -->
+<hr>
+<!--#endif -->
+
+<!--#if expr="$comments != ''" -->
+<hr>
+<h3><a name=commenti>Alcuni Commenti</a></h3>
+<!--#include virtual="/$dir/$comments" -->
+<hr>
+<!--#endif -->
+
+<!--#if expr="$cvs" -->
+<hr>
+Aggiornamento su CVS: <!--#echo var="cvs" -->
+<!--#endif -->
+
+
+
+<!-- --> 
+
+<!-- #echo var="bio"--><br>
+<!-- #echo var="license"--><br>
+<!-- #echo var="follow"--><br>
+<!-- #echo var="comments"--><br>
+
+<!-- -->

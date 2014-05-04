@@ -1,0 +1,11 @@
+<hr>
+<a name="eventi"><h3 class="eventi">Eventi:</h3></a>
+
+<!--#include virtual="$base/bocconi/bocconi-v.shtml"-->
+<!--#include virtual="$base/frags/art-call.shtml" -->
+
+
+<!--#include virtual="$base/panel/panel-v.shtml"-->
+<!--#include virtual="$base/frags/art-call.shtml" -->
+
+

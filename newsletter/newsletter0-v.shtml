@@ -1,0 +1,13 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="dir"      value="newsletter" -->
+<!--#set var="file"      value="newsletter0-f.shtml" -->
+<!--#set var="flink"      value="/./newsletter/newsletter-f.shtml" -->
+<!--#set var="ilink"      value="/./newsletter/newsletter.shtml" -->
+<!--#set var="input"      value="newsletter" -->
+<!--#set var="keywords"      value="newsletter, exedre" -->
+<!--#set var="lcense"      value="base" -->
+<!--#set var="next"      value="." -->
+<!--#set var="prev"      value="." -->
+<!--#set var="title"      value="Exedre Newsletter n. 0" -->

@@ -1,0 +1,7 @@
+<!--#include virtual="$base/frags/art-title.shtml" -->
+
+<h2>Ultime Novità</h2>
+
+<!--#include virtual="$base/last/last-i.shtml" -->
+
+<!--#set var="follow" value="" -->

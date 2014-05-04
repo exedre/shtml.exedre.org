@@ -1,0 +1,20 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="auth"      value="Frederick P. Brooks Jr." -->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="dir"      value="biblio" -->
+<!--#set var="file"      value="biblio0-f.shtml" -->
+<!--#set var="flink"      value="/./biblio/biblio-f.shtml" -->
+<!--#set var="ilink"      value="/./biblio/biblio.shtml" -->
+<!--#set var="input"      value="biblio" -->
+<!--#set var="isbn"      value="0-201-83595-9" -->
+<!--#set var="keywords"      value="biblio, exedre" -->
+<!--#set var="label"      value="tmmm" -->
+<!--#set var="lcense"      value="master" -->
+<!--#set var="next"      value="." -->
+<!--#set var="pagg"      value="322" -->
+<!--#set var="prev"      value="." -->
+<!--#set var="publ"      value="Addison Wesley" -->
+<!--#set var="publu"      value="http://www.aw.com" -->
+<!--#set var="title"      value="The mythical man-month" -->
+<!--#set var="url"      value="Acquista su BOL.com" -->

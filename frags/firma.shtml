@@ -1,0 +1,11 @@
+<p><!--#echo var='author'-->  
+<!--#if expr="$mail"-->
+&lt; <a href="mailto:<!--#echo var='email' -->"><!--#echo var='email' --></a> &gt 
+<!--#endif -->
+<!--#if expr="$text"-->
+( <a href="http://<!--#echo var='site' -->/bio.shtml#<!--#echo var='bio' -->">bio</a> ) 
+<!--#endif -->
+<!--#if expr="$www"-->
+[ <a href="http://<!--#echo var='www' -->"><!--#echo var='www' --></a> ]
+<!--#endif -->
+

@@ -1,0 +1,18 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="date"      value="Maggio 2003" -->
+<!--#set var="dir"      value="primavera" -->
+<!--#set var="file"      value="primavera-f.shtml" -->
+<!--#set var="flink"      value="/./primavera/primavera-f.shtml" -->
+<!--#set var="ilink"      value="/./primavera/primavera.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="primavera" -->
+<!--#set var="keywords"      value="Stallman, Rome" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="base" -->
+<!--#set var="lm"      value="come editoriale su Linux Magazine n. 30 Maggio 2003" -->
+<!--#set var="next"      value="india" -->
+<!--#set var="prev"      value="disobbedienti" -->
+<!--#set var="subtitle"      value="Tour romano per l'ultimo degli hacker." -->
+<!--#set var="title"      value="Roma. Primavera. Stallman." -->

@@ -1,0 +1,22 @@
+Da: Gianpaolo Racca <gianpaolo@preciso.net>
+Data: Mer 5 mar 2003  16:12:14 Europe/Rome
+A: esomma@ieee.org
+Cc: mgt@preciso.net
+Oggetto: linux e no-global
+
+Volevo solo dare il mio punto di vista sulla questione
+linux/no-global affrontata nell'editoriale dell'ultimo numero di Linux Magazine.
+Forse e' vero che spesso si identificano gli utenti linux (soprattutto in italia) come tutti omogeneamente appartenenti all'area sinistrorsa, spesso con grandi contatti con i centri sociali.
+Ma, al di la' del fatto che possa o non possa essere statisticamente fondato, questo aspetto non e' in contraddizione con il motivo principale per il quale gli utenti (per lo meno quelli domestici) scelgono linux (a parte il fatto che 'fa figo', ovvio): la liberta'.
+Io, e su questo posso garantire anche statisticamente, sono felice di poter usare qualcosa su cui nessuno ha un pieno controllo, che nessuno puo' impedirmi di usare come meglio credo, che nessuno puo' obbligarmi ad usare in un modo che non voglio.
+
+Non dimentichiamoci che, nonostante l'apporto delle corporation, sia ormai forte, la maggior parte del lavoro, anchedi quello che piu' riguarda i singoli utenti, e' fatto da volontari. La mia macchina digitale? L'ho fatta funzionare modificando il modulo usb-storage del kernel. Me l'ha indicato un brasiliano trovato in giro per le mailing list.
+
+E' vero che tutto cio' e' espressione di un fenomeno di globalizzazione, ma non certo della stessa globalizzazione (guidata dal profitto e orientata al controllo/dominio) che Microsoft rappresenta.
+
+No-global e' un termine che mal rappresenta perfino i Disobbedienti, che amano da qualche anno definirsi new-global.
+
+Ciao,
+
+	gianpaolo
+

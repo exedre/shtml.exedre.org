@@ -1,0 +1,18 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="date"      value="Novembre 2000" -->
+<!--#set var="dir"      value="monaco2k" -->
+<!--#set var="file"      value="monaco2k-f.shtml" -->
+<!--#set var="flink"      value="/./monaco2k/monaco2k-f.shtml" -->
+<!--#set var="ilink"      value="/./monaco2k/monaco2k.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="monaco2k" -->
+<!--#set var="keywords"      value="EPO, Brevetti" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="base" -->
+<!--#set var="lm"      value="come editoriale su Linux Magazine n. 9 Dicembre 2000/Gennaio 2001" -->
+<!--#set var="next"      value="cnoright" -->
+<!--#set var="prev"      value="avanti" -->
+<!--#set var="subtitle"      value="Tu cos'hai da fare il 21 Novembre 2000?" -->
+<!--#set var="title"      value="Monaco 2000: Nessuno tocchi il Free Software" -->

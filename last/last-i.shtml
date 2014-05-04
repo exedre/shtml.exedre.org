@@ -1,0 +1,18 @@
+<!--#set var="when" value="08 Dicembre 2003" -->
+
+<!--#include virtual="$base/sconfnr/sconfnr-v.shtml" -->
+<!--#include virtual="$base/frags/art-news.shtml" -->
+
+<!--#include virtual="$base/leejhai/leejhai-v.shtml" -->
+<!--#include virtual="$base/frags/art-news.shtml" -->
+
+<!--#include virtual="$base/fsfforbes/fsfforbes-v.shtml" -->
+<!--#include virtual="$base/frags/art-news.shtml" -->
+
+<!--#set var="what" value="Aggiunta una barra laterale di navigazione" -->
+<!--#include virtual="$base/frags/news.shtml" -->
+
+<!--#set var="what" value="Corretti alcuni errori nelle inclusioni." -->
+<!--#include virtual="$base/frags/news.shtml" -->
+
+

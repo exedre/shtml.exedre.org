@@ -1,0 +1,14 @@
+<!--#set var="author"      value="Emmanuele 'exedre' Somma" -->
+<!--#set var="base"      value="." -->
+<!--#set var="coverpage"      value="u1pag" -->
+<!--#set var="file"      value="home-a.shtml" -->
+<!--#set var="flink"      value="/.//-f.shtml" -->
+<!--#set var="followup"      value="<p>Vedi commenti e note a questo articolo [ <a href='<!--#echo var='coverpage' -->/<!--#echo var='coverpage' -->.shtml#commenti'>&gt</a> ]</p>" -->
+<!--#set var="ilink"      value="/.//.shtml" -->
+<!--#set var="keywords"      value="Emmanuele Somma " -->
+<!--#set var="me"      value="Emmanuele 'exedre' Somma" -->
+<!--#set var="path"      value="/Users/exedre/Sites/www.exedre.org/" -->
+<!--#set var="repository"      value="/Users/exedre/Work/sex/old" -->
+<!--#set var="site"      value="$SERVER_NAME/exedre" -->
+<!--#set var="sitedesc"      value="Emmanuele Somma " -->
+<!--#set var="title"      value="" -->

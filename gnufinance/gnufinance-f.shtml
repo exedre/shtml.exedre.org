@@ -1,0 +1,99 @@
+<!--#include virtual="$base/frags/art-title.shtml" -->
+
+<p>Le principali banche d'investimento mondiali sono pionieri nelle
+nuove tecnologie informatiche e negli strumenti hardware e software
+per l'analisi e la valutazione dei prodotti finanziari avanzati. Ciò
+si cala in una più vasta tendenza del mondo bancario all'innovazione
+tecnologica, che ha comportato tra l'altro l'adozione del sistema
+operativo GNU della Free Software Foundation con il nucleo Linux e di
+altri pacchetti di Software Libero (SL). L'adozione di software basato
+su licenze liberali all'interno di sistemi IT è una scelta ampiamente
+consolidata, come dimostrano i casi noti anche in campo bancario in
+Italia (Banca d'Italia, BPM, BPU), e non è legata solo al risparmio
+dei costi. In ambiente bancario, assicurativo e finanziario,
+l'affidabilità, la disponibilità, l'accuratezza e la sicurezza dei
+sistemi sono fattori critici a cui il SL dà risposte a volte superiori
+agli strumenti proprietari. Il SL risulta più efficace anche per
+l'assenza del "costo fisso" di licenza che rende disponibili risorse
+per la manutenzione e la formazione del personale.
+
+<p>Il SL assicura inoltre autonomia nel patrimonio software e
+sicurezza nel processo produttivo. La presenza di un produttore
+proprietario non è una garanzia illimitata sul funzionamento dei
+prodotti né certezza sulla disponibilità di manutenzione completa ed
+indefinita. Le limitazioni di responsabilità riportate nelle licenze
+dei prodotti proprietari (chiamate End Users License Agreement) sono
+spesso equivalenti a quelle dei prodotti liberi. Nel caso proprietario
+è impraticabile per le aziende terze intervenire sui 'bug' presenti
+nei codici sorgenti la cui disponibilità è solo del produttore
+originario. Al contrario il mercato del supporto ai programmi liberi
+da parte delle aziende terze rispetto agli sviluppatori si è esteso
+rapidamente, con la partecipazione di realtà molto differenti secondo
+i target di mercato, dalle più note multinazionali informatiche alle
+piccole aziende locali o a singoli professionisti.
+
+<p>Per comprenderne la causa d'adozione degli strumenti liberi nel
+core business delle principali banche d'investimento è sufficiente
+notare che si devono realizzare sistemi IT accurati che trattino i
+dati in tempo reale e li passino velocemente ai gestori dei fondi e ai
+clienti principali. In tale caso è di fondamentale importanza
+l'adozione di un insieme di strumenti software elementari che si
+possano riaggregare di volta in volta autonomamente secondo le
+esigenze dei progettisti finanziari.
+
+<p>Sono necessarie prestazioni che in precedenza erano appannaggio di
+super-computer dai costi proibitivi. In questo campo è nata un'intera
+classe di nuovi sistemi hardware e software, evoluzione delle ricerche
+accademiche di calcolo parallelo e di bilanciamento dei carichi
+computazionali basati su reti e cluster di workstation, che è
+culminata nell'approccio denominato «blade server» o server
+COTS. Decisiva nella realizzazione di questi ambienti è stata la
+disponibilità dei codici sorgenti del sistema operativo e degli
+strumenti di sviluppo GNU sia nelle versioni per kernel Linux che
+quelli per BSD, Apple Darwin o GNU Hurd. In pochi anni questi ambienti
+di calcolo sono passati dai primi prototipi ad un'offerta di prodotti
+molto avanzata sia da parte di piccoli che di grandi produttori tra
+cui IBM, ed Apple.
+
+<p>È da notare come esemplare il caso della banca d'investimento
+Goldman Sachs che, rotto il tradizionale legame con il proprio
+fornitore di hardware per server di calcolo multiprocessore, ha
+preferito realizzare una propria impresa (Egenera.com) specializzata
+in blade server basati su Linux. Egenera.com ha divulgato un caso di
+studio valutando quattro alternative computazionalmente equivalenti:
+un sistema multiprocessore con 24 CPU, 150 workstation con Windows
+oppure con Linux, e la propria offerta di blade server con 50 elementi
+basati su Linux. Hanno verificato la convenienza economica del blade
+server in termini di costo totale di possesso (TCO), infatti pur a
+fronte di una maggiore spesa d'acquisto, l'investimento risultava
+conveniente grazie al risparmio sui costi di gestione già dal secondo
+anno di attività.
+
+<p>L'ambito in cui il software libero incontra il massimo
+apprezzamento è quello dei pacchetti software di analisi come R e
+ROOT, della grafica con Gnuplot e IBM Open DX, dei linguaggi di
+programmazione adattabili all'ambito scientifico come Perl e Python e
+delle librerie scientifiche, finanziarie ed econometriche come GNU
+GSL, GNU MP, GNU Gretl e Quantlib.
+
+<p>Il consenso riscontrato nell'uso degli strumenti per il supporto
+tecnico o per l'analisi dei dati è solo la facciata pratica del
+successo del Software Libero. Si deve considerare anche un
+fondamentale effetto culturale e sociale dovuto all'idea di
+cooperazione competitiva di cui il SL si nutre, che oltre ad essere
+una rappresentazione più moderna dei mercati tecnologici avanzati,
+realizza un approccio coerente con quel «free marketplace of ideas»
+che agisce come humus naturale per l'innovazione e l'avanzamento
+culturale sui cui costruire servizi e sistemi sempre più avanzati e
+sofisticati.
+
+<p>Le slides dell'intervento: <a href="./gnufinance-sl.pdf">PDF</a>
+
+<p><i><font size=-1>Ringraziamenti: R. Serafini (BdI), G. Bruno (BdI)</font></i>
+
+
+<!--#include virtual="$base/frags/firma.shtml" -->
+
+<!--#include virtual="$base/frags/art-copy.shtml" -->
+<!--#include virtual="$base/frags/art-accessori.shtml" -->
+

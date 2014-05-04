@@ -1,0 +1,16 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="comments"      value="" -->
+<!--#set var="date"      value="Agosto 2004" -->
+<!--#set var="dir"      value="trucchi" -->
+<!--#set var="file"      value="trucchi-f.shtml" -->
+<!--#set var="flink"      value="/./trucchi/trucchi-f.shtml" -->
+<!--#set var="follow"      value="" -->
+<!--#set var="ilink"      value="/./trucchi/trucchi.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="trucchi" -->
+<!--#set var="last"      value="3" -->
+<!--#set var="next"      value="news" -->
+<!--#set var="prev"      value="." -->
+<!--#set var="subtitle"      value="Una analisi della metodologia di produzione dei dati sulla pirateria da parte della Business Software Alliance" -->
+<!--#set var="title"      value="Senza carte truccate sul tavolo dell' anti-pirateria" -->

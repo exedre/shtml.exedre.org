@@ -1,0 +1,15 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="date"      value="Agosto 2003" -->
+<!--#set var="dir"      value="news" -->
+<!--#set var="file"      value="news-f.shtml" -->
+<!--#set var="flink"      value="/./news/news-f.shtml" -->
+<!--#set var="ilink"      value="/./news/news.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="news" -->
+<!--#set var="keywords"      value="exedre" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="next"      value="india" -->
+<!--#set var="prev"      value="." -->
+<!--#set var="subtitle"      value="Aggiornamenti e novità del sito www.exedre.org" -->
+<!--#set var="title"      value="News@exedre.org" -->

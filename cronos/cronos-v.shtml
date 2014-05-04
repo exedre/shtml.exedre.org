@@ -1,0 +1,16 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="date"      value="Agosto 2003" -->
+<!--#set var="dir"      value="cronos" -->
+<!--#set var="file"      value="cronos-f.shtml" -->
+<!--#set var="flink"      value="/./cronos/cronos-f.shtml" -->
+<!--#set var="ilink"      value="/./cronos/cronos.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="cronos" -->
+<!--#set var="keywords"      value="exedre" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="reserved" -->
+<!--#set var="next"      value="india" -->
+<!--#set var="prev"      value="." -->
+<!--#set var="subtitle"      value="Una cronologia " -->
+<!--#set var="title"      value="cronos@exedre.org" -->

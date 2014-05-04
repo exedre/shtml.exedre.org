@@ -1,0 +1,4 @@
+<br>
+<p><!--#echo var="when"--> - <a href='<!--#echo var="ilink"-->'><!--#echo var="title"--></a>
+ (<I><!--#echo var="subtitle"--> <!--#if expr="$subtitle1 != ''" --> <!--#echo var="subtitle1"--> <!--#endif --></i>) <!--#echo var="date"--> (html,<!--#fsize virtual="$flink" -->)
+<br>

@@ -1,0 +1,19 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="date"      value="Dicembre 1999" -->
+<!--#set var="dir"      value="winwin" -->
+<!--#set var="file"      value="winwin-f.shtml" -->
+<!--#set var="flink"      value="/./winwin/winwin-f.shtml" -->
+<!--#set var="ilink"      value="/./winwin/winwin.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="winwin" -->
+<!--#set var="keywords"      value="RedHat, Windows" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="base" -->
+<!--#set var="lm"      value="come editoriale su Linux Magazine n. 02 Dicembre 1999 - Gennaio 2000" -->
+<!--#set var="next"      value="india" -->
+<!--#set var="prev"      value="disobbedienti" -->
+<!--#set var="subtitle"      value="Se fare affari è tutta questione di indovinare il tempo," -->
+<!--#set var="subtitle1"      value="allora Red Hat non ha sbagliato un colpo." -->
+<!--#set var="title"      value="RedHat e il gioco win-win" -->

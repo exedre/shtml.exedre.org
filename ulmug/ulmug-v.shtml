@@ -1,0 +1,19 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="date"      value="16 Settembre 2003" -->
+<!--#set var="dir"      value="ulmug" -->
+<!--#set var="file"      value="ulmug-f.shtml" -->
+<!--#set var="flink"      value="/./ulmug/ulmug-f.shtml" -->
+<!--#set var="follow"      value="" -->
+<!--#set var="ilink"      value="/./ulmug/ulmug.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="ulmug" -->
+<!--#set var="keywords"      value="Linux Magazine, LUG, exedre" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="base" -->
+<!--#set var="lm"      value="" -->
+<!--#set var="next"      value="disobbedienti" -->
+<!--#set var="prev"      value="." -->
+<!--#set var="subtitle"      value="Il Linux User Group Nazionale dei lettori e degli autori di Linux Magazine (non ufficiale)." -->
+<!--#set var="title"      value="U.L.M.U.G. - Unofficial Linux Magazine Users Group" -->

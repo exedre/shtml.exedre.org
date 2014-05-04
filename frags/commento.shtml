@@ -1,0 +1,88 @@
+  <!-- inizio form -->
+ 
+  <FORM action="http://www.tiscali.it/cgi-bin/formmail.cgi" method="post">
+
+	<INPUT type="hidden" name="subject" value=<!--#echo var=input --> >
+  	
+	<!--  inserire al posto di userid@tiscali.it l'indirizzo email a cui desiderate sia inviato il form  -->
+	<INPUT type="hidden" name="recipient" value="emmanuele.somma@tiscali.it">
+    
+	<!--  inserire quali campi si desidera siano obbligatori  -->
+	<INPUT type="hidden" name="required" value="valore,commento">
+    
+	<!--  inserire l'indirizzo della pagina html da caricare in caso di errori  -->
+	<INPUT type="hidden" name="missing_fields_redirect" value="http://www.exedre.org/frags/errore.html">
+
+	<!--  inserire l'indirizzo della pagina html di conferma  -->
+	<INPUT type="hidden" name="redirect" value="http://www.exedre.org/frags/conferma.html">
+
+    <table width="500" border="0" cellspacing="0" cellpadding="3" bgcolor="#DDDD00">
+      <tr>
+        <td>
+          <table width="500" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+            <tr valign="middle"> 
+              <td height="25" colspan="4" bgcolor="#DDDD00"> <b><font size="2" face="Arial">
+		Se vuoi, puoi lasciare un commento sull'articolo <!--#echo value=label -->
+		</font></b></td>
+            </tr>
+            <tr valign="middle"> 
+              <td height="30" width=400 colspan=2> 
+                <div align="left"><font size="2" face="Arial"><b>Se vuoi una risposta lascia la tua email:</b></font></div>
+              </td>
+              <td height="30" width=100 colspan="2">
+
+		<!--  campo in cui inserire l'indirizzo e-mail (lunghezza campo 30)  --> 
+                <input type="text" name="email" size="30">
+
+              </td>
+            </tr>
+
+            <tr valign="middle"> 
+              <td colspan=3 height="30" width=400 colspan=2> 
+                <div align="left"><font size="2" face="Arial"><b>Cosa ne pensi di questo articolo: </b></font></div>
+              </td>
+              <td height="30" width="100" colspan="2">
+
+		<!--  menu da cui scegliere lo stato civile  --> 
+                <select name="valore" >
+                  <option value="0">0 - Non sono per niente d'accordo</option>
+                  <option value="1">1 - Ci sono spunti interessanti </option>
+                  <option value="2">2 - Sono abbastanza d'accordo</option>
+                  <option value="3">3 - È una lettura consigliabile a tutti</option>
+                  <option value="4">4 - Wow! Mi hai letto nel pensiero</option>
+                </select>
+              </td>
+            </tr>
+            <tr valign="middle"> 
+              <td height="25" colspan="4" bgcolor="#DDDD00"> <b><font face="Arial" size="2">Scrivi qui il tuo commento</font></b></td>
+            </tr>
+            <tr> 
+              <td colspan="4" align="center">
+		<br>
+
+		<!--  campo in cui inserire un commento (lunghezza campo 45 - altezza campo 10 righe)  -->
+		<textarea name="commento" cols="45" rows="10">Scrivi qu&igrave; il tuo eventuale  commento</textarea>
+                
+		<br>
+
+              </td>
+            </tr>
+            <tr> 
+              <td colspan="4" align="center" height="50">
+
+		<!--  pulsante d'invio  --> 
+                <input type="submit" value="     Invia     " name="submit">
+                &nbsp;&nbsp;
+
+		<!--  pulsante di cancellazione del modulo  --> 
+                <input type="reset" value="Cancella tutto" name="reset">
+
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    </form>
+
+<!--  fine form  -->

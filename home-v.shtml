@@ -1,0 +1,7 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="comments"      value="" -->
+<!--#set var="flink"      value="/.//-f.shtml" -->
+<!--#set var="ilink"      value="/.//.shtml" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="opts"      value="novarsa" -->

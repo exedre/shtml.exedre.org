@@ -1,0 +1,85 @@
+<!--#include virtual="$base/frags/art-title.shtml" -->
+
+<!--
+
+<h2>Prossimamente</h2>
+
+<!--#set var="when" value="1 Giugno 2003" -->
+<!--#include virtual="$base/mankind/mankind-v.shtml" -->
+<!--#include virtual="$base/frags/art-coming.shtml" -->
+
+-->
+
+<h2>Ultime Novità</h2>
+
+<!--#include virtual="$base/last/last-i.shtml" -->
+
+<h2>Precedenti</h2>
+
+<!--#set var="when" value="09 Settembre 2003" -->
+
+<!--#set var="what" value="Attivato il sistema di valutazione degli articoli." -->
+<!--#include virtual="$base/frags/news.shtml" -->
+
+<!--#set var="what" value="Adesso nella nota di copyright è riportato anche l'URL collegabile dell'articolo." -->
+<!--#include virtual="$base/frags/news.shtml" -->
+
+<!--#set var="when" value="03 Settembre 2003" -->
+
+<!--#set var="what" value="È stato adottato un semplice sistema di blog. Forse non lo userò mai." -->
+<!--#include virtual="$base/frags/news.shtml" -->
+
+<!--#set var="when" value="28 Agosto 2003" -->
+
+<!--#include virtual="$base/scolug/scolug-v.shtml" -->
+<!--#include virtual="$base/frags/art-news.shtml" -->
+
+<!--#include virtual="$base/ripensamento/ripensamento-v.shtml" -->
+<!--#include virtual="$base/frags/art-news.shtml" -->
+
+<!--#include virtual="$base/yolanda/yolanda-v.shtml" -->
+<!--#include virtual="$base/frags/art-news.shtml" -->
+
+<!--#include virtual="$base/satan/satan-v.shtml" -->
+<!--#include virtual="$base/frags/art-news.shtml" -->
+
+<!--#set var="when" value="1 Giugno 2003" -->
+<!--#include virtual="$base/mankind/mankind-v.shtml" -->
+<!--#include virtual="$base/frags/art-news.shtml" -->
+
+<!--#set var="when" value="24 Maggio 2003" -->
+<!--#include virtual="$base/panel/panel-v.shtml" -->
+<!--#include virtual="$base/frags/art-news.shtml" -->
+
+<!--#set var="when" value="24 Maggio 2003" -->
+<!--#include virtual="$base/mankind/mankind-v.shtml" -->
+<!--#include virtual="$base/frags/art-news.shtml" -->
+
+<!--#set var="when" value="12 Maggio 2003" -->
+<!--#include virtual="$base/primavera/primavera-v.shtml" -->
+<!--#include virtual="$base/frags/art-news.shtml" -->
+
+<!--#set var="when" value="12 Maggio 2003" -->
+<!--#include virtual="$base/winwin/winwin-v.shtml" -->
+<!--#include virtual="$base/frags/art-news.shtml" -->
+
+
+<!--#set var="when" value="1 Aprile 2003" -->
+<!--#include virtual="$base/unaelle/unaelle-v.shtml" -->
+<!--#include virtual="$base/frags/art-news.shtml" -->
+
+
+<!--#set var="when" value="31 Marzo 2003" -->
+<!--#set var="what" value="È in linea il nuovo sito." -->
+<!--#include virtual="$base/frags/news.shtml" -->
+
+<!--#set var="when" value="1 Marzo 2003" -->
+<!--#include virtual="$base/disobbedienti/disobbedienti-v.shtml" -->
+<!--#include virtual="$base/frags/art-news.shtml" -->
+
+<!--#set var="when" value="1 Febbraio 2003" -->
+<!--#include virtual="$base/india/india-v.shtml" -->
+<!--#include virtual="$base/frags/art-news.shtml" -->
+
+
+<!--#set var="follow" value="" -->

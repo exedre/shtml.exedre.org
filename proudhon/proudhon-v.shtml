@@ -1,0 +1,20 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="date"      value="30 Maggio 2001" -->
+<!--#set var="dir"      value="proudhon" -->
+<!--#set var="file"      value="proudhon-f.shtml" -->
+<!--#set var="flink"      value="/./proudhon/proudhon-f.shtml" -->
+<!--#set var="follow"      value="" -->
+<!--#set var="ilink"      value="/./proudhon/proudhon.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="proudhon" -->
+<!--#set var="keywords"      value="Bill Gates, Richard Stallman, Pubblica Amministrazione, exedre" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="proudhon" -->
+<!--#set var="lm"      value="" -->
+<!--#set var="next"      value="disobbedienti" -->
+<!--#set var="prev"      value="." -->
+<!--#set var="subtitle"      value="Come Proudhon divenne l'ispiratore della idee" -->
+<!--#set var="subtitle1"      value="delle più grandi multinazionali della Terra" -->
+<!--#set var="title"      value="L'antipirateria dice: La proprietà privata è un furto" -->

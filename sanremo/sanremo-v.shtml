@@ -1,0 +1,19 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="date"      value="04 Marzo 2005" -->
+<!--#set var="dir"      value="sanremo" -->
+<!--#set var="file"      value="sanremo-f.shtml" -->
+<!--#set var="flink"      value="/./sanremo/sanremo-f.shtml" -->
+<!--#set var="follow"      value="" -->
+<!--#set var="ilink"      value="/./sanremo/sanremo.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="sanremo" -->
+<!--#set var="keywords"      value="Antipirateria, pirateria, econtent, vigevano, exedre" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="base" -->
+<!--#set var="lm"      value="" -->
+<!--#set var="next"      value="disobbedienti" -->
+<!--#set var="prev"      value="." -->
+<!--#set var="subtitle"      value="Mega-celebrazione a Sanremo del Patto anti-pirateria: grandi editori e burocrazie pubbliche contro cittadini e buon senso. Avessero almeno copiato bene il compito!" -->
+<!--#set var="title"      value="Antipirateria a Sanremo: un Patto d'Onore o un Mucchio Selvaggio" -->

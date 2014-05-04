@@ -1,0 +1,20 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="date"      value="16 Settembre 2003" -->
+<!--#set var="dir"      value="20030916sole" -->
+<!--#set var="file"      value="20030916sole-f.shtml" -->
+<!--#set var="flink"      value="/./20030916sole/20030916sole-f.shtml" -->
+<!--#set var="follow"      value="" -->
+<!--#set var="ilink"      value="/./20030916sole/20030916sole.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="20030916sole" -->
+<!--#set var="keywords"      value="Bill Gates, Richard Stallman, Pubblica Amministrazione, exedre" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="base" -->
+<!--#set var="lm"      value="" -->
+<!--#set var="next"      value="disobbedienti" -->
+<!--#set var="prev"      value="." -->
+<!--#set var="subtitle"      value="Anche senza Antitrust il mercato ha avuto la possibilità di contrastare il monopolio di Microsoft." -->
+<!--#set var="subtitle1"      value="Con le nuove regole sui brevetti software sarebbe stato, e sarà, impossibile." -->
+<!--#set var="title"      value="Meglio il mercato se non è legato" -->

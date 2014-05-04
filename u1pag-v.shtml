@@ -1,0 +1,17 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="date"      value="Marzo 2004" -->
+<!--#set var="dir"      value="." -->
+<!--#set var="file"      value="u1pag-f.shtml" -->
+<!--#set var="flink"      value="/.//u1pag-f.shtml" -->
+<!--#set var="ilink"      value="/.//u1pag.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="u1pag" -->
+<!--#set var="keywords"      value="Microsoft, Non-violenza, Marcuse" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="base" -->
+<!--#set var="next"      value="india" -->
+<!--#set var="prev"      value="." -->
+<!--#set var="subtitle"      value="Gli editoriali e gli articoli su Linux e l'Open Source" -->
+<!--#set var="title"      value="Linux, ovunquemente altrove" -->

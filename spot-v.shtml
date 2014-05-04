@@ -1,0 +1,6 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="flink"      value="/.//-f.shtml" -->
+<!--#set var="ilink"      value="/.//.shtml" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="name"      value="Sotto il riflettore" -->

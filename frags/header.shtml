@@ -1,0 +1,32 @@
+<!-- begin header.inc -*-html-*- -->
+
+<!-- This header comes from the www.linux.it one, but no structuring
+     commands are there, so the html files are valid even witout this one -->
+
+<!-- body bgcolor="#FFFFFF" text="#000000"
+ link="#FF00FF" vlink="#000000" alink="#88AA88" -->
+<div align=center>
+<table border=0 cellspacing=0 cellpadding=2 width="100%" align=center>
+<tr><td>
+<a href=<!--#echo var='base'--> > <img src=<!--#echo var='base'-->/imgs/emmanuele.jpg alt="e!"  height=130 align=left></a>
+  </td>
+  <td>
+  <font size="+3">Exedre.org: software libero e altre amenità</font>
+  <br><font size="-2">di Emmanuele Somma</font>
+</td></tr></table>
+</div>
+<div align="center">
+<table border=0 cellspacing=0 cellpadding=2 width="100%" align=center
+ bgcolor="#808080">
+<tr>
+ <td align=center><a href="http://www.linux.it/GNU/">GNUweb</a></td>
+ <td align=center><a href="http://www.fsfeurope.org/">FSF-Europe</a></td>
+ <td align=center><a href="http://www.softwarelibero.it/">softwarelibero.it</a></td>
+ <td align=center><a href="http://www.linux.it/">linux.it</a></td>
+ <td align=center><a href="http://www.linux-magazine.it/">Linux Magazine</a></td>
+ <td align=center><a href="http://www.radiolinux.info/">Radio Linux<font color=red>!</font></a></td>
+ <td align=center><a href="http://www.google.com/search?rls=it-it&q=rotori+iperciclici&ie=UTF-8&oe=UTF-8/"><font color=#808080>rotori iperciclici</font></a></td>
+</tr>
+</table>
+</div>
+<!-- end header.inc -->

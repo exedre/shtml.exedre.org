@@ -1,0 +1,45 @@
+<!-- Info Element -->
+<h2>Informazioni su <!--#echo var='site'--></h2>
+
+In questo sito sto cercando di raccogliere alcune delle cose che ho
+scritto e fatto in questi ultimi anni. Piano piano cercherò di
+completare questa raccolta e di aggiungere quanto manca.
+
+
+<H4>Alcuni rigraziamenti</h4>
+
+<P>Un ringraziamento speciale va ad Edizioni Master srl per aver
+creduto nel progetto di Linux Magazine e per essersi impegnata ben
+oltre il necessario per sostenerlo.
+
+<P>Un grazie anche a tutti i collaboratori di Linux Magazine, quelli
+attuali, quelli passati e soprattutto quelli futuri. É un vero piacere
+lavorare con voi.
+
+<p>Infine un grazie molto caloroso alle varie comunità Linux, del
+Software Libero e dell'Open Source, per aver sempre supportato Linux
+Magazine con estrema 'pazienza' per i nostri inevitabili errori.
+ 
+ <blockquote>
+ <p align=center>
+	<br>
+ <a href='http://www.edmaster.it' target='_blank'><img src='$base/imgs/master.tiff' border=0 alt='Visita edmaster.it - Il tuo sapere tecnologico'></a> 
+	<br>
+        <br>
+        <br>
+        <font color='#00000' class='size2'><b>il tuo sapere tecnologico</b></font>
+ </p>
+
+ <p align=center>
+	<br>
+	<a href='http://www.edmaster.it/linuxmag'>
+		<img src='http://www.edmaster.it/img/prodotti/loghi/logo-linuxmag.gif'/>
+	</a> <br>
+        <br>
+        <br>
+        <font color='#FF0000' class='size2'><b>PER LINUX, CON LINUX, IN LINUX</b></font>
+ </p>
+ </blockquote>
+
+
+

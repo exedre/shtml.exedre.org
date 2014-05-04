@@ -1,0 +1,33 @@
+<!--#include virtual="$base/frags/newsletter-title.shtml" -->
+
+<p><i>Brevi note di presentazione
+</i>
+
+<h2>Sommario</h2>
+
+<!--#include virtual="$base/1dim/1dim-v.shtml"-->
+<!--#include virtual="$base/frags/newsletter-call.shtml" -->
+
+<!--#include virtual="$base/disobbedienti/disobbedienti-v.shtml"-->
+<!--#include virtual="$base/frags/newsletter-call.shtml" -->
+
+
+<!--#include virtual="$base/1dim/1dim-v.shtml"-->
+<!--#set var="license"      value="" -->
+<!--#set var="bio"      value="" -->
+<!--#set var="comments"      value="" -->
+<!--#include virtual="$base/1dim/1dim-f.shtml"-->
+
+<!--#include virtual="$base/disobbedienti/disobbedienti-v.shtml"-->
+<!--#set var="license"      value="" -->
+<!--#set var="bio"      value="" -->
+<!--#set var="comments"      value="" -->
+<!--#include virtual="$base/disobbedienti/disobbedienti-f.shtml"-->
+
+
+
+<!--#include virtual="$base/frags/firma.shtml" -->
+
+<!--#set var="license"      value="base" -->
+<!--#set var="bio"      value="small" -->
+<!--#include virtual="$base/frags/art-accessori.shtml" -->

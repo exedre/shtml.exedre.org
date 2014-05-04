@@ -1,0 +1,5 @@
+<!-- Lancio dell'articolo -->
+
+<p><!--#echo var="when"--> - Pubblicato <a href='/<!--#echo var="dir"-->'><!--#echo var="title"--></a>
+ (<I><!--#echo var="subtitle"--> <!--#if expr="$subtitle1 != ''" --> <!--#echo var="subtitle1"--> <!--#endif --></i>) <!--#echo var="date"--> 
+<br>

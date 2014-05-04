@@ -1,0 +1,19 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="date"      value="Ottobre 1999" -->
+<!--#set var="dir"      value="1dim" -->
+<!--#set var="file"      value="1dim-f.shtml" -->
+<!--#set var="flink"      value="/./1dim/1dim-f.shtml" -->
+<!--#set var="ilink"      value="/./1dim/1dim.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="1dim" -->
+<!--#set var="keywords"      value="Microsoft, Non-violenza, Marcuse" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="base" -->
+<!--#set var="lm"      value="come editoriale su Linux Magazine n. 1 Ottobre 1999" -->
+<!--#set var="next"      value="india" -->
+<!--#set var="prev"      value="." -->
+<!--#set var="subtitle"      value="Una confortevole, levigata, ragionevole, democratica non-libertà" -->
+<!--#set var="subtitle1"      value="prevale nella civiltà informatica avanzata, segno di progresso tecnico: Microsoft." -->
+<!--#set var="title"      value="Il desktop ad una dimensione" -->

@@ -1,0 +1,18 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="date"      value="Gennaio 2003" -->
+<!--#set var="dir"      value="cnoright" -->
+<!--#set var="file"      value="cnoright-f.shtml" -->
+<!--#set var="flink"      value="/./cnoright/cnoright-f.shtml" -->
+<!--#set var="ilink"      value="/./cnoright/cnoright.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="cnoright" -->
+<!--#set var="keywords"      value="Pirateria, Diritti Digitali, exedre" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="base" -->
+<!--#set var="lm"      value="come editoriale su Linux Magazine n. 25 Gennaio 2003" -->
+<!--#set var="next"      value="india" -->
+<!--#set var="prev"      value="." -->
+<!--#set var="subtitle"      value="Come responsabile della condanna e censura dello spot contro la pirateria realizzato dalla Business Software Alliance, l'alleanza dei principali produttori di software proprietario tra cui Microsoft, Adobe, Apple e IBM, mi sento in dovere di tornare sull'argomento per affrontare un problema correlato" -->
+<!--#set var="title"      value="Copiare software non è un reato! Copiare software non è un diritto!" -->

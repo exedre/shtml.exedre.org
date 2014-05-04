@@ -1,0 +1,8 @@
+<p><a href='#<!--#echo var="dir"-->'><!--#echo var="title"--></a>
+<br><I><!--#echo var="subtitle"-->
+<!--#if expr="$subtitle1 != ''" -->
+<br><!--#echo var="subtitle1"-->
+<!--#endif -->
+</i>
+<br><!--#echo var="date"-->
+<br>

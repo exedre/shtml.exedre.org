@@ -1,0 +1,20 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="none" -->
+<!--#set var="date"      value="Agosto 2004" -->
+<!--#set var="dir"      value="trucchi1" -->
+<!--#set var="file"      value="trucchi1-f.shtml" -->
+<!--#set var="flink"      value="/./trucchi1/trucchi1-f.shtml" -->
+<!--#set var="follow"      value="" -->
+<!--#set var="ilink"      value="/./trucchi1/trucchi1.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="trucchi1" -->
+<!--#set var="keywords"      value="BSA, Yolanda Rios, Pirateria, Neruda, exedre" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="reserved" -->
+<!--#set var="lm"      value="" -->
+<!--#set var="next"      value="proudhon" -->
+<!--#set var="prev"      value="." -->
+<!--#set var="serie"      value="Senza carte truccate sul tavolo dell' anti-pirateria (1 di 3)" -->
+<!--#set var="subtitle"      value="Dati scientifici all'acqua pazza in ricetta di Seattle" -->
+<!--#set var="title"      value="44% di pirati in fila per 6% col resto di 2%" -->

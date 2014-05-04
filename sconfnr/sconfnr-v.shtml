@@ -1,0 +1,20 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="" -->
+<!--#set var="date"      value="24 Novembre 2003" -->
+<!--#set var="dir"      value="sconfnr" -->
+<!--#set var="file"      value="sconfnr-f.shtml" -->
+<!--#set var="flink"      value="/./sconfnr/sconfnr-f.shtml" -->
+<!--#set var="follow"      value="" -->
+<!--#set var="ilink"      value="/./sconfnr/sconfnr.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="sconfnr" -->
+<!--#set var="keywords"      value="SCO, exedre" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="" -->
+<!--#set var="lm"      value="" -->
+<!--#set var="next"      value="disobbedienti" -->
+<!--#set var="prev"      value="." -->
+<!--#set var="subtitle"      value="di Eben Moglen (Free Software Foundation)" -->
+<!--#set var="title"      value="SCO / Senza paura e senza ricerca" -->
+<!--#set var="translation"      value="yes" -->

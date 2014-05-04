@@ -1,0 +1,5 @@
+<center>
+
+<hr width=90%>
+<p class=footer>[ <a href='/<!--#echo var="prev" -->'>&lt;</a> ][ <a href="/./copy.shtml">&copy;</a> ][ <a href="http://exedre.xed.it/">blog</a> ][ <a href="/./home.shtml">home</a> ][ <a href="/./theindex.shtml">index</a> ][ <a href="/./last/">last</a> ][ <a href="/./news/">news</a> ][ <a href='/<!--#echo var="next" -->'>&gt;</a> ]
+</center>

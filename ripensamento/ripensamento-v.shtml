@@ -1,0 +1,19 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="date"      value="24 Maggio 2001" -->
+<!--#set var="dir"      value="ripensamento" -->
+<!--#set var="file"      value="ripensamento-f.shtml" -->
+<!--#set var="flink"      value="/./ripensamento/ripensamento-f.shtml" -->
+<!--#set var="follow"      value="" -->
+<!--#set var="ilink"      value="/./ripensamento/ripensamento.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="ripensamento" -->
+<!--#set var="keywords"      value="Bill Gates, Richard Stallman, Pubblica Amministrazione, exedre" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="base" -->
+<!--#set var="lm"      value="" -->
+<!--#set var="next"      value="proudhon" -->
+<!--#set var="prev"      value="." -->
+<!--#set var="subtitle"      value="Intervento sulla mailing-list dell'Associazione Software Libero" -->
+<!--#set var="title"      value="Per un generale ripensamento sul supporto a *questa*  anti-pirateria" -->

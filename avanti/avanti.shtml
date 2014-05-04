@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+ <head>
+ 
+  <link rel="shortcut icon" href="favicon.ico" >
+ 
+ <!--#include virtual="/./vars.shtml" -->
+ <!--#include virtual="avanti-v.shtml" -->
+ 
+   <title><!--#echo var="sitedesc" -->: <!--#echo var="title" --></title>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="KEYWORDS" content='<!--#echo var="keywords" -->'>
+   <meta name="language" content="italian">
+   <link href=<!--#echo var='base'-->/frags/gnu-it.css rel="stylesheet" type="text/css">
+ 
+ 
+ </head>
+<body>
+ <!--#include virtual="$base/frags/header.shtml" -->
+ <table width=100% >
+ <tr valign=top>
+ <td width=140 > 
+ <!--#if expr="$sidebar=yes" -->
+     <!--#include virtual="$base/left-f.shtml" -->
+ <!--#endif -->
+ 
+ </td> 
+ <td width=80% >
+ <!--#include virtual="$file" -->
+ </td>
+ <td width=10% >
+ </td>
+ </tr>
+ <tr>
+ <td width=10% >
+ </td>
+ <td>
+ </td>
+ <td width=25% >
+ </td>
+ </tr>
+ </table>
+ 
+  
+ <!--#include virtual="$base/frags/footer.shtml" -->
+ 
+ </body>
+ </html> 
+
+</html>

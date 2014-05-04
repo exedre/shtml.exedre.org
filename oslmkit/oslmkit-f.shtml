@@ -1,0 +1,381 @@
+<!--#include virtual="$base/frags/art-title.shtml" -->
+
+<p>%%ARTICOLO
+
+<H4>Come consegnare un articolo perfetto
+
+<p><i>Le "regole" di Linux Magazine per consegnare un articolo</i>
+
+<p>Il formato dei documenti è pensato per poter essere scritto con un
+semplice editor di testo. L'editor di testo è la scelta
+consigliabile. Nell'usare invece un programma di word-processing
+l'autore dovrà farne un uso molto basilare, come se fosse un semplice
+editor e quindi trascurare ogni particolarità propria di questo tipo
+di programmi: titoli, tipi di carattere, formattazioni specifiche o
+modelli di documento. In particolare
+<b>tutto</b> quello che viene scritto in un programma di
+word-processing dovrebbe risultare completo anche se salvato in
+formato di semplice testo. <b>NON</b> dovranno essere introdotte le
+figure nel testo dell'articolo, che invece vanno allegate all'archivio
+spedito e solo richiamate all'interno dell'articolo con la dizione
+"(vedi Figura &lt;N>)", preferibilmente, oltre ad indicarne, alla
+fine, la didascalia.
+
+<p>I documenti devono essere consegnati in formato ".TXT con o senza
+interruzioni di riga" o .".RTF", o ".SXW" (o altri formati, non
+consigliati, gestiti dal programma OpenOffice v. 1). Il formato HTML è
+accettato solo se generato direttamente da un editor testuale o da uno
+strumento WYSIWYG, che non crei automaticamente alcun tipo di
+formattazione.  Non ci deve essere nessuna specificazione di stili,
+tipi di carattere (font), corpi o colori, allineamenti ecc.
+
+<p>La codifica dei caratteri dovrebbe essere quella Centro-Europea
+(ISO-8859-1 detto anche Latin1), è accettabile la variante con l'Euro
+(ISO-8859-15 - Western Europe Euro). Come 'a capo' è sufficiente usare
+il Line Feed (LF), non è necessario usare il Carriage Return (CR) o
+ambedue (vedi <b>Figura 1</b>)
+
+<p>Per iniziare bisogna <i>decidere un nome per l'etichetta
+identificativa dell'articolo</i>, deve essere un breve nome o una
+sigla. Bisogna cercare di evitare una cosa troppo generica come
+'articolo'. E' però possibile usare anche il proprio cognome o il
+proprio 'nick' (a meno che non si consegnino insieme più articoli). Si
+dovrebbe cercare di contenere l'etichetta entro i dieci caratteri.
+
+<p>Si deve creare una directory (una cartella) denominata come
+l'etichetta scelta.
+
+<p>Aprire all'interno della directory un file di testo chiamato
+"articolo.lm.txt" o meglio ancora &lt;etichetta>.lm.txt con un comune
+editor di testo. Scrivere "%%ARTICOLO" sulla prima linea e andare a
+capo.
+
+<p>Inserire il titolo dell'articolo. Il titolo potrà essere cambiato
+dalla redazione ma l'autore dovrebbe sforzarsi sempre di inserire un
+titolo breve e significativo. Cinque parole sono probabilmente
+troppe. Andare a capo e lasciare una riga vuota. Per parola si intende
+qualsiasi cosa sia separata da uno spazio o un segno
+d'interpunzione.Quindi "L'alleato del pinguino" sono quattro
+parole. (se si sta leggendo quest'articolo online su <a
+href="http://www.exedre.org/oslmkit/">www.exedre.org/oslmkit</a>
+<b>NON</b> cercate di imitare il fatto che il titolo è scritto in un
+diverso carattere).
+
+<p>Dopo il titolo inserire il sottotitolo: non meno di dieci e non più
+di quindici parole che introducono l'articolo. Anche il sottotitolo potrà
+essere cambiato dalla redazione secondo le esigenze, ma è
+assolutamente importante che questo elemento sia estremamente curato,
+è la parte più importante dell'articolo. Andare a capo e lasciare una
+riga vuota.
+
+<p>Inserire uno o più paragrafi introduttivi. Un centinaio di parole
+sono ok. Questo è il paragrafo più importante dell'articolo. Questo
+non è un "cappello" introduttivo, ma forse il posto migliore per
+applicare la vecchia regola del giornalismo americano della "delle 5
+W nelle prime cinque righe": Who, What, Where, When, Why.
+
+<p>Separare sempre un paragrafo dall'altro con una linea vuota.
+
+<p>Dopo l'introduzione continuare l'articolo usando dei capitoli, il
+cui titolo deve essere breve (5 parole sono troppe) indicato da un
+asterisco nella prima colonna. L'ultimo capitolo dell'articolo si
+chiama "* Conclusioni" e riassume la sostanza dell'articolo. Prestare
+particolare attenzione a questa chiusura. La lunghezza dei capitoli
+dovrebbe essere non eccessiva (300 parole per capitolo sono troppe, 50
+per le conclusioni).
+
+<p>Inserire infine, allineata a sinistra, la firma. In assenza di
+questa firma l'articolo potrebbe essere pubblicato in forma
+anonima. Linux Magazine non garantisce la pubblicazione degli
+indirizzi di email dei propri collaboratori.
+
+<p>A questo punto occuparsi degli elementi aggiuntivi: figure,
+riquadri e listati. Le didascalie delle figure vanno inserite di
+seguito: introdurre una divisione nel testo scrivendo "%%FIGURE" e poi
+di seguito una didascalia per ogni immagine come la seguente:
+
+<p>&lt;Figura 1 - Una descrizione sufficientemente accurata della figura
+riportata. Deve essere di almeno di dieci parole.
+
+<p>Dopo la sezione delle figure può essere inserita una sezione per i
+riquadri separata con l'indicazione "%%RIQUADRI" ed introdotta da una
+didascalia come quella delle figure.
+
+<p>
+&lt;Riquadro 1 - Riferimenti bibliografici 
+
+<br>[1] Aho A. V., Sethi R. e Ullman J. D. "Compilers Principles,
+Techinques and Tools" Addison-Wesley, 1986
+
+<p>Se sono presenti listati si può inserire una nuova sezione
+"%%LISTATI" con le relative didascalie. Anche in questo caso la
+didascalia deve essere di 10 parole almeno.
+
+<p>Terminata la stesura dell'articolo è il momento di unire
+all'interno della cartella gli elementi aggiuntivi come le figure e i
+listati. I listati vanno inseriti in file in formato testo denominati
+'listato1.txt', 'listato2.txt', ecc. ecc. Le figure vanno salvate con
+il nome 'fig1', 'fig2', ecc. ecc. seguito dall'appropriata estensione
+(".png", ".tiff", ".jpg", ecc. ).
+
+<p>Per le figure il formato privilegiato è il tiff, in alternativa è
+possibile usare png, gif o jpeg, scelti correttamente a secondo del
+tipo di immagine (ovvero per le fotografie va bene jpg, per le
+immagini sintetiche, come gli screenshot, meglio bmp, png o gif).
+
+<p>A questo punto la cartella va compressa, con zip o con tar
+compresso (includendo l'intera directory), e spedita.
+
+<h4>* Dimensioni di un articolo</h4>
+
+<p>Gli articoli vengono commissionati per pagine. All'autore viene
+cioè chiesto di riempire un certo numero di pagine. Esiste una regola
+semplice e diretta desunta da una vasta esperienza che ci porta a dire
+che <b>una pagina</b> si completa con una media di <b>600
+parole</b>. Questo è un valore medio, cioè vale in condizioni
+'standard'. Ovvero per un articolo di 4 pagine, in presenza di un
+titolo grande e un sottotitolo sulla prima pagina, e considerando la
+presenza di una figura full-screen (800x600) per pagina. L'autore è
+tenuto a rispettare questa specifica con estrema precisione, può
+sforare <b>solo in eccesso</b> in una misura non superiore al 10%. Non
+è pensabile che sia pubblicato un articolo che non raggiunga un
+multiplo di 600 parole. Per allungare un articolo breve si consiglia
+di aggiungere un riquadro contenente materiale significativo, in
+alternativa la redazione potrebbe operare un taglio del testo
+dell'articolo per ridurre le dimensioni dell'impaginato.
+
+<p>Un articolo 'standard' è di 4 pagine. Un articolo 'approfondito'
+può raggiungere le 5 o, molto raramente, le 6. Una presentazione di
+software può essere anche 3 pagine. Le rubriche fisse su aspetti di
+attualità o di approfondimento sono di 2 pagine. 
+
+<p>È importantissimo rispettare il dimensionamento degli altri
+elementi di un articolo, come titolo, sottotitolo e didascalie di
+figure e di listati. 
+
+<ul>
+<li>Titolo, meno di cinque parole;
+<li>Sottotitolo, più di dieci e meno di venti parole;
+<li>Didascalie di Figure e di Listati, almeno dieci parole;
+<li>Didascalie di Riquadri, non più di dieci;
+<li>Paragrafo introduttivo, un centinaio di parole;
+<li>Paragrafo conclusivo, una cinquantina di parole;
+<li>Capitoli, non più di trecento parole;
+</ul>
+
+<p>Tutte queste regole vanno intese come elastiche e non obbligatorie,
+ma rispecchiano l'esperienza ormai pluriennale della redazione. Per
+non attenervisi è necessario <b>sapere bene quello che si sta
+facendo</b>.
+
+<h4>* Formato dei testi e link</h4>
+
+<p>Per tutto il testo usare solo il formato "normale" o plain
+text. Non usare corpi diversi per i titoli: l'aspetto grafico finale è
+compito della redazione.
+
+<p>Il carattere grassetto, il sottolineato o il corsivo <b>non</b> devono
+essere usati. Per dare particolare enfasi a singole parole o brevi
+espressioni, oppure in brevi paragrafi di sintesi, o nel riportare in
+modo letterale delle citazioni possono essere le virgolette. In
+impaginazione saranno eventualmente tramutate nel tipo di enfasi
+opportuno.
+
+<p>I link vanno indicati in chiaro nel corpo del testo, inserendoli
+tra parentesi tonde.  Per esempio: "Un articolo su Slashdot
+(http://www.slashdot.org) di ieri riferiva..." E' possibile spostare
+questi collegamenti in un riquadro e richiamarli con un semplice
+numero di riferimento tra parentesi quadre, ma non è consigliabile:
+per motivi di spazio il riquadro potrebbe 'saltare' durante
+l'impaginazione.
+
+<h4>* Citazioni e Note</h4>
+
+<p>Le brevi citazioni nel corpo del testo possono essere indicate "tra
+virgolette". 
+
+<p>Non è necessario indicare la fonte delle informazioni con i
+relativi link.
+
+<p>Non è possibile inserire note a piè di pagina negli articoli di
+Linux Magazine. Per le note generiche è possibile realizzarle in un
+riquadro richiamate da un numero o un simbolo tra parentesi quadre. Le
+note sono però sempre considerate elementi aggiuntivi all'articolo e
+passibili di eliminazione, non devono quindi contenere informazioni
+rilevanti ai fini della comprensione dell'articolo.
+
+<h4>* Ortografia</h4>
+
+<h5>Uso delle maiuscole</h5>
+
+<p>L'ortografia italiana prescrive che la maiuscola si usi solo all'
+inizio di periodo, dopo un punto fermo, esclamativo o interrogativo, o
+per indicare nomi propri. Si usa anche per indicare istituzioni e alte
+cariche, solo quando il riferimento è alla funzione istituzionale. 
+
+<p>In alcuni casi è potrebbe essere preferibile seguire l'ortografia
+anglosassone che prescrive l'uso di maiuscole in tutte le parole
+dell'espressione. Ad esempio invece dell'italiano: "la legge sulla
+tutela dei dati personali", potrebbe essere meglio usare "la Legge
+sulla Tutela dei Dati Personali" Questo è lasciato a discrezione
+dell'autore ed eventualmente sarà corretto in fase di impaginazione
+per uniformità stilistica.
+
+<p>L'ortografia italiana, comunque, prescrive che gli aggettivi hanno
+sempre l'iniziale minuscola, e che si dovrebbe evitare di scrivere
+lunghe sequenze di parole che iniziano con la maiuscola, basta la
+prima. Ad es.: il Garante per la protezione dei dati personali, il
+Ministero delle finanze ecc.
+
+<p>I nomi comuni iniziano sempre con la minuscola: ingegnere,
+programmatore, avvocato, legge, decreto, ecc. La maiuscola è ammessa
+quando si vuole dare particolare enfasi alla parola.
+
+<h5>Sigle e abbreviazioni</h5>
+
+<p>Le sigle sono scritte secondo lo standard UNI, in tutte lettere
+maiuscole e senza punti. GIMP e non G.I.M.P.
+
+<h5>Punteggiatura</h5>
+
+<p>I segni di interpunzione sono uniti alla parola che precede e separati
+da uno spazio dalla parola che segue. Questo vale sempre. 
+
+<p>Le parentesi e le virgolette sono unite al testo che racchiudono e
+separate da uno spazio dal testo circostante: è corretto questo "testo
+tra virgolette", mentre è sbagliato questo " testo tra virgolette ".
+
+<p>Il segno di interpunzione segue, di norma, la chiusura della parentesi
+o delle virgolette.  A differenza delle parentesi, trattini che
+separano gli incisi hanno lo spazio prima e dopo - come questo - e non
+sono attaccati alle parole che racchiudono -in questo modo-.
+
+<p>Non è necessario andare a capo ad ogni punto fermo,
+né saltare una riga ad ogni a capo. I salti di riga devono essere
+usati per indicare la fine di un paragrafo che separa concetti
+diversi.
+
+<h5>Qualche nota di stile</h5>
+
+<p>Usare frasi brevi, separate da punti fermi. Evitare le
+concatenazioni di frasi subordinate.
+
+<p>Ricordare sempre che Linux Magazine non è letta solo da informatici
+professionisti, o da tecnici in genere, ma anche da persone curiose
+che hanno voglia di iniziare. E anche loro hanno il diritto di capire,
+oltre che poco tempo da perdere. Sarebbe buona regola cercare di
+dividere l'articolo in tre parti: una introduzione generica che
+potrebbe leggere chiunque, un corpo che approfondisce l'argomento che
+si vuole presentare ed infine una conclusione che lo riassume a grandi
+linee.
+
+<p>Si consiglia di scrivere la parola "internet" con la minuscola e
+senza l'articolo: "in internet", e non "nella internet". Se la si
+chiama Rete, o "Rete delle reti", va invece scritta in maiuscolo.
+
+<p>I titoli non vanno conclusi con un segno di interpunzione.
+
+<p>Le parole inglesi sono considerate "indeclinabili", quindi non
+assumono in italiano il plurale secondo le regole inglesi. Si scriverà
+"i pixel" e non i "i pixels", "i browser" e non "i browsers".
+
+<h5>Regole sfuse</h5>
+
+<ul>
+
+<li>Tutto il necessario per l'impaginazione di un articolo deve essere
+contenuto in un archivio zip o tar.gz (meglio se contiene una
+directory apposita);
+
+<li>il testo dell´articolo deve essere presente in un solo file
+principale (meglio se denominato, ad esempio, "&lt;etichetta>.lm.txt");
+
+<li>se si vogliono inserire alcune informazioni per gli impaginatori
+si devono aggiungere in testa all'articolo - prima del titolo - con la
+dicitura "PER GLI IMPAGINATORI"
+
+<li>Le didascalie delle figure e dei listati devono necessariamente
+essere di almeno 10 parole. Quelle dei riquadri possono essere più
+brevi.
+
+</ul>
+
+
+ <!--
+
+<h4/Alcuni esempi/
+
+<h5/Titoli particolarmente azzeccati/
+
+<h5/Buoni sottotitoli/
+
+<h5/Didascalie efficaci/
+
+<h5/Paragradi introduttivi/
+
+<h5/Conclusioni/
+
+Inglese plurale
+
+
+<h5/Un aiuto da Emacs/
+
+<p>Emacs può dare una mano per scrivere un articolo per Linux
+Magazine. 
+
+
+<ul>
+<li>il testo dell´articolo deve essere presente in un solo file
+principale (denominato, ad esempio, articolo.txt) 
+
+<li>se si vogliono inserire alcune informazioni per gli impaginatori
+si devono aggiungere in testa all'articolo - prima del titolo - con la
+dicitura "PER GLI IMPAGINATORI"
+
+<li>Le didascalie delle figure e dei listati devono necessariamente
+essere di almeno 10 parole. Quelle dei riquadri possono essere più
+brevi.
+
+</ul>
+-->
+
+<p>%%RIQUADRI
+
+<p>&lt;Riquadro 1 - Aiuti per l'autore
+
+<p>Esistono due strumenti per aiutare l'autore degli articoli.
+
+<ul>
+<li>Un 'modo maggiore' di Emacs che mette a disposizione un metodo per
+contare le parole di un articolo, si chiama con il comando:
+<br>M-x load-file &lt;RET> elmmm-mode.el &lt;RET>
+<br>M-x elmm-mode &lt;RET>
+<br>M-x count-words-article (oppure C-c c w )
+
+<li>Un 'hack' in perl (chiamato "lm-hints") che da qualche suggerimento sulla redazione
+degli articoli. Ad esempio avendo il proprio articolo con l'etichetta
+'bellarticolo' contenuto nell'apposita directory si portà usare:
+
+<br> > lm-hint bellarticolo 
+<br>99.9  - Modifica  la didascalia della figura n. 3. Dovrebbe essere di almeno 10 parole Adesso è di 6. (costo: 2.3538526683702e+19 - disciplina: e10=esponenziale*10)
+<br>0     - Modifica  la didascalia del riquadro n. 2. Dovrebbe essere di non più di 300 parole Adesso è di 375. (costo: 7500 - disciplina: l=lineare*1)
+<br>0     - Modifica  la didascalia del riquadro n. 1. Dovrebbe essere di non più di 300 parole Adesso è di 429. (costo: 12900 - disciplina: l=lineare*1)
+<br>0     - Modifica il titolo. Dovrebbe essere di non più di 40 caratteri Adesso è di 54. (costo: 120260428.4 - disciplina: e1=esponenziale*1)
+<br>0     - Modifica il titolo. Dovrebbe essere di non più di 6 parole Adesso è di 7. (costo: 271.8 - disciplina: e1=esponenziale*1)
+<br>0     - Modifica il sottotitolo. Dovrebbe essere di non più di 20 parole Adesso è di 27. (costo: 109663.3 - disciplina: e1=esponenziale*1)
+<br>0     - Modifica l'introduzione. Dovrebbe essere di non più di 200 parole Adesso è di 794. (costo: 59400 - disciplina: l=lineare*1)
+<br>0     - Modifica  il corpo del capitolo n. 2. Dovrebbe essere di non più di 300 parole Adesso è di 655. (costo: 3550 - disciplina: l.1=lineare*.1)
+<br>0     - Modifica  il corpo del capitolo n. 1. Dovrebbe essere di non più di 300 parole Adesso è di 771. (costo: 4710 - disciplina: l.1=lineare*.1)
+<br>0     - Modifica le conclusioni. Dovrebbe essere di almeno 50 parole Adesso è di 0. (costo: 50000 - disciplina: l10=lineare*10)
+<br>
+<br>La prima colonna contiene un indicatore percentuale della 'gravità' del problema. Segue una descrizione, infine tra parentesi una indicazione (non significativa per i più, del "costo" assoluto del problema e della disciplina con cui viene trattato il problema composto da un funzionale, esponenziale o lineare, ed un eventuale moltiplicatore, che calcolano il costo a partire dalla distanza rispetto all'obiettivo standard. In generale si può dire che le violazioni lineari sono (molto) meno gravi di quelle esponenziali).
+</ul>
+
+<p>%%FIGURE
+
+<p>&lt;Figura 1 - Il pannello di OpenOffice per il salvataggio del
+documento in formato testo.
+
+<!--#include virtual="$base/frags/firma.shtml" -->
+
+

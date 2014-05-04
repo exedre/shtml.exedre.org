@@ -1,0 +1,19 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="date"      value="Luglio 2003" -->
+<!--#set var="dir"      value="scolug" -->
+<!--#set var="file"      value="scolug-f.shtml" -->
+<!--#set var="flink"      value="/./scolug/scolug-f.shtml" -->
+<!--#set var="ilink"      value="/./scolug/scolug.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="scolug" -->
+<!--#set var="keywords"      value="SCO, Microsoft, software libero, linux" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="base" -->
+<!--#set var="lm"      value="come editoriale su Linux Magazine n. 32 Luglio/Agosto 2003" -->
+<!--#set var="next"      value="tirchi" -->
+<!--#set var="prev"      value="unaelle" -->
+<!--#set var="subtitle"      value="La pedina SCO nelle mani di Microsoft vuole fuddare Linux. " -->
+<!--#set var="subtitle1"      value="Resisteremo." -->
+<!--#set var="title"      value="SCO e il rigurgito di FUD" -->

@@ -1,0 +1,604 @@
+<!--#include virtual="$base/frags/art-title.shtml" -->
+
+<P>Il panel non è ancora aperto, ne stiamo studiando le regole. Nel
+frattempo puoi lasciare il tuo nominativo compilando il questionario
+in fondo a questa pagina se vuoi collaborare all'iniziativa.</P>
+
+<p>Se vuoi partecipare al gruppo di lavoro sul panel puoi richiederlo
+ad <a href="mailto:esomma@ieee.org?subject=Panel">Emmanuele Somma</a>.</p>
+
+<H2>Che cos'è un panel?</H2>
+
+<P>Un panel è una forma di indagine statistica che segue nel tempo
+l'evoluzione di un gruppo di persone. L'idea è quella di riproporre un
+questionario periodicamente per vedere come si sta evolvendo un
+fenomeno. La scelta di queste persone avviene in modo oculato per
+rappresentare la popolazione di riferimento.</P>
+
+<P>Prendiamo ad esempio Linux. Molti di coloro che si avvicinano a
+questo mondo non ne sanno molto all'inizio, ma pian piano la loro
+conoscenza aumenta fino al punto che sapranno usarlo in modo
+efficace.</P>
+
+<P>Fare seriamente una indagine del genere è molto difficile (per
+questo stiamo ancora discutendo sia sull'opportunità di farlo e su
+cosa fare). Inoltre è essenziale avere a disposizione un gran numero
+di partecipanti disponibili a mantenere l'impegno di rispondere ai
+questionari. Bisogna inoltre progettare i questionari in modo che
+siano semplici e brevi, per mantenere alto l'interesse dei
+partecipanti.</p>
+
+<h2>Come verranno usati i tuoi dati.</h2>
+
+<P>Useremo i tuoi dati solo per:</p>
+
+<div>
+<ul >
+<li><p>Contattarti per richiedere la tua disponibilità per un questionario specifico;</p></li>
+<li><p>Contattarti per avere informazioni specifiche dovute alle informazioni che hai inserito per cercare di capire meglio la realtà che vogliamo studiare;</p></li>
+<li><p>Informarti di questioni specificamente inerenti il panel Linux;</p></li>
+<li><p>Niente altro!</p>
+</ul>
+</div>
+
+<p>In particolare i dati rimarranno nella esclusiva disponibilità del
+responsabile (indicato alla fine di questa pagina) e non saranno
+ceduti a terzi per nessun motivo e per nessuna finalità. Se si
+renderanno disponibili iniziative simili negli obiettivi selezionando
+l'apposita casella del form si permetterà il traferimento del contatto
+verso quella iniziativa (e sarete comunque informati della cosa), in
+caso contrario vi sarà presentato il progetto e vi sarà chiesta
+esplicitamente l'adesione.</p>
+
+<p>Infine, poiché mi è stato esplicitamente richiesto, voglio
+sottolineare che non esiste nessuna relazione tra questa iniziativa e
+qualsivoglia iniziativa commerciale e/o editoriale. Le finalità di
+questo lavoro sono solo di natura scientifica.</p>
+
+<p>Attenzione. Secondo le informazioni che inserirai nei campi
+ sottostanti il tuo nominativo potrà essere selezionato direttamente
+ per gli specifici panel o sarai semplicemente considerato nel gruppo
+ di persone interessate alla cosa. Ovviamente ti invito a riportare il
+ maggior numero di informazioni possibili ma le uniche veramente
+ indispensabili sono Nome, Cognome e Email.</p>
+
+  <!-- inizio form -->
+ 
+  <FORM action="http://www.tiscali.it/cgi-bin/formmail.cgi" method="post">
+
+	<INPUT type="hidden" name="subject" value="Disponibilità Panel">
+  	
+	<!--  inserire al posto di userid@tiscali.it l'indirizzo email a cui desiderate sia inviato il form  -->
+	<INPUT type="hidden" name="recipient" value="emmanuele.somma@tiscali.it">
+    
+	<!--  inserire quali campi si desidera siano obbligatori  -->
+	<INPUT type="hidden" name="required" value="cognome,nome,email">
+    
+	<!--  inserire l'indirizzo della pagina html da caricare in caso di errori  -->
+	<INPUT type="hidden" name="missing_fields_redirect" value="http://www.exedre.org/frags/errore.html">
+
+	<!--  inserire l'indirizzo della pagina html di conferma  -->
+	<INPUT type="hidden" name="redirect" value="http://www.exedre.org/frags/conferma.html">
+
+    <table width="500" border="0" cellspacing="0" cellpadding="3" bgcolor="#00DD00">
+      <tr>
+        <td>
+          <table width="500" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFF0">
+            <tr valign="middle"> 
+              <td height="25" colspan="4" bgcolor="#00DD00"> <b><font size="2" face="Arial">Dati 
+                Personali </font></b></td>
+            </tr>
+            <tr valign="middle"> 
+              <td height="30" width="25%"> 
+                <div align="right"><font color="#FF0000" face="Arial" size="2"><b>*</b></font><font face="Arial" size="2"><b>Cognome:</b></font></div>
+              </td>
+              <td height="30" width="800" colspan="3">
+
+		<!--  campo in cui inserire il cognome (lunghezza campo 35)  -->
+		<input type="text" name="cognome" size="40">
+
+              </td>
+            </tr>
+            <tr valign="middle"> 
+              <td height="30" width="25%"> 
+                <div align="right"><font color="#FF0000" face="Arial" size="2"><b>*</b></font><font face="Arial" size="2"><b>Nome:</b></font></div>
+              </td>
+              <td height="30" width="800" colspan="3">
+
+		<!--  campo in cui inserire il nome (lunghezza campo 35)  -->
+		<input type="text" name="nome" size="35">
+
+              </td>
+            </tr>
+            <tr valign="middle"> 
+              <td height="25" colspan="4" bgcolor="#00DD00"> <b><font size="2" face="Arial">Domicilio</font></b> 
+              </td>
+            </tr>
+            <tr valign="middle"> 
+              <td height="30" width="25%"> 
+                <div align="right"><font size="2" face="Arial"><b>Indirizzo:</b></font></div>
+              </td>
+              <td height="30" width="800" colspan="3">
+
+		<!--  opzioni per indirizzo  --> 
+                <select name="pre-indirizzo">
+                  <option value="VIA">VIA 
+                  <option value="V.LE">VIALE 
+                  <option value="P.ZZA">PIAZZA 
+                  <option value="C.SO">CORSO 
+                  <option value="STRADA">STRADA 
+                  <option value="LARGO">LARGO 
+                  <option value="VICOLO">VICOLO 
+                  <option value="LOC.">LOCALITA' 
+                  <option value="C.DA">CONTRADA 
+                  <option value="VICO">VICO 
+                  <option value="FRAZ.">FRAZIONE 
+                  <option value="P.LE">PIAZZALE 
+                  <option value="SALITA">SALITA 
+                  <option value="BORGO">BORGO 
+                  <option value="CASCINA">CASCINA 
+                  <option value="Z.IND.">ZONA INDUSTRIALE 
+                  <option value="RIONE">RIONE 
+                  <option value="CIRC.NE">CIRCONVALLAZIONE 
+                  <option value="TRAV.">TRAVERSA 
+                  <option value="PARCO">PARCO 
+                  <option value="GALLERIA">GALLERIA 
+                  <option value="AUTOST.">AUTOSTRADA 
+                  <option value="STATALE">STATALE 
+                  <option value="TANG.">TANGENZIALE 
+                  <option value="">ALTRO 
+                </select>
+
+		<!--  campo in cui inserire l'indirizzo di residenza (lunghezza campo 25)  --> 
+                <input type="text" name="indirizzo" size="25">
+              </td>
+            </tr>
+            <tr valign="middle"> 
+              <td height="30" width="25%"> 
+                <div align="right"><font size="2" face="Arial"><b>Citt&agrave;:</b></font></div>
+              </td>
+              <td height="30" width="25%">
+
+		<!--  campo in cui inserire la citta' di residenza (lunghezza campo 25)  --> 
+                <input type="text" name="citta" size="25">
+              </td>
+              <td height="30" width="25%"> 
+                <div align="right"></div>
+              </td>
+              <td height="30" width="25%">&nbsp; </td>
+            </tr>
+            <tr valign="middle"> 
+              <td height="30"> 
+                <div align="right"><font size="2" face="Arial"><b>Provincia:</b></font></div>
+              </td>
+              <td height="30">
+
+		<!--  menu da cui inserire la provincia di residenza  --> 
+                <select name="provincia">
+                  <option value="">Scegli la provincia 
+                  <option value="AG">Agrigento 
+                  <option value="AL">Alessandria 
+                  <option value="AN">Ancona 
+                  <option value="AO">Aosta 
+                  <option value="AR">Arezzo 
+                  <option value="AP">Ascoli Piceno 
+                  <option value="AT">Asti 
+                  <option value="AV">Avellino 
+                  <option value="BA">Bari 
+                  <option value="BL">Belluno 
+                  <option value="BN">Benevento 
+                  <option value="BG">Bergamo 
+                  <option value="BI">Biella 
+                  <option value="BO">Bologna 
+                  <option value="BZ">Bolzano 
+                  <option value="BS">Brescia 
+                  <option value="BR">Brindisi 
+                  <option value="CA">Cagliari 
+                  <option value="CL">Caltanissetta 
+                  <option value="CB">Campobasso 
+                  <option value="CE">Caserta 
+                  <option value="CT">Catania 
+                  <option value="CZ">Catanzaro 
+                  <option value="CH">Chieti 
+                  <option value="CO">Como 
+                  <option value="CS">Cosenza 
+                  <option value="CR">Cremona 
+                  <option value="KR">Crotone 
+                  <option value="CN">Cuneo 
+                  <option value="EN">Enna 
+                  <option value="FE">Ferrara 
+                  <option value="FI">Firenze 
+                  <option value="FG">Foggia 
+                  <option value="FO">Forl&igrave; 
+                  <option value="FR">Frosinone 
+                  <option value="GE">Genova 
+                  <option value="GO">Gorizia 
+                  <option value="GR">Grosseto 
+                  <option value="IM">Imperia 
+                  <option value="IS">Isernia 
+                  <option value="AQ">L'Aquila 
+                  <option value="SP">La Spezia 
+                  <option value="LT">Latina 
+                  <option value="LE">Lecce 
+                  <option value="LC">Lecco 
+                  <option value="LI">Livorno 
+                  <option value="LO">Lodi 
+                  <option value="LU">Lucca 
+                  <option value="MC">Macerata 
+                  <option value="MN">Mantova 
+                  <option value="MS">Massa-Carrara 
+                  <option value="MT">Matera 
+                  <option value="ME">Messina 
+                  <option value="MI">Milano 
+                  <option value="MO">Modena 
+                  <option value="NA">Napoli 
+                  <option value="NO">Novara 
+                  <option value="NU">Nuoro 
+                  <option value="OR">Oristano 
+                  <option value="PD">Padova 
+                  <option value="PA">Palermo 
+                  <option value="PR">Parma 
+                  <option value="PV">Pavia 
+                  <option value="PG">Perugia 
+                  <option value="PS">Pesaro e Urbino 
+                  <option value="PE">Pescara 
+                  <option value="PC">Piacenza 
+                  <option value="PI">Pisa 
+                  <option value="PT">Pistoia 
+                  <option value="PN">Pordenone 
+                  <option value="PZ">Potenza 
+                  <option value="PO">Prato 
+                  <option value="RG">Ragusa 
+                  <option value="RA">Ravenna 
+                  <option value="RC">Reggio di Calabria 
+                  <option value="RE">Reggio nell'Emilia 
+                  <option value="RI">Rieti 
+                  <option value="RN">Rimini 
+                  <option value="RM">Roma 
+                  <option value="RO">Rovigo 
+                  <option value="SA">Salerno 
+                  <option value="SS">Sassari 
+                  <option value="SV">Savona 
+                  <option value="SI">Siena 
+                  <option value="SR">Siracusa 
+                  <option value="SO">Sondrio 
+                  <option value="TA">Taranto 
+                  <option value="TE">Teramo 
+                  <option value="TR">Terni 
+                  <option value="TO">Torino 
+                  <option value="TP">Trapani 
+                  <option value="TN">Trento 
+                  <option value="TV">Treviso 
+                  <option value="TS">Trieste 
+                  <option value="UD">Udine 
+                  <option value="VA">Varese 
+                  <option value="VE">Venezia 
+                  <option value="VB">Verbania 
+                  <option value="VC">Vercelli 
+                  <option value="VR">Verona 
+                  <option value="VV">Vibo Valentia 
+                  <option value="VI">Vicenza 
+                  <option value="VT">Viterbo 
+                  <option value="EE">PROVINCIA ESTERA 
+                </select>
+              </td>
+              <td height="30"> 
+                <div align="right"><b><font face="Arial" size="2">CAP:</font></b></div>
+              </td>
+              <td height="30">
+
+		<!--  campo in cui inserire il CAP (lunghezza campo 5)  --> 
+                <input type="text" name="CAP" size="5">
+
+              </td>
+            </tr>
+            <tr valign="middle"> 
+              <td height="30" width="25%"> 
+                <div align="right"><font size="2" face="Arial"><b>Nazione:</b></font></div>
+              </td>
+              <td height="30" width="800" colspan="3">
+
+		<!--  menu da cui scegliere lo stato di residenza  --> 
+                <select name="nazione">
+                  <option value="IT">Italia</option>
+                  <option value="AT">Austria</option>
+                  <option value="BE">Belgio</option>
+                  <option value="DE">Germania</option>
+                  <option value="DK">Danimarca</option>
+                  <option value="ES">Spagna</option>
+                  <option value="FI">Finlandia</option>
+                  <option value="FR">Francia</option>
+                  <option value="GR">Grecia</option>
+                  <option value="IE">Irlanda</option>
+                  <option value="LU">Lussemburgo</option>
+                  <option value="NL">Olanda</option>
+                  <option value="PT">Portogallo</option>
+                  <option value="SE">Svezia</option>
+                  <option value="CH">Svizzera</option>
+                  <option value="UK">Inghilterra</option>
+                  <option value="XX">ALTRO STATO</option>
+                </select>
+              </td>
+            </tr>
+            <tr valign="middle"> 
+              <td height="25" colspan="4" bgcolor="#00DD00"> <b><font face="Arial" size="2">Recapiti</font></b> 
+              </td>
+            </tr>
+            <tr valign="middle"> 
+              <td height="30" width="25%"> 
+                <div align="right"><font size="2" face="Arial"><b>Telefono fisso:</b></font></div>
+              </td>
+              <td height="30" width="800" colspan="3">
+
+		<!--  campo in cui inserire il numero di telefono fisso (lunghezza campo 15)  --> 
+                <input type="text" name="telefono_fisso" size="15">
+
+              </td>
+            </tr>
+            <tr valign="middle"> 
+              <td height="30" width="25%"> 
+                <div align="right"><font size="2" face="Arial"><b>Telefono cellul.:</b></font></div>
+              </td>
+              <td height="30" width="800" colspan="3">
+
+		<!--  campo in cui inserire il numero di telefono mobile (lunghezza campo 15)  --> 
+                <input type="text" maxlength="20" name="telefono_mobile" size="15">
+
+              </td>
+            </tr>
+            <tr valign="middle"> 
+              <td height="30" width="25%"> 
+                <div align="right"><font color="#FF0000" size="2" face="Arial"><b>*</b></font><font size="2" face="Arial"><b>E-mail:</b></font></div>
+              </td>
+              <td height="30" width="800" colspan="3">
+
+		<!--  campo in cui inserire l'indirizzo e-mail (lunghezza campo 30)  --> 
+                <input type="text" name="email" size="30">
+
+              </td>
+            </tr>
+            <tr valign="middle"> 
+              <td height="25" colspan="4" bgcolor="#00DD00"> <b><font size="2" face="Arial">Data 
+                di nascita e altri dati</font></b></td>
+            </tr>
+            <tr valign="middle"> 
+              <td height="30" width="25%"> 
+                <div align="right"><font size="2" face="Arial"><b>Giorno:</b></font></div>
+              </td>
+              <td height="30" width="800" colspan="3">
+
+		<!--  menu da cui scegliere il giorno di nascita  --> 
+                <select name="nascita_giorno">
+                  <option value="01">1</option>
+                  <option value="02">2</option>
+                  <option value="03">3</option>
+                  <option value="04">4</option>
+                  <option value="05">5</option>
+                  <option value="06">6</option>
+                  <option value="07">7</option>
+                  <option value="08">8</option>
+                  <option value="09">9</option>
+                  <option value="10">10</option>
+                  <option value="11">11</option>
+                  <option value="12">12</option>
+                  <option value="13">13</option>
+                  <option value="14">14</option>
+                  <option value="15">15</option>
+                  <option value="16">16</option>
+                  <option value="17">17</option>
+                  <option value="18">18</option>
+                  <option value="19">19</option>
+                  <option value="20">20</option>
+                  <option value="21">21</option>
+                  <option value="22">22</option>
+                  <option value="23">23</option>
+                  <option value="24">24</option>
+                  <option value="25">25</option>
+                  <option value="26">26</option>
+                  <option value="27">27</option>
+                  <option value="28">28</option>
+                  <option value="29">29</option>
+                  <option value="30">30</option>
+                  <option value="31">31</option>
+                </select>
+              </td>
+            </tr>
+            <tr valign="middle"> 
+              <td height="30" width="25%"> 
+                <div align="right"><font size="2" face="Arial"><b>Mese:</b></font></div>
+              </td>
+              <td height="30" width="800" colspan="3">
+
+		<!--  menu da cui scegliere il mese di nascita  --> 
+                <select name="nascita_mese">
+                  <option value="01">Gennaio</option>
+                  <option value="02">Febbraio</option>
+                  <option value="03">Marzo</option>
+                  <option value="04">Aprile</option>
+                  <option value="05">Maggio</option>
+                  <option value="06">Giugno</option>
+                  <option value="07">Luglio</option>
+                  <option value="08">Agosto</option>
+                  <option value="09">Settembre</option>
+                  <option value="10">Ottobre</option>
+                  <option value="11">Novembre</option>
+                  <option value="12">Dicembre</option>
+                </select>
+              </td>
+            </tr>
+            <tr valign="middle"> 
+              <td height="30" width="25%"> 
+                <div align="right"><font size="2" face="Arial"><b>Anno:</b></font></div>
+              </td>
+              <td height="30" width="800" colspan="3">
+
+		<!--  menu da cui scegliere l'anno di nascita  --> 
+                <select name="nascita_anno">
+                  <option>2001</option>
+                  <option>2000</option>
+                  <option>1999</option>
+                  <option>1998</option>
+                  <option>1997</option>
+                  <option>1996</option>
+                  <option>1995</option>
+                  <option>1994</option>
+                  <option>1993</option>
+                  <option>1992</option>
+                  <option>1991</option>
+                  <option>1990</option>
+                  <option>1989</option>
+                  <option>1988</option>
+                  <option>1987</option>
+                  <option>1986</option>
+                  <option>1985</option>
+                  <option>1984</option>
+                  <option>1983</option>
+                  <option>1982</option>
+                  <option>1981</option>
+                  <option>1980</option>
+                  <option>1979</option>
+                  <option>1978</option>
+                  <option>1977</option>
+                  <option>1976</option>
+                  <option>1975</option>
+                  <option>1974</option>
+                  <option>1973</option>
+                  <option>1972</option>
+                  <option>1971</option>
+                  <option>1970</option>
+                  <option>1969</option>
+                  <option>1968</option>
+                  <option>1967</option>
+                  <option>1966</option>
+                  <option>1965</option>
+                  <option>1964</option>
+                  <option>1963</option>
+                  <option>1962</option>
+                  <option>1961</option>
+                  <option>1960</option>
+                  <option>1959</option>
+                  <option>1958</option>
+                  <option>1957</option>
+                  <option>1956</option>
+                  <option>1955</option>
+                  <option>1954</option>
+                  <option>1953</option>
+                  <option>1952</option>
+                  <option>1951</option>
+                  <option>1950</option>
+                  <option>1949</option>
+                  <option>1948</option>
+                  <option>1947</option>
+                  <option>1946</option>
+                  <option>1945</option>
+                  <option>1944</option>
+                  <option>1943</option>
+                  <option>1942</option>
+                  <option>1941</option>
+                  <option>1940</option>
+                </select>
+              </td>
+            </tr>
+            <tr valign="middle"> 
+              <td height="30" width="25%"> 
+                <div align="right"><font size="2" face="Arial"><b>Sesso:</b></font></div>
+              </td>
+              <td height="30" width="800" colspan="3">
+
+		<!--  scelta sesso  --> 
+                &nbsp;&nbsp;<font face="Arial" size="2"> &nbsp;&nbsp;Maschile&nbsp; 
+                </font> 
+                <input type="radio" name="sesso" value="M">
+                &nbsp; <font size="2" face="Arial">Femminile&nbsp; </font> 
+                <input type="radio" name="sesso" value="F">
+
+              </td>
+            </tr>
+            <tr valign="middle"> 
+              <td height="30" width="25%"> 
+                <div align="right"><font size="2" face="Arial"><b>Stato civile:</b></font></div>
+              </td>
+              <td height="30" width="800" colspan="3">
+
+		<!--  menu da cui scegliere lo stato civile  --> 
+                <select name="stato_civile" >
+                  <option value="N">Celibe/Nubile</option>
+                  <option value="C">Coniugato/a</option>
+                  <option value="D">Divorziato/a</option>
+                  <option value="V">Vedovo/a</option>
+                </select>
+              </td>
+            </tr>
+            <tr valign="middle"> 
+              <td height="25" colspan="4" bgcolor="#00DD00"> <b><font size="2" face="Arial">Permessi e iscrizioni</font></b></td>
+            </tr>
+            <tr valign="middle"> 
+              <td colspan=3 height="30"> 
+                <div align="left"><font size="2" face="Arial"><b>Permetti che il tuo contatto sia reso disponibile per ricerche di identica finalità (ti sarà comunicato il trasferimento delle informazioni): </b></font></div>
+              </td>
+              <td height="30" width="800" colspan="3">
+
+		<!--  menu da cui scegliere lo stato civile  --> 
+                <select name="permesso_traferimento" >
+                  <option value="N">NO</option>
+                  <option value="S">SI</option>
+                </select>
+              </td>
+            </tr>
+            <tr valign="middle"> 
+              <td colspan=3 height="30"> 
+                <div align="left"><font size="2" face="Arial"><b>Vuoi essere iscritto alla newsletter di www.exedre.org: </b></font></div>
+              </td>
+              <td height="30" width="800" colspan="3">
+
+		<!--  menu da cui scegliere lo stato civile  --> 
+                <select name="permesso_newsletter" >
+                  <option value="N">NO</option>
+                  <option value="S">SI</option>
+                </select>
+              </td>
+            </tr>
+            <tr valign="middle"> 
+              <td height="25" colspan="4" bgcolor="#00DD00"> <b><font face="Arial" size="2">Commenti</font></b></td>
+            </tr>
+            <tr> 
+              <td colspan="4" align="center">
+		<br>
+
+		<!--  campo in cui inserire un commento (lunghezza campo 45 - altezza campo 10 righe)  -->
+		<textarea name="commento" cols="45" rows="10">Scrivi qu&igrave; il tuo eventuale  commento</textarea>
+                
+		<br>
+
+              </td>
+            </tr>
+            <tr> 
+              <td colspan="4" height="50"> 
+                <div align="center"><font face="Arial" size="2" color="#FF0000"><b>NB: 
+                  I campi contrassegnati dall'asterisco (*) sono obbligatori</b></font></div>
+              </td>
+            </tr>
+            <tr> 
+              <td colspan="4" align="center" height="50">
+
+		<!--  pulsante d'invio  --> 
+                <input type="submit" value="     Invia     " name="submit">
+                &nbsp;&nbsp;
+
+		<!--  pulsante di cancellazione del modulo  --> 
+                <input type="reset" value="Cancella tutto" name="reset">
+
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    </form>
+
+<!--  fine form  -->
+
+
+<!--#include virtual="$base/frags/firma.shtml" -->
+
+<!--#include virtual="$base/frags/art-copy.shtml" -->

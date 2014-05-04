@@ -1,0 +1,44 @@
+<!--#include virtual="$base/frags/art-title.shtml" -->
+
+<P>SATAN è stato sviluppato da Dan Farmer e Wiestse Venema [1] per i
+     sistemi Unix con l'esplicito obiettivo di aiutare gli
+     amministratori di sistema nel riconoscere i più comuni problemi
+     di sicurezza delle proprie reti. SATAN effettua una serie di test
+     e usa pagine HTML per riassumere i problemi di rete (senza
+     peraltro risolverli direttamente). Per ogni problema SATAN offre
+     una spiegazione estesa del problema e dellÕimpatto sulla
+     sicurezza della rete e spiega come correggerlo.  I suggerimenti
+     riguardano sia la modifica dei file di configurazione che la
+     necessità di bug-fix, o l'uso di altri mezzi per restringere
+     l'accesso o la disabilitazione del servizio affetto dal
+     problema. SATAN effettua solo una raccolta delle informazioni
+     disponibili dai servizi pubblici presenti in rete.  Quindi,
+     firewall ben configurati possono ridurre notevolmente queste
+     informazioni.  Ovviamente per valutare la sicurezza della propria
+     rete la migliore applicazione di SATAN è prima dall'interno del
+     proprio firewall, solo dopo dall'esterno. Con reti di dimensioni
+     anche piccole (una dozzina di host) è quasi certo che SATAN trovi
+     qualche problema nella seguente lista:
+
+<P>[ L'articolo è disponibile liberamente sul sito del Gruppo Editoriale
+Informedia <a
+href="http://online.infomedia.it/riviste/login/14/articolo15/articolo.htm">http://online.infomedia.it/riviste/login/14/articolo15/articolo.htm</a>
+]
+
+<h4>Conclusioni</h4>
+     
+
+<P>SATAN non è certamente l'arma definitiva per sconfiggere ogni
+     intrusione ma ha due grandi meriti.  é stato il primo programma
+     ad adottare tecniche di hacking rendendo evidente ciò che ogni
+     amministratore di rete tende a sottovalutare e ha creato un
+     giustificato allarme verso le vulnerabilità dei sistemi.  é
+     orientato principalmente alla formazione del personale che
+     amministra la rete rendendo, per quanto possibile, gli strumenti
+     per "simulare" le intrusioni a scopo benigno
+
+
+<!--#include virtual="$base/frags/firma.shtml" -->
+
+<!--#include virtual="$base/frags/art-copy.shtml" -->
+<!--#include virtual="$base/frags/art-accessori.shtml" -->

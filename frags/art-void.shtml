@@ -1,0 +1,18 @@
+<!-- Annulla le variabili principali -->
+
+<!--#set var="bio"      value="" -->
+<!--#set var="date"      value="" -->
+<!--#set var="dir"      value="" -->
+<!--#set var="input"      value="" -->
+<!--#set var="keywords"      value="" -->
+<!--#set var="kind"      value="" -->
+<!--#set var="license"      value="" -->
+<!--#set var="lm"      value="" -->
+<!--#set var="next"      value="" -->
+<!--#set var="prev"      value="" -->
+<!--#set var="subtitle"      value="" -->
+<!--#set var="subtitle1"      value="" -->
+<!--#set var="title"      value="" -->
+<!--#set var="comments"      value="" -->
+<!--#set var="follow"      value="" -->
+<!--#include virtual=$base/vars.shtml -->

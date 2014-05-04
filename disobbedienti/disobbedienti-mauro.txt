@@ -1,0 +1,64 @@
+Da: mauro <imagemaker@macosx.com>
+Data: Mar 25 feb 2003  14:53:30 Europe/Rome
+A: <esomma@ieee.org>
+Oggetto: Considerazioni personali
+
+Esimio Sig. Somma,
+Le scrivo in merito all'editoriale apparso su Linux magazine del marzo 2003.
+Innanzi tutto il sottotitolo : "ovvero: del perchè non possiamo proprio
+dirci no-global"...
+Mi chiedo cosa stia a significare quel "non possiamo"... chi non puo?
+Noi estimatori di Linux e dell'Opensource o Voi di Linux magazine... o chi
+altro?
+Da parte mia, soprassedendo su tutte le abbastanza banali considerazioni che
+lei ha fatto sull'americanità del fenomeno Linux, credo che tutto ciò che
+può dare in qualche modo nuove possibilità a popoli che ancora soffrono il
+sottosviluppo e lo sfruttamento da parte di quel settore della terra che noi
+chiamiamo "nord del mondo" (America in testa), si possa tranquillamente
+definire no-global ed in qualche modo disubbidiente; in fatto poi di diritto
+internazionale sulle licenze software ecc., lei definisce l'America come
+paradiso del garantismo e della protezione delle libertà, ma non è lo stesso
+paese che si appresta a censire i cittadini di fede Islamica, che applica la
+pena di morte e che andrà a fare strage di un popolo la cui unica colpa è
+quella di avere un dittatore come leader ed un sottosuolo ricco di petrolio?
+Attenzione quindi a non mischiare il sacro col profano.
+Se è chiaro che il movimento no-global appoggia il software open source, è
+altrettanto chiaro che sarebbe estremamente contrario all'applicazione
+(ovviamente ipotetica) di linux per scopi bellici. Ed è pure assurdo
+accettare a priori le biotecnologie... dipende da come e per cosa sono
+applicate, se per scopi atti a preservare e migliorare la salute dell'uomo,
+delle piante e degli animali va benissimo, ma quando è usata per modificare
+processi vitali mediante, ad esempio, l'inserimento di cellule o tessuti
+animali su organismi vegetali (vedi OGM) con il rischio di generare dei
+mostri assolutamente innaturali a scopo alimentare, per conseguire profitti
+apponendo la scusa di vincere la fame nel mondo, allora io dico NO!
+Se poi alcuni Linux user, casualmente no-global, vogliono andare a
+protestare contro Bill Gates (che, mi lasci dire, non fa le sue tournee a
+caso come lei dice), ben vengano... ed io non ci trovo niente di ridicolo,
+se poi qualche pinguino un po snob si sentirà offeso, sono problemi suoi.
+Dire che Linux è globale, è come dire che è no-global, questione di punti di
+vista. Noi comunque (io e quelli del LUG.AR) lo usiamo e lo proponiamo con
+qualche successo, dato che la nostra amministrazione comunale ha deciso,
+trovando d'accordo maggioranza ed opposizione, di utilizzarlo nei propri
+uffici, sostituendolo gradualmente al software proprietario.
+Non mi prenda per uno sfegatato disobbediente col paraocchi, perchè non lo
+sono, ho i piedi ben saldi per terra e rispetto al software sono molto
+aperto, nel senso che per il mio lavoro uso Macintosh nonchè Windows
+(talvolta)... Ma Linux mi piace, lo considero una futura ma reale
+alternativa, non a caso paesi in difficoltà come l'india, l'Indonesia o il
+Brasile hanno potuto raggiungere un buon livello d'informatizzazione e
+d'insegnamento nelle scuole grazie a Linux e all'Open Source, che non
+significa America, ma sforzo internazionale e solidale per la libera
+acquisizione del sapere.
+Infine, in merito alla battuta "right software", sappia che il software non
+è ne di destra ne di sinistra, è solo software... cioè nulla senza
+l'intervento umano, ed è proprio questo il desiderio che io ed i no-global
+abbiamo in comune... che l'uomo, "qualsiasi uomo" possa conoscere,
+usufruire, decidere, scegliere ed utilizzare ciò che potrebbe essere
+altrimenti solo un privilegio di pochi.
+Questo significa per me "Open Source"... "and that's all folks!"
+
+Cordiali Saluti e complimenti per Linux Magazine
+
+Mauro Lanzi - Vice Presidente Linux User Group Arezzo
+

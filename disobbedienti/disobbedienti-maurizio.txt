@@ -1,0 +1,26 @@
+Da: "Maurizio Tomasi" <zio_tom78@hotmail.com>
+Data: Ven 28 feb 2003  12:24:39 Europe/Rome
+A: esomma@ieee.org
+Cc: astovi@libero.it, caparossa@autistici.org, imagemaker@macosx.com, hapax_01@yahoo.it, elettrico@ecn.org
+Oggetto: Editoriale 3/2003
+
+Caro Emanuele,
+
+ Ho letto con molto interesse il tuo articolo su Linux Magazine,
+e ti dico che mi vedi d'accordo su quasi tutto.  Ho voluto scriverti
+questa e-mail perche' ho notato che sul tuo sito hai riportato solo
+commenti negativi (alcuni, come quello di Elettrico, estremamente e gratuitamente offensivi verso chi si e' limitato ad esprimere le sue idee).
+
+ Non sono d'accordo con le risposte del tipo "essere contro Bush non vuol dire essere contro l'America", che sono frasi banali ed ovvie che fraintendono il problema.  Che Linux sia un fenomeno tipicamente americano e' un concetto piu' profondo della semplice provenienza geografica dei suoi programmatori (non basta dire che Spike Lee e' di nazionalita' americana per dire che e' un personaggio "tipicamente americano"): Linux e' nato perche' ispirato dalla cultura della liberta', che e' propria degli USA e che ci e' stata insegnata solo a costo di dure lezioni (non occorre ricordare che, a parte la lodevole eccezione della Gran Bretagna, negli ultimi cent'anni tutti gli stati della "vecchia" Europa sono stati governati da qualche dittatura di destra o sinistra).
+
+ Non occorre nemmenio ricordare, spero, che la costituzione americana e' una delle piu' antiche costituzioni democratiche tuttora vigenti; che la rivoluzione americana non porto' agli sciagurati eccessi della rivoluzione francese; che per prima inseri' esplicitamente il diritto congiunto alla liberta' ed alla ricerca della felicita' che e' proprio di ogni uomo; etc. etc.  E' a *questo* che ci si riferisce quando si dice che qualcosa e' "americano", non alla sua provenienza geografica!
+
+ Voglio ribattere esplicitamente alle obiezioni di Caparossa, perche' il suo fondamentale errore sta tutto in questa frase: "non ho intenzione di ribatterti punto su punto, che ne verrebbe fuori una cosa veramente pallosa. Ti racconto, allora, una storia. La mia storia".  Sarebbe stato meglio ribattere punto su punto, dal momento che a me la storia non ha detto granche'.  Mi ha dimostrato che movimenti antagonisti supportano Linux ed il software libero organizzando incontri, ma non mi ha fatto chiaramente capire su quali fondamenti filosofici basino questa loro adesione.  A meno di non considerare la singola frase "il concetto base della comunita' GNU/Linux e del software libero [...][e'] la CONDIVISIONE, e non la competizione" l'espressione completa del suo pensiero.  Che tra parentesi non mi sembra molto vero: se la condivisione e' importante in un simile contesto, la competizione non lo e' certo di meno (vedi Gnome/KDE, Linux/Hurd/FreeBSD, Emacs/Vim;  il supporto per la colorazione della sintassi in Emacs e' stato inserito per duplicare la funzionalita' gia' offerta da Vim).  E' una competizione apparentemente diversa da quella del mercato, ma si fonda sullo stesso principio: viene premiato il software migliore, e ciascuno e' spronato a dare il meglio anche per rendere il suo prodotto migliore degli altri.  Ok, si tratta di competere per soddisfazione personale e non per guadagnare, ma sempre competizione e'!
+
+ Concludo con un mio pensiero pungente sui no-global: Linux non puo' essere Óun prodotto no-global per il semplice fatto che il movimento no-global e' critico verso un qualcosa (il neoliberismo) per cui pero' non propone alcunche' di fattibile.  Linux  e' esso stesso un'alternativa, e per il fatto di avere successo, dimostra di essere un'alternativa fattibile.  Punto.
+
+Maurizio Tomasi
+
+
+
+

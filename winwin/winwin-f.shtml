@@ -1,0 +1,17 @@
+<!--#include virtual="$base/frags/art-title.shtml" -->
+
+<P>L'efficace packaging di un Linux off-the-shelf, l'offerta ben riuscita di supporto, la sorprendente quotazione in borsa, e la recente strategia di consolidazione aziendale che ha portato perfino all'acquisto della <i>leggendaria</i> Cygnus Solution per oltre 600 milioni di dollari, sono tutte mosse imbroccate al momento giusto. In confronto tutti gli altri principali <i>distributori </i>sembrano avere strategie industriali ancora primitive. Young e soci hanno saputo far leva su moderni strumenti finanziari per raggiungere posizioni privilegiate sul mercato. Questo d&agrave; fastidio sia perch&eacute; sembra ferire lo spirito cooperativo che vige, come legge scritta, nell'Open Source, sia perch&eacute; una posizione di mercato cos&igrave; rilevante pu&ograve; dar luogo ad una separazione strutturale tra le ``comuni distribuzioni'' e le soluzioni proprietarie di Red Hat, che potrebbe portarsi via una consistente fetta di utenti.
+
+<P>Per&ograve; in questa fase primordiale di evoluzione dell'ecosistema d'affari dell'Open Source, Red Hat sa che non pu&ograve; <i>deprimere</i> gli utenti Linux, perch&eacute; una qualunque perdita di un nuovo utente di una qualunque distribuzione Linux per qualsivoglia ragione &egrave; una perdita netta per l'intero ecosistema. &Egrave; tecnicamente quello che viene chiamato un gioco <i>lose-lose</i>, dove la perdita per uno diventa la perdita per tutti gli altri. 
+
+<P>Linux &egrave; strutturalmente costruito per generare gli anticorpi di eventuali mire egemoniche. La storia imprenditoriale di Red Hat &egrave; l'evidenza cristallina di una adesione non formale ai principi cooperativi dell'Open Source. Ci sono ragioni, insomma, per non dubitare. Ma se questo &egrave; vero per Red Hat, quanto ci si pu&ograve; fidare che qualche <i>big-boss</i> dell'IT in vena di sprecare spiccioli dei suoi profitti proprietari non finisca per investirli nell'Open Source solo per succhiarne il sangue?
+
+<P>Questo &egrave; un po' il <i>test acido</i> che Linux deve sopportare. L'acquisizione di caratteristiche marcatamente commerciali non ne trasformer&agrave; radicalmente le dinamiche di sviluppo? E se, e quando, verr&agrave; meno l'euforia per la novit&agrave; delle <i>grandi firme</i>, che oggi supportano Linux cos&igrave; com'&egrave;, si faranno i conti con la loro necessit&agrave; di garantirsi profitti certi e quindi forme di lock-in degli utenti sulle proprie soluzioni? Un esempio tra tutti a met&agrave; tra il fantascientifico e l'impossibile: e se Microsoft proponesse s&igrave; un Office per Linux (peraltro invocato a gran voce come fosse pietra di paragone delle capacit&agrave; di un sistema operativo &lt;sigh!&gt;) ma lo legasse tanto strettamente ad <i>una</i> distribuzione da non permetterne l'esecuzione su altre? Eventualmente una distribuzione Linux di casa Microsoft? Un gioco <i>win-lose </i>dove a vincere &egrave; solo quest'ultima.
+
+<!--#include virtual="$base/frags/firma.shtml" -->
+
+<!--#include virtual="$base/frags/art-copy.shtml" -->
+<!--#include virtual="$base/frags/art-accessori.shtml" -->
+
+
+

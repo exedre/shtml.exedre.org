@@ -1,0 +1,85 @@
+<!--#include virtual="$base/frags/art-title.shtml" -->
+
+<P>Cos'è il FUD? É l'acronimo realizzato con le iniziali di Fear,
+Uncertainty e Doubt, ovvero Paura, Incertezza e Dubbio. È una pratica
+commerciale comune, quella per cui dal cliente, invece di vantare i
+propri pregi, si sottolineano i disastri a cui si va incontro
+scegliendo i concorrenti. Il cliente cosí non fa un paragone su dati
+concreti, ma tra una cosa (di cui spesso si omette ogni rischio) e
+l'altra presentata come rischiosa in base ad eventi spesso remoti o
+incontrollabili, ma ingigantiti ad arte.
+
+Con il FUD, Microsoft ha vinto molte battaglie. Molte di quelle per
+cui fu condannata dall'Antitrust all'inizio, e molte per le quali
+nessuno più ha interesse a perseguirla essendone stato distrutto e
+fagocitato.
+
+<P>E il FUD è stata la prima arma che ha tentato con Linux. Fu
+smascherata da Eric Raymond che ne pubblicò dei rapporti interni (si
+trovano in rete come Halloween Papers). Ne prese tante, in quel caso,
+la Microsoft da iniziare ad essere guardata con sospetto anche negli
+ambienti che la sostenevano più apertamente.
+
+<P>A quel tempo pensammo che il FUD contro il software libero non fosse
+l'arma adatta.
+
+<P>In Italia abbiamo però assistito nell'inverno del 2000 ad una
+indecente campagna di criminalizzazione del software "copiato", e
+quindi di quello "liberamente copiabile", e quindi di quello
+libero. "Copiare Software è reato", diceva la Business Software
+Alliance, in cui Microsoft era il socio più forte ed interessato. Era
+FUD allo stato puro che finí persino condannato formalmente
+dell'Istituto di Autodisciplina Pubblicitaria con una durissima
+requisitoria (in linea sul mio sito www.exedre.org/bsa).
+
+<P>No, forse il FUD non è proprio l'arma adatta.
+
+<P>Esisteva però un'altra strada per screditare Linux. Oggi si può dire
+chiaramente: Microsoft sta pagando SCO, una cifra imprecisata ma molto
+alta (si dice dai 10 ai 30 milioni di dollari) per una cosa di nessun
+valore fino a ieri (fantomatici diritti intellettuali su pezzi di Unix
+che Microsoft starebbe usando), ma soprattutto per godere del panorama
+di una lite tutta interna a Unix.
+
+<P>Microsoft e SCO nel '83 sviluppano insieme uno Unix (chiamato XENIX e
+ cancellato dalla storia per assoluta inadeguatezza), dopo qualche
+anno MS invese pesantemente in SCO perchè tenga a freno IBM nella Open
+Software Foundation dove si definiscono le politiche dei vendor
+Unix. É vero, SCO è stata comprata dall'ex-distributore di Linux,
+Caldera.  Ma la storia riportata nello sketch di questo mese può
+rappresentare degnamente a che punto può arrivare anche un vendor
+Linux particolarmente rapace. C'è chi lo aiuta e chi lo sfrutta,
+Linux.
+
+<P>Fidiamoci di Eric Raymond che ha tracciato una puntigliosa storia di
+Unix, dissezionando le accuse di SCO una per una per definire
+realmente cosa sono: solo falsità. Non c'è nulla di cui preoccuparsi
+se non del fatto che le Pubbliche Amministrazioni o le grandi aziende
+avranno paura di essere a rischio se adottano Linux. Un maldestro
+tentativo di "rovinare la festa" ad un sistema operativo la cui
+diffusione viaggia a ritmi del 200% annuo.
+
+<P>Se le armi di Microsoft per combattere Linux sono queste non c'è da
+stupirsi della clamorosa gaffe sulla realizzazione della prima latrina
+con Windows incorporato, e dell'ancora più clamoroso tentativo di
+rimangiarselo. Goffo quasi quanto quello di nascondere che 200 milioni
+di persone erano stati esposte alla perdita della propria identità
+elettronica, compresi potenzialmente dati sensibili e importanti, dal
+sistemone di autenticazione "piglia-tutto" Passport. O dell'ancora più
+goffo tentativo di proteggere l'investimento più sbagliato della
+storia del personal computing: Xbox (o Xflopx come mi piace
+chiamarla), venduta disperatamente sottocosto. O dell'ultima mossa di
+vendere persino il software di sistema sottocosto per contrastare
+l'avanzata di Linux. Insomma Microsoft le sta provando tutte per
+galleggiare.
+
+<P>Tornare alla "Paura, Incertezza e Dubbio" vuol dire usare le armi di
+chi non sa fare il software. Non vuole confronto e non convince con
+altri mezzi.
+
+<P>Noi facciamo software, se è quello che ti serve.
+
+<!--#include virtual="$base/frags/firma.shtml" -->
+
+<!--#include virtual="$base/frags/art-copy.shtml" -->
+<!--#include virtual="$base/frags/art-accessori.shtml" -->

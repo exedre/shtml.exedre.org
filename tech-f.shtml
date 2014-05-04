@@ -1,0 +1,5 @@
+<!-- Technical Notes -->
+<h2>Note tecniche su exedre.org</h2>
+<p>Questo sito è realizzato attraverso un programma perl che genera le pagine sulla base di un file di configurazione
+<p>Il codice e un esempio di configurazione (che non è detto siano quelli aggiornati né che funzionino) puoi trovarlo <a href='$base/frags/mksite.tgz'>qui</a>.
+

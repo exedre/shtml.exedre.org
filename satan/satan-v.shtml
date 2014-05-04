@@ -1,0 +1,19 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="none" -->
+<!--#set var="date"      value="Gennaio 1999" -->
+<!--#set var="dir"      value="satan" -->
+<!--#set var="file"      value="satan-f.shtml" -->
+<!--#set var="flink"      value="/./satan/satan-f.shtml" -->
+<!--#set var="ilink"      value="/./satan/satan.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="satan" -->
+<!--#set var="keywords"      value="SATAN, sicurezza, software libero, linux" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="none" -->
+<!--#set var="lm"      value="su Login n.14 Gennaio/Febbraio 1999 (Gruppo Editoriale Infomedia)" -->
+<!--#set var="next"      value="unaelle" -->
+<!--#set var="prev"      value="mankind" -->
+<!--#set var="subtitle"      value="Alcuni dicono che l'unico modo per rendere sicuro un host è prevedere qualche centimetro di aria tra il computer e la rete. Se si vogliono evitare soluzioni radicali. " -->
+<!--#set var="subtitle1"      value="Allora evochiamo SATAN!  Pape SATAN, Pape SATAN. Aleppe!  (Dante, Inferno)." -->
+<!--#set var="title"      value="SATAN Security Administrator Tool for Analyzing Networks. Quanto è vulnerabile la tua rete?" -->

@@ -1,0 +1,31 @@
+Da: gb_hapax <hapax_01@yahoo.it>
+Data: Mar 25 feb 2003  21:52:32 Europe/Rome
+A: esomma@ieee.org
+Oggetto: editoriale 3/2003
+
+
+caro emmanuele,
+
+ti scrivo a proposito del tuo editoriale nel numero di linux magazine di marzo. devo premettere che sono rimasto piuttosto colpito dal tono del tuo articolo, dato che ho sempre apprezzato l'ironia dei tuoi interventi e la pacatezza e l'intelligenza che, in genere, contraddistinguono le tue argomentazioni. nell'editoriale in questione, al contrario, mi è sembrato di avvertire un certo livore e, soprattutto, ho trovato una serie di luoghi comuni piuttosto abusati. per questo ragioni, nelle prossime righe, probabilmente sarò pedante e forse un po' astioso. te ne chiedo perdono in anticipo: prendi le mie parole solo come una reazione a caldo.
+
+i luoghi comuni che mi sono trovato davanti sono, più o meno, i seguenti. primo fra tutti l'idea che l'antiglobalizzazione sia la "resistenza all'americanizzazione del mondo". secondo, quello dei consulenti e degli interinali felici di esserlo. terzo che la sindacalizzazione sia da opporsi all' "autonomia individuale".
+per quel che riguarda il primo punto, il centro di tutta la critica cosiddetta no-global (anche se in effetti, all'interno del movimento, si preferisce il termine new-global) non è tanto l'americanizzazione del mondo quando l'egemonia delle politiche neoliberiste, di cui gates fra gli altri è un campione, come la sua azienda monopolista, nella quale si specchia la situazione paradossale in cui ci troviamo, per cui una serie di istituzioni che sostengono il libero commercio, negli effetti, e si può supporre volontariamente, non fanno altro che rafforzare il potere di poche concentrazioni. il fatto che il centro di queste politiche siano gli usa è solo un fatto accessorio, tanto più che noi europei siamo "secondi di poco", per così dire, e che il movimento no-global ha uno dei suoi poli maggiori proprio negli usa (senza il sindacato statunitense afl-cio non ci sarebbero state le famose giornate di seattle, o comunque non avrebbero avuto quella risonanza).
+circa il secondo punto, cioè quello della "felicità del precario", devo dire che conosco più di un precario, anche consulente informatico (dal programmatore al web designer) e così contenti non mi sono sembrati. anzi: l'idea di programmarsi la vita di tre mesi in tre mesi (la durata media dei loro contratti) li ossessiona ed il fatto di dovere lavorare anche la notte, per non perdere il contratto successivo, non li aiuta a rilassarsi.
+circa l'ultimo punto, mi limito a farti notare che una persona è tanto più autonoma quanto meno deve sottostare a ricatti. in effetti il sindacato e la sindacalizzazione sono strumenti per evitare almeno una parte dei ricatti.
+
+lascio stare gli accenni che fai alle "idee molto critiche" dei no-global verso i processi di informatizzazione, dato che è un movimento che campa sulle mailing-list e sui siti web, o verso le ricerche biotecnologiche, di cui non viene messo in discussione il valore di conoscenza ma il fatto che, in questo modo, i detentori dei brevetti non saranno solo padroni dei prodotti (delle capre, delle spighe, dei chicchi, etc.) ma della specie intera, e concludo affrontando il nucleo del tuo articolo, cioè l'idea che "un fan del sofware libero abbia in comune più con bill gates di quanto ne abbia con un no-global".
+ovviamente, come simpatizzante del software libero e, contemporaneamente, del critica alla globalizzazione neoliberista, non posso che essere in disaccordo. e lo sono proprio a partire dall'idea che non sia vero, come tu dici, che la realtà del software libero si basi sulla "fede spropositata sull'economia di mercato".
+
+anche se, in effetti, tra le figure retoriche utilizzate dai propugnatori del software libero, ci sia la l'immagine di un mercato buono o quanto meno neutrale in cui misurarsi secondo l'efficacia e la qualità (non entro nel merito di quanto sia mitica questa immagine, dato che ogni soggetto presente sul mercato ci rimane solo in forza di una propria posizione, anche minimamente, monopolista), davvero non credo che linux o comunque il fenomeno del software libero vi si possa collocare senza incongruenze.
+
+prima di tutto perché, come dice con soddisfazione lo stesso torvalds, linux è stato fatto per divertirsi e non in vista di una battaglia sul campo del libero mercato. questo non è un aspetto da poco, perché, a fronte di una logica produttivista, che è propria del mercato in cui si affrontano la qualità e l'efficienza, si mette al primo posto il piacere egocentrico del divertimento, senza altre questioni. e la qualità ottenuta è ottenuta per se stessi e non per affrontare gli altri.
+
+in secondo luogo, perché mi sembra che l'idea di software libero sia l'esempio perfetto della negazione del mercato, in quanto si basa sulla riappropriazione della nozione di bene comune, contro una logica di mercato che invece tende, per sua natura, a mettere in vendita tutto, e quindi a ridurre tutto a proprietà privata.
+
+infine - e concludo perché davvero ti ho tediato troppo - l'interesse che linux ed il software libero fa nascere nella "gente" viene direttamente dall'idea assurda di un qualche cosa di prodotto, e di prodotto con cura, gratuitamente. mi puoi dire che in effetti non è gratuito, etc. (ed io sono d'accordo), ma non cambia il fatto che l'idea di potermi rivolgere ad un lug e, con la semplice spesa di un tot di cdrom, avere un prodotto professionale, svariate volte meglio di quello che pago a suon di centinaia di euro, sia il motore del fascino del free software. un motore che macina dentro di sé l'idea di mercato (anche libero).
+
+confermando, comunque, la stima che ho per te e per la rivista che dirigi, ti porgo i miei più
+
+cari saluti,
+
+gb

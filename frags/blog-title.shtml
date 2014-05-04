@@ -1,0 +1,8 @@
+<h1><i><!--#echo var="site" -->:</I><br> <!--#echo var="title"--></h1>
+<i><!--#echo var="subtitle"-->
+<!--#if expr="$subtitle1 != ''" -->
+<br><!--#echo var="subtitle1"-->
+<!--#endif -->
+</i>
+<br><!--#echo var="date"-->
+<br>

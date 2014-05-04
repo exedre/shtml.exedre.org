@@ -1,0 +1,8 @@
+<!--#include virtual="/frags/art-title.shtml" -->
+<!--#include virtual="/trucchi1/trucchi1-v.shtml"-->
+<!--#include virtual="/frags/art-call.shtml" -->
+<!--#include virtual="/trucchi2/trucchi2-v.shtml"-->
+<!--#include virtual="/frags/art-call.shtml" -->
+<!--#include virtual="/trucchi3/trucchi3-v.shtml"-->
+<!--#include virtual="/frags/art-call.shtml" -->
+<!-- #include virtual="$base/frags/firma.shtml" --><!-- #include virtual="$base/frags/art-copy.shtml" --><!-- #include virtual="$base/frags/art-accessori.shtml" -->

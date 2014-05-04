@@ -1,0 +1,19 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="none" -->
+<!--#set var="date"      value="Maggio 2005" -->
+<!--#set var="dir"      value="gnufinance" -->
+<!--#set var="file"      value="gnufinance-f.shtml" -->
+<!--#set var="flink"      value="/./gnufinance/gnufinance-f.shtml" -->
+<!--#set var="follow"      value="" -->
+<!--#set var="ilink"      value="/./gnufinance/gnufinance.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="gnufinance" -->
+<!--#set var="keywords"      value="finance, GNU, exedre" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="base" -->
+<!--#set var="lm"      value="" -->
+<!--#set var="next"      value="proudhon" -->
+<!--#set var="prev"      value="." -->
+<!--#set var="subtitle"      value="Sintesi e slides dell'intervento per «Linux per la Banca e la Finanza» del Linux World Expo 2005" -->
+<!--#set var="title"      value="Uno GNU per il nucleo della finanza" -->

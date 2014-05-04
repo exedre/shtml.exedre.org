@@ -1,0 +1,12 @@
+
+
+<H2 align=center>Cerca in <i>exedre.org</i> con<A HREF="http://www.google.com/search"><IMG SRC="http://www.google.com/logos/Logo_40wht.gif" border=0 ALT="[logo Google]" align=middle></A></H2>
+
+<FORM method=GET action="http://www.google.it/custom">
+<P align=center><INPUT TYPE=text name=q size=31 title="Cerca nel sito con Google" maxlength=255 value="">
+<INPUT type=submit name=sa VALUE="Esegui ricerca">
+<INPUT type=hidden name=cof VALUE="AH:center;S:http://www.exedre.org;AWFID:b14a88efa0fe09bb;">
+<input type=hidden name=domains value="www.exedre.org">
+<input type=hidden name=sitesearch value="www.exedre.org">
+</P></FORM>
+</td>

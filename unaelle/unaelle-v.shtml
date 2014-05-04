@@ -1,0 +1,19 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="date"      value="Aprile 2003" -->
+<!--#set var="dir"      value="unaelle" -->
+<!--#set var="file"      value="unaelle-f.shtml" -->
+<!--#set var="flink"      value="/./unaelle/unaelle-f.shtml" -->
+<!--#set var="ilink"      value="/./unaelle/unaelle.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="unaelle" -->
+<!--#set var="keywords"      value="Berlusconi, modernizzazione, software libero, linux" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="base" -->
+<!--#set var="lm"      value="come editoriale su Linux Magazine n. 29 Aprile 2003" -->
+<!--#set var="next"      value="india" -->
+<!--#set var="prev"      value="disobbedienti" -->
+<!--#set var="subtitle"      value="Modernizzazione tecnologica dell'Italia?" -->
+<!--#set var="subtitle1"      value="Prego Presidente Silvio Berlusconi ascolti anche noi!" -->
+<!--#set var="title"      value="Una L prima di tante I. E una S prima della L: Software Libero" -->

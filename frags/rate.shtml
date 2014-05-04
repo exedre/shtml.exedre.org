@@ -1,0 +1,61 @@
+  <!-- inizio form -->
+
+  <FORM action="http://www.tiscali.it/cgi-bin/formmail.cgi" method="post">
+
+  <input type=hidden name="print_config" value="email,subject">
+
+	<INPUT type="hidden" name="subject" value='Valuta: <!--#echo var="dir" -->' >
+  	
+	<!--  inserire al posto di userid@tiscali.it l'indirizzo email a cui desiderate sia inviato il form  -->
+	<INPUT type="hidden" name="recipient" value="emmanuele.somma@tiscali.it">
+    
+	<!--  inserire quali campi si desidera siano obbligatori  -->
+	<INPUT type="hidden" name="required" value="q1,q2">
+    
+	<!--  inserire l'indirizzo della pagina html da caricare in caso di errori  -->
+	<INPUT type="hidden" name="missing_fields_redirect" value="http://www.exedre.org/frags/errore.html">
+
+	<!--  inserire l'indirizzo della pagina html di conferma  -->
+	<INPUT type="hidden" name="redirect" value='http://www.exedre.org/<!--#echo var="dir" -->/' >
+
+
+<div style="padding:0px 10px">
+<table width="100%" border="0" cellspacing="1" cellpadding="4">
+<tr valign="middle">
+<td style="background:#afffcc" width="70%" colspan=9>
+<a name="VFq1"></a>1. Questo articolo mi piace.</td>
+</tr>
+<tr>
+<td align="right" valign="middle" style="background:#afffcc">&nbsp;&nbsp;poco</td>
+<td align="center" style="background:#afffcc"><input type="radio" name="q1" value="1"></td>
+<td align="center" style="background:#aff4b3"><input type="radio" name="q1" value="2"></td>
+<td align="center" style="background:#afef8c"><input type="radio" name="q1" value="3"></td>
+<td align="center" style="background:#afea6d"><input type="radio" name="q1" value="4"></td>
+<td align="center" style="background:#abe249"><input type="radio" name="q1" value="5"></td>
+<td align="center" style="background:#afde17"><input type="radio" name="q1" value="6"></td>
+<td style="background:#afde17">molto</td>
+<td align="center" style="background:#afde17">La tua email (opz):&nbsp;<input type="text" name="email" size="10"></td>
+</tr>
+<tr valign="middle">
+<td style="background:#afffcc" colspan=9><a name="VFq2"></a>2. Questa pagina è semplice da trovare.</td>
+</tr>
+<tr>
+<td align="right" valign="middle" style="background:#afffcc">&nbsp;&nbsp;poco</td>
+<td align="center" style="background:#afffcc"><input type="radio" name="q2" value="1"></td>
+<td align="center" style="background:#aff4b3"><input type="radio" name="q2" value="2"></td>
+<td align="center" style="background:#afef8c"><input type="radio" name="q2" value="3"></td>
+<td align="center" style="background:#afea6d"><input type="radio" name="q2" value="4"></td>
+<td align="center" style="background:#abe249"><input type="radio" name="q2" value="5"></td>
+<td align="center" style="background:#afde17"><input type="radio" name="q2" value="6"></td>
+<td style="background:#afde17">molto</td>
+<td style="background:#afde17" nowrap="nowrap" rowspan="1" align="center" valign="center" width="170">
+<input type="submit" border="0" class="buttonblue" value="&nbsp;Invia&nbsp;" name="submit" />
+</td>
+</tr>
+</table>
+</div>
+<a name="VFURL"></a>
+
+    </form>
+
+<!--  fine form  -->

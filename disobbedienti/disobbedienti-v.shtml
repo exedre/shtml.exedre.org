@@ -1,0 +1,19 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="comments"      value="disobbedienti-c.shtml" -->
+<!--#set var="date"      value="Marzo 2003" -->
+<!--#set var="dir"      value="disobbedienti" -->
+<!--#set var="file"      value="disobbedienti-f.shtml" -->
+<!--#set var="flink"      value="/./disobbedienti/disobbedienti-f.shtml" -->
+<!--#set var="ilink"      value="/./disobbedienti/disobbedienti.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="disobbedienti" -->
+<!--#set var="keywords"      value="Bill Gates, Richard Stallman, Pubblica Amministrazione, exedre" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="base" -->
+<!--#set var="lm"      value="come editoriale su Linux Magazine n. 28 Marzo 2003" -->
+<!--#set var="next"      value="india" -->
+<!--#set var="prev"      value="." -->
+<!--#set var="subtitle"      value="(ovvero: del perchè non possiamo proprio dirci 'no-global')" -->
+<!--#set var="title"      value="Non fateci abusare di un disobbediente vestito da pinguino" -->

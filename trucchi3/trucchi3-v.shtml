@@ -1,0 +1,20 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="none" -->
+<!--#set var="date"      value="Agosto 2004" -->
+<!--#set var="dir"      value="trucchi3" -->
+<!--#set var="file"      value="trucchi3-f.shtml" -->
+<!--#set var="flink"      value="/./trucchi3/trucchi3-f.shtml" -->
+<!--#set var="follow"      value="" -->
+<!--#set var="ilink"      value="/./trucchi3/trucchi3.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="trucchi3" -->
+<!--#set var="keywords"      value="BSA, Yolanda Rios, Pirateria, Neruda, exedre" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="reserved" -->
+<!--#set var="lm"      value="" -->
+<!--#set var="next"      value="trucchi3" -->
+<!--#set var="prev"      value="trucchi2" -->
+<!--#set var="serie"      value="Senza carte truccate sul tavolo dell' anti-pirateria (3 di 3)" -->
+<!--#set var="subtitle"      value="Veline di regime sulla stampa tecnica" -->
+<!--#set var="title"      value="Chi di stampa ferisce pirata perisce" -->

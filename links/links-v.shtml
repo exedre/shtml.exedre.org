@@ -1,0 +1,18 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="date"      value="Novembre 2003" -->
+<!--#set var="dir"      value="links" -->
+<!--#set var="file"      value="links-f.shtml" -->
+<!--#set var="flink"      value="/./links/links-f.shtml" -->
+<!--#set var="ilink"      value="/./links/links.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="links" -->
+<!--#set var="keywords"      value="SCO, Microsoft, software libero, linux" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="base" -->
+<!--#set var="lm"      value="" -->
+<!--#set var="next"      value="tirchi" -->
+<!--#set var="prev"      value="unaelle" -->
+<!--#set var="subtitle"      value="Risorse e collegamenti con il vasto mondo di Linux su Internet" -->
+<!--#set var="title"      value="Links@exedre.org" -->

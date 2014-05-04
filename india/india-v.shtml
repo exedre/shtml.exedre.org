@@ -1,0 +1,20 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="date"      value="Febbraio 2003" -->
+<!--#set var="dir"      value="india" -->
+<!--#set var="file"      value="india-f.shtml" -->
+<!--#set var="flink"      value="/./india/india-f.shtml" -->
+<!--#set var="follow"      value="india-amargine.shtml" -->
+<!--#set var="ilink"      value="/./india/india.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="india" -->
+<!--#set var="keywords"      value="Bill Gates, Richard Stallman, Pubblica Amministrazione, exedre" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="base" -->
+<!--#set var="lm"      value="come editoriale su Linux Magazine n. 26 Febbraio 2003" -->
+<!--#set var="next"      value="disobbedienti" -->
+<!--#set var="prev"      value="." -->
+<!--#set var="subtitle"      value="Di come l'India scampò il pericolo" -->
+<!--#set var="subtitle1"      value="Cronaca di un non-incontro che fece notizia" -->
+<!--#set var="title"      value="Bill giramondo in India fece flop " -->

@@ -1,0 +1,18 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="date"      value="Novembre 2003" -->
+<!--#set var="dir"      value="fsfforbes" -->
+<!--#set var="file"      value="fsfforbes-f.shtml" -->
+<!--#set var="flink"      value="/./fsfforbes/fsfforbes-f.shtml" -->
+<!--#set var="ilink"      value="/./fsfforbes/fsfforbes.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="fsfforbes" -->
+<!--#set var="keywords"      value="FSF, Legale, Forbes, exedre" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="base" -->
+<!--#set var="lm"      value="come editoriale su Linux Magazine n. 36 Novembre 2003" -->
+<!--#set var="next"      value="." -->
+<!--#set var="prev"      value="leejhai" -->
+<!--#set var="subtitle"      value="Che scandalo! La Free Software Foundation protegge attivamente gli utenti." -->
+<!--#set var="title"      value="Forbes sforbicia la FSF: questi difendono!" -->

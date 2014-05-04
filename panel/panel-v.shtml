@@ -1,0 +1,17 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="comments"      value="" -->
+<!--#set var="date"      value="Giugno 2003" -->
+<!--#set var="dir"      value="panel" -->
+<!--#set var="file"      value="panel-f.shtml" -->
+<!--#set var="flink"      value="/./panel/panel-f.shtml" -->
+<!--#set var="follow"      value="" -->
+<!--#set var="ilink"      value="/./panel/panel.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="panel" -->
+<!--#set var="keywords"      value="exedre, panel, opensource, italia" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="next"      value="news" -->
+<!--#set var="prev"      value="." -->
+<!--#set var="subtitle"      value="Un panel per le ricerche su Linux, l'open source e il software libero" -->
+<!--#set var="title"      value="Il panel su Linux" -->

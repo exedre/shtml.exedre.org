@@ -1,0 +1,18 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="date"      value="Ottobre 2003" -->
+<!--#set var="dir"      value="leejhai" -->
+<!--#set var="file"      value="leejhai-f.shtml" -->
+<!--#set var="flink"      value="/./leejhai/leejhai-f.shtml" -->
+<!--#set var="ilink"      value="/./leejhai/leejhai.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="leejhai" -->
+<!--#set var="keywords"      value="Lee Felsestein, Digital Divide, exedre" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="base" -->
+<!--#set var="lm"      value="come editoriale su Linux Magazine n. 35 Ottobre 2003" -->
+<!--#set var="next"      value="fsfforbes" -->
+<!--#set var="prev"      value="tirchi" -->
+<!--#set var="subtitle"      value="Lee Felsestein è il papà dei moderni PC portatili. Un vero hacker alle prese con un problema insolubile dimostra tutta la sua superiorità." -->
+<!--#set var="title"      value="Felsestein in Laos dà lezioni di Digital Divide" -->

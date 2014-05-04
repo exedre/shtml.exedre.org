@@ -1,0 +1,101 @@
+<!-- The Indexes -->
+<h2>Gli indici</h2>
+<p>
+<br><a href='#chrono'>Indice Cronologico</a>
+<br><a href='#anal'>Indice Analitico</a>
+<p>
+<font size=-1>
+<h3><a name=crono>Indice Cronologico</a></h3>
+
+<!--#include virtual='$base/bonaventura/bonaventura-v.shtml' -->
+<!--#set var='when' value='$date' -->
+<!--#include virtual='$base/frags/news-note.shtml' -->
+
+<!--#include virtual='$base/sconfnr/sconfnr-v.shtml' -->
+<!--#set var='when' value='$date' -->
+<!--#include virtual='$base/frags/news-note.shtml' -->
+
+<!--#include virtual='$base/fsfforbes/fsfforbes-v.shtml' -->
+<!--#set var='when' value='$date' -->
+<!--#include virtual='$base/frags/news-note.shtml' -->
+
+<!--#include virtual='$base/leejhai/leejhai-v.shtml' -->
+<!--#set var='when' value='$date' -->
+<!--#include virtual='$base/frags/news-note.shtml' -->
+
+<!--#include virtual='$base/tirchi/tirchi-v.shtml' -->
+<!--#set var='when' value='$date' -->
+<!--#include virtual='$base/frags/news-note.shtml' -->
+
+<!--#include virtual='$base/scolug/scolug-v.shtml' -->
+<!--#set var='when' value='$date' -->
+<!--#include virtual='$base/frags/news-note.shtml' -->
+
+<!--#include virtual='$base/panel/panel-v.shtml' -->
+<!--#set var='when' value='$date' -->
+<!--#include virtual='$base/frags/news-note.shtml' -->
+
+<!--#include virtual='$base/mankind/mankind-v.shtml' -->
+<!--#set var='when' value='$date' -->
+<!--#include virtual='$base/frags/news-note.shtml' -->
+
+<!--#include virtual='$base/primavera/primavera-v.shtml' -->
+<!--#set var='when' value='$date' -->
+<!--#include virtual='$base/frags/news-note.shtml' -->
+
+<!--#include virtual='$base/unaelle/unaelle-v.shtml' -->
+<!--#set var='when' value='$date' -->
+<!--#include virtual='$base/frags/news-note.shtml' -->
+
+<!--#include virtual='$base/disobbedienti/disobbedienti-v.shtml' -->
+<!--#set var='when' value='$date' -->
+<!--#include virtual='$base/frags/news-note.shtml' -->
+
+<!--#include virtual='$base/india/india-v.shtml' -->
+<!--#set var='when' value='$date' -->
+<!--#include virtual='$base/frags/news-note.shtml' -->
+
+<!--#include virtual='$base/cnoright/cnoright-v.shtml' -->
+<!--#set var='when' value='$date' -->
+<!--#include virtual='$base/frags/news-note.shtml' -->
+
+<!--#include virtual='$base/yolanda/yolanda-v.shtml' -->
+<!--#set var='when' value='$date' -->
+<!--#include virtual='$base/frags/news-note.shtml' -->
+
+<!--#include virtual='$base/proudhon/proudhon-v.shtml' -->
+<!--#set var='when' value='$date' -->
+<!--#include virtual='$base/frags/news-note.shtml' -->
+
+<!--#include virtual='$base/ripensamento/ripensamento-v.shtml' -->
+<!--#set var='when' value='$date' -->
+<!--#include virtual='$base/frags/news-note.shtml' -->
+
+<!--#include virtual='$base/monaco2k/monaco2k-v.shtml' -->
+<!--#set var='when' value='$date' -->
+<!--#include virtual='$base/frags/news-note.shtml' -->
+
+<!--#include virtual='$base/avanti/avanti-v.shtml' -->
+<!--#set var='when' value='$date' -->
+<!--#include virtual='$base/frags/news-note.shtml' -->
+
+<!--#include virtual='$base/winwin/winwin-v.shtml' -->
+<!--#set var='when' value='$date' -->
+<!--#include virtual='$base/frags/news-note.shtml' -->
+
+<!--#include virtual='$base/1dim/1dim-v.shtml' -->
+<!--#set var='when' value='$date' -->
+<!--#include virtual='$base/frags/news-note.shtml' -->
+
+<!--#include virtual='$base/satan/satan-v.shtml' -->
+<!--#set var='when' value='$date' -->
+<!--#include virtual='$base/frags/news-note.shtml' -->
+
+<p>
+<!--#include virtual='$base/frags/anal-index.shtml' -->
+
+<!--#include virtual='$base/frags/art-void.shtml' -->
+<!--#set var='follow' value='' -->
+
+</font>
+

@@ -1,0 +1,247 @@
+<!--#include virtual="$base/frags/art-title.shtml" -->
+
+<p><i> [ L'articolo originale è pubblicato su <a
+     href="http://www.fsf.org/philosophy/sco/sco-without-fear.html">http://www.fsf.org/philosophy/sco/sco-without-fear.html</a>
+     ed è rilasciato come copyright 2003 di Eben Moglen, le cui copie
+     letterali sono permesse in ogni mezzo riportandone la nota di
+     copyright presente in fondo. La traduzione italiana è, invece,
+     disponibile su <a href="http://www.exedre.org/sconfnr">http://www.exedre.org/sconfnr</a> ] </i>
+
+<p>C'è una definizione tradizionale di azzeccagarbugli: è un avvocato
+che, quando la legge è contro di lui, se la prende con le prove, e
+quando le prove sono contro di lui, se la prende con la legge, e
+quando sia le prove che la legge sono contro di lui, prende a pugni il
+tavolo. I continui tentativi di SCO Group di accrescere il proprio
+valore di mercato a spese degli sviluppatori del software libero, dei
+propri distributori e degli utenti attraverso esotiche teorie legali e
+presunzioni di prove senza sostanza, mostra che questo vecchio modo di
+dire ha ancora qualche valore.
+
+<h4>Solo le prove</h4>
+
+<p>SCO continua a proclamare in pubblico che nella causa contro IBM potrà
+dimostrare che il kernel Linux del sistema operativo libero viola il
+copyright SCO sul codice sorgente di Unix SysV. Ma nell'unica
+occasione in cui SCO ha pubblicamente mostrato qualche esempio di
+codice di Linux che millantava fosse copiato da Unix SysV, la sua
+dimostrazione le si è ritorta contro, mostrando piuttosto la vera
+faccia della propria noncuranza verso le leggi sul copyright, ma ancor
+di più la propria sciatteria nella ricerca delle prove.
+
+<p>Il 18 Agosto 2003 in un evento pubblico a Las Vegas, il CEO di SCO,
+Darl McBride, ha offerto una presentazione con alcuni esempi che
+secondo lui dimostravano la violazione dei diritti della propria
+azienda dovuti alla copia letterale di codice sorgente preso da Unix
+Sys V e inserito in Linux. Dopo solo poche ore la comunità del
+software libero e dell'open source aveva già analizzato quella che
+avrebbe dovuto essere la prova principe di SCO: quanto risultò non fu
+certo incoraggiante per gli investitori e per tutti gli altri che
+speravano che SCO sapesse almeno di quello di cui parlava [1].
+
+<p>A Las Vegas McBride ha offerto due esempi che sosteneva fossero
+copiati da Sys V. Il primo implementa il firewall <i>Berkley Packet
+Filter</i> (BPF). Effettivamente anche il kernel di Linux contiene una
+implementazione del BPF, ma è un lavoro originale realizzato dallo
+sviluppatore Linux Jay Schulist. SCO non può pretendere nessuna
+proprietà nella implementazione iniziale del BPF che, come dice il
+nome era in origine una parte dello Unix BSD di Berkley, e che è stata
+copiata, in modo perfettamente legale, all'interno di Unix Sys V di
+SCO.  Poichè le implementazioni BPF in SysV e Linux hanno un antenato
+intellettuale in comune ed eseguono la stessa funzione, il programma
+di ricerca delle somiglianze utilizzato da SCO sulle due basi di
+codice sorgente ha restituito questo apparente esempio di copia. Ma
+SCO non ha fatto sostanziali ricerche per verificare che il lavoro di
+cui stavano recriminando la violazione non fosse il proprio
+(probabilmente poichè a suo tempo "per disattenzione" era stata
+rimossa l'originale nota di copyright).
+
+<p>Solo appena meno dubbio era il secondo esempio di McBride. McBride ha
+mostrato qualche decina di linee di codice prese dalla allocazione di
+memoria di "Linux" erano identiche al codice di Unix Sys V. Di nuovo,
+comunque, è successo che SCO si è basata sulla ricerca di somiglianze
+nel codice sorgente senza accertarsi della vera storia e dello stato
+del copyright del lavoro di cui reclamavano la proprietà e la
+violazione. Il sorgente C mostrato nella presentazione era stato per
+la prima volta incorporato in Unix Version 3 e fu scritto nel 1973,
+però discende da una precedente versione pubblicata da Donald Knuth
+nel suo classico "The Art of Computer Programming" nel 1968.
+
+<p>Inoltre AT&amp;T aveva già reclamato la proprietà di questo codice,
+insieme ad altre porzioni del suo OS Unix, nella famosa causa BSD
+contro l'Università della California, e gli fu allora negata una
+ingiunzione preliminare sulla base del fatto che non avrebbe mai
+potuto verosimilmente sostenere tale violazione, poiché essa stessa
+aveva già in prededenza reso pubblico questo codice senza apporvi una
+nota di copyright e quindi, per la legge sul copyright pre-1976 negli
+Stati Uniti, era come se avesse rilasciato il codice nel pubblico
+dominio.
+
+<p>Nel 2002, il predecessore di SCO, Caldera, ha rilasciato di nuovo tale
+codice ma questa volta imponendovi una licenza che ne permetteva la
+libera copia e la redistribuzione. A quel punto la Silicon Graphics
+Inc. (SGI) ha usato il codice in una variante del programma Linux
+realizzata per una serie di computer basati su architettura a 64 bit
+chiamata "Trillium" che la SGI avrebbe dovuto vendere ma non che alla
+fine non ha mai distribuito. Nell'incorporare il codice, SGI ha
+violato i termini della licenza di Caldera solo per aver
+inopportunamente rimosso la nota di copyright della Caldera, ma tale
+nota era comunque errata.
+
+<p>Quindi il secondo esempio, quello che SCO supponeva fosse una copia
+senza permesso, innanzitutto era già nel pubblico dominio, e
+successivamente la stessa SCO l'aveva persino rilasciato sotto una
+licenza di software libero dopo avervi erroneamente imposto sopra un
+proprio copyright. SGI ha solo complicato le cose rimuovendo
+impropriamente l'errata nota di copyright.
+
+<p>Ma quanti sono i PC e o i server basati su architettura
+Intel nel mondo contengono questo codice problematico?  Zero.  Nessuna
+versione del programma Linux per le architetture Intel lo ha mai
+contenuto. E neppure alcun hardware SGI per cui questo codice fu
+scritto è mai stato venduto. HP, che vende i server a 64-bit Itanium,
+ha rimosso il codice dal ramo IA-64 dell'albero di codice di Linux,
+perché era tecnicamente ridondante.
+
+<p>Purtroppo la ricerca di SCO non è andata oltre la scoperta di una
+supposta istanza della "copia" senza chiedersi se SCO avesse alcun
+diritto su quello che era stato copiato e certamente senza fornire al
+proprio pubblico nessuna indicazione che il "Linux" di cui stava
+parlando era una variante per computer rari da cui il codice che
+sosteneva violare i diritti di SCO era in realtà già stato rimosso da
+HP.
+
+<p>Ciò che gli esempi di Las Vegas hanno veramente dimostrato è che
+mantenendo segrete in modo artefatto queste supposte violazioni, SCO
+le ha irresponsabilmente gonfiate.
+
+<p>Cosí, pur essendosi scelta le prove da mostrare in pubblico, le prove
+stesse le si sono ritorte contro, non ci è sembrato quindi strano che
+SCO ad Agosto se la sia presa con la legge. Ma neppure la legge sta
+dalla loro parte.
+
+<h4>Truccare la legge</h4>
+ 
+<p>La situazione legale di SCO contiene un'intrinseca contraddizione.
+
+<p>Nelle lettere che ha spedito ai grandi utenti aziendali di software
+libero e nelle posizioni pubbliche in cui pretende dagli utenti delle
+versioni recenti del kernel comprino licenze, SCO avanza la pretesa
+che il programma Linux contenga materiale di cui detiene il
+copyright. Ma ha anche avanzato richieste di violazione di segreti
+commerciali contro la IBM, sostenendo che IBM ha contribuito al kernel
+Linux con materiale coperto da licenze di non divulgazione o altri
+contratti. SCO ha però anche distribuito Linux sotto GPL e lo continua
+a fare. Ha quindi essa stessa pubblicato i propri supposti segreti
+commerciali e il proprio materiale sotto copyright, sotto una licenza
+che dà ad ognuno il permesso di copiare, modificare e
+ridistribuire. 
+
+<p>Se la GPL significa ciò che dice, SCO perderà la causa che riguarda i
+propri segreti industriali contro IBM e non potrà far alcun danno o
+creare problemi agli utenti del kernel Unix.
+
+<p>Ma se la GPL non fosse un permesso di copyright efficace e valido, che
+cosa avrebbe potuto dare a SCO il diritto di distribuire tutto il
+lavoro protetto dal copyright che hanno realizzato i contributori di
+Linux, e anche tutti gli autori di ogni altro software sotto copyright
+che attualmente SCO pretende di distribuire per merito della GPL?
+
+<p>La controquerela che IBM ha mosso contro SCO solleva proprio questa
+problema rispetto alle contributi di IBM al kernel Linux. Secondo
+la sezione 6 della GPL, nessun ridistributore della GPL può aggiungere
+alcuna clausola alla licenza; SCO ha invece richiesto che chi usa il
+kernel Linux debba comprare una nuova licenza addizionale da SCO, e
+conformarsi ad obblighi addizionali.
+
+<p>Ma nella GPL alla sezione 4 si dice esplicitamente che chi viola la
+licenza perde automaticamente il diritto di distribuire il lavoro di
+cui sta violando le regole. A ragione IBM quindi sostiene che SCO non
+ha alcun permesso di distribuire il kernel e poichè lo sta ancora
+facendo non solo sta violando i copyright di IBM ma anche quelli di
+tutti i contributori del kernel. Quindi a meno che SCO non riesca a
+provare che la GPL è una forma valida di permesso e che lei non ha mai
+violato questi termini del permesso, perderà sulle controrichieste e
+sarà querelabile per danni non solo da IBM ma anche da tutti i
+contributori al kernel.
+
+<p>Le controquerela di IBM ha messo SCO all'angolo per quanto riguarda la
+GPL. Non solo le prove ma anche la legge è adesso fondamentalmente
+contro la posizione sempre più disperata di SCO.
+
+<p>SCO e il suo predecessore, Caldera, hanno beneficiato enormemente
+della protezione della GPL. Ad esempio è solo grazie alla GPL che SCO
+è stata in grado di usare il lavoro prezioso dei progettisti dei
+compilatori e degli implementatori di tutto il mondo che hanno reso il
+compilatore GCC della Free Software Foundation il principale
+compilatore cross-platform. Le applicazioni di clienti SCO girano
+su Unix Sys V solo per merito del GCC, a cui la SCO stessa ha
+contribuito con modifiche specifiche al proprio sistema. Modifiche di
+cui ha assegnato il copyright alla Free Software Foundation. Caldera e
+SCO non avrebbero mai potuto mettere in vendita un prodotto come
+sistema operativo usabile senza il contributo della comunità del
+software libero. SCO fu felice di ricevere questi benefici ma oggi ha
+immoralmente richiesto di venir meno ai propri obblighi. La legge non
+permette a SCO di avere la botte piena e la moglie ubriaca.
+
+<p>E cosí adesso è arrivato il momento per SCO e i suoi legali di
+prendersela con il tavolo. La risposta di SCO alla controquerela di
+IBM si è sostanziata in una quantità di assurdi attacchi alla GPL, ai
+suoi utenti, ai suoi autori, alla Free Software Foundation. La GPL,
+sostiene la risposta di SCO alla querela di IBM, viola non solo lo
+statuto federale ma anche la costituzione degli Stati Uniti. La SCO
+ovviamente non si degna di farci capire come sia possibile che, solo
+dando ad altri il permesso di copiare, modificare e redistribuire il
+proprio lavoro, un titolare di un copyright privato possa violare la
+costituzione degli Stati Uniti.
+
+<p>Le teorie legali non sono segrete; se i legali di SCO hanno qualcosa
+da offrire in supporto a questo nuova affermazione dovrebbero farcela
+conoscere.  Non è mai esistito caso, nella pur lunga storia del
+copyright degli Stati Uniti, in cui si ritrova questa ridicola
+concezione di una licenza di copyright incostituzionale. Nessun
+avvocato nella mia ragionevolmente ampia conoscenza prende per seria
+questa idea balzana, quale che sia la sua visione della GPL.
+
+<p>Dopo aver fallito con le prove, e fallito con la legge, dopo aver
+sollevato nient'altro che una risata di derisione da parte del tavolo
+preso a pugni, anche il proverbiale azzeccagarbugli non sa più a che
+santo votarsi.
+
+<p>Che cosa vedremo prossimamente dalla SCO? Un attacco all'arbitro? (*)
+
+<p><tt>Copyright © Eben Moglen, 2003. La copia letterale di questo
+articolo è permessa con ogni mezzo, purchè questa nota sia mantenuta.
+L'originale è disponibile presso <a
+href="http://www.fsf.org/philosophy/sco/sco-without-fear.html">
+http://www.fsf.org/philosophy/sco/sco-without-fear.html</a></tt>
+
+<p><tt>Per la traduzione: © Emmanuele Somma, 2003. Copie letterali della
+presente traduzione sono permesse in ogni mezzo, purchè questa nota
+sia riportata.  La versione aggiornata è disponibile presso
+<a href="http://www.exedre.org/sconfnr">http://www.exedre.org/sconfnr</a></tt>
+
+<p><b>Eben Moglen</b> è professore di diritto alla Columbia University Law
+School, e lavora, senza compenso, come Consigliere Generale della
+<a href="http://www.gnu.org">Free Software Foundation</a>.
+
+<h5>Note:</h5>
+
+<p>[1] La più completa pubblicazione sulla presentazione SCO tenuta a
+Las Vegas è stata scritta da Bruce Perens è disponibile su <a
+href="http://www.perens.com/SCO/SCOSlideShow.html">http://www.perens.com/SCO/SCOSlideShow.html</a>.
+
+<p>(*) Nota del Traduttore: Intraducibile gioco di parole cinematografico
+tra "An attack on the empire" (un attacco all'Impero) che rimanda alla
+vasta tradizione SCI-FI/Star_Wars viva nell'etica hacker, e il
+riportato "An attack on the umpire", che significa letteralmente un
+attacco all'arbitro o giudice.
+
+<h6>Ringraziamenti</h6>
+
+<p><font size=-1>Andrea Glorioso e Francesco Potorti', per i commenti
+e i miglioramenti della traduzione. </font>
+
+<!--#include virtual="$base/frags/firma.shtml" -->
+
+<!--#include virtual="$base/frags/art-trans.shtml" -->
+<!--#include virtual="$base/frags/art-accessori.shtml" -->

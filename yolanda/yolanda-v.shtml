@@ -1,0 +1,19 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="date"      value="Luglio 2002" -->
+<!--#set var="dir"      value="yolanda" -->
+<!--#set var="file"      value="yolanda-f.shtml" -->
+<!--#set var="flink"      value="/./yolanda/yolanda-f.shtml" -->
+<!--#set var="follow"      value="" -->
+<!--#set var="ilink"      value="/./yolanda/yolanda.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="yolanda" -->
+<!--#set var="keywords"      value="BSA, Yolanda Rios, Pirateria, Neruda, exedre" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="base" -->
+<!--#set var="lm"      value="" -->
+<!--#set var="next"      value="ripensamento" -->
+<!--#set var="prev"      value="." -->
+<!--#set var="subtitle"      value="Lettera aperta a Yolanda Rios, presidente di BSA (e relativa risposta)" -->
+<!--#set var="title"      value="Cara Yolanda" -->

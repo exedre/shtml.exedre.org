@@ -1,0 +1,77 @@
+<!--#include virtual="$base/frags/art-title.shtml" -->
+
+
+<p>Nel 1981 un Osborne One entrò nella mia casa e cambiò la mia vita. Il
+primo computer portatile della storia (ehm... direi trasportabile a
+stento, per un tredicenne, visto il peso) mi lasciò intendere come il
+mondo sarebbe cambiato radicalmente. Era stato progettato per Adam
+Osborne da Lee Felsestein, animatore e coordinatore del mitico
+Homebrew Computer Club, ma anche organizzatore 'militare' delle marce
+controculturali della California hippie e fondatore e principale
+finanziatore del Community Memory, primo utilizzo sociale conosciuto
+dei computer come mezzo pubblico di comunicazione interpersonale
+(progetto peraltro molto criticato dai circoli controculturali
+arroccati su posizioni anti-tecnologiche e luddite).
+
+<p>Nel 2003 ho ritrovato Lee in Laos alle dipendenze, come ingegnere
+capo, di un progetto, denominato Jhai, realizzato dagli ex-militari
+veterani (i "Veteran for Peace" di Lee Thorn) per la riconciliazione
+con il popolo laotiano che ancora vive il disagio delle operazioni
+militari (non ufficiali, peraltro) del governo Americano durante la
+guerra del Vietnam. Il progetto, guidato da Karen Gray, che ha
+lasciato la Microsoft Corporation per seguire questa iniziativa, ha
+preso il via nell'Ottobre 2000, e ha presentato i suoi risultati lo
+scorso Gennaio, perfettamente nei termini previsti.
+
+<p>Ha dell'incredibile. Obiettivo: permettere l'inclusione sociale in
+Internet, e quindi nel mondo, degli abitanti dei villaggi come Phon
+Kham che non hanno letteralmente nulla.  Realizzazione: costruire un
+computer estremamente economico, semplice da manutenere e usare per
+gli abitanti del villaggio, che consumi meno di 20 Watt (20W, meno
+della lampadina sul tuo comodino!) e possa sopportare le condizioni
+climatiche del Laos che vanno dal caldo afoso alle pioggie torrenziali
+monsoniche. Collegato ad Internet ovviamente, ma tenuto conto che la
+più vicina linea telefonica si trova a 20 Km di distanza, punto in cui
+è anche disponibile l'elettricità che non è infatti presente nel
+villaggio. Impossibile? Non per Felsestein.
+
+<p>In un cubo da 20cm di lato in plexiglas sigillato con silicone, Lee ha
+infilato il meglio della tecnologia odierna: un computer-on-a-chip
+MachZ, comparabile ad un completo 486 a 133MHz, 96MB di disco allo
+stato solido, una scheda 802.11b PCMCIA ed un'altra per il VOIP. Un
+monitor LCD da 12 pollici incapsulato in un contenitore di alluminio e
+plexiglas e una microscopica stampante Okidata a matrice di punti. Il
+tutto alimentato ad una batteria caricata da una... bicicletta (sí
+proprio come nei cartoni animati). Niente pannelli solari, che durante
+un monsone non hanno una grande utilità. Un minuto di pedalata
+permette 5 minuti di uso del PC. Il collegamento con il telefono
+realizzato attraverso un ponte Wireless costruito con antenne ad
+altissimo guadagno e, nel punto di arrivo, un server con il modem per
+ruotare il traffico su Internet. Tutti pezzi 'off-the-shelf' dal costo
+ridottissimo.
+
+<p>Come software: Laonux, il porting nella complicatissima lingua del
+Laos di Linux, completo di KDE e dei programmi per Internet,
+realizzata da un ingegnere locale Anousak Souphavanh ("probabilmente
+la parte più difficile del progetto"), che è anche l'unico programma
+per computer mai scritto in quella lingua.
+
+<p>Il <a href="http.//www.jhai.org">Jhai Remote Village IT Project</a>
+(www.jhai.org) che collegherà a breve altri villaggi come Phon Kham,
+ha messo il meglio della tecnologia disponibile oggi, un manager
+qualificato, un grande team di volontari e uno dei migliori ingegneri
+sulla piazza, al servizio di quanti non hanno nulla, secondo le loro
+esigenze. Una lezione a quanti vogliono risolvere il Digital Divide
+sentendosi tanto fighi solo per aver scaricato i propri vecchi
+computer -lenti, costosi da mantenere e da alimentare e impossibili da
+gestire- nel Terzo Mondo invece che nella pattumiera. Buona coscienza
+a buon mercato.
+
+<p>Linux è una grande risorsa, ma la nostra testa lo è molto di
+più. Grazie di tutto, Lee.
+
+
+<!--#include virtual="$base/frags/firma.shtml" -->
+
+<!--#include virtual="$base/frags/art-trans.shtml" -->
+<!--#include virtual="$base/frags/art-accessori.shtml" -->

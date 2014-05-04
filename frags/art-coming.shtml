@@ -1,0 +1,3 @@
+<p><!--#echo var="when"-->: sarà pubblicato "<!--#echo var="title"-->"
+ (<I><!--#echo var="subtitle"--> <!--#if expr="$subtitle1 != ''" --> <!--#echo var="subtitle1"--> <!--#endif --></i>) <!--#echo var="date"--> 
+<br>

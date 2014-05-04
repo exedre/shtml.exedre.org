@@ -1,0 +1,14 @@
+<!-- Left Column -->
+<font color=red><a href='$base/'>www.exedre.org</a></font><br>
+<br>
+<font color=red>Dalla home-page</font><br>
+<a href='$base/home.shtml#speciale'>Speciale</a><br>
+<a href='$base/home.shtml#pirateria'>Anti-pirateria</a><br>
+<a href='$base/home.shtml#spot'>Spotlight</a><br>
+<a href='$base/home.shtml#eventi'>Eventi</a><br>
+<a href='$base/home.shtml#trans'>Traduzioni</a><br>
+<br>
+<font color=red>Indici:</font><br>
+<a href='$base/theindex.shtml#chrono'>Cronologico</a><br>
+<a href='$base/theindex.shtml#anal'>Analitico</a><br>
+

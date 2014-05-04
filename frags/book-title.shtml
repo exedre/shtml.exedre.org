@@ -1,0 +1,11 @@
+<!-- File -f.shtml -->
+<h1><a name="<!--#echo var='dir' -->"><i><!--#echo var="site" -->:</I><br> <!--#echo var="title"--></a></h1>
+<i><!--#if expr="$subtitle != ''" --><!--#echo var="subtitle"--><br><!--#endif -->
+<!--#if expr="$auth != ''" -->di <!--#echo var="auth"--><br><!--#endif -->
+<!--#if expr="$publ != ''" --><a href="<!--#echo var="publu"-->"><!--#echo var="publ"--></a><br><!--#endif -->
+</i>
+<!--#if expr="$isbn != ''" -->ISBN: <!--#echo var="isbn"--><br><!--#endif -->
+<!--#if expr="$pagg != ''" -->Pagg. <!--#echo var="pagg"--><br><!--#endif -->
+<br>
+<!--#echo var="date"-->
+<br>

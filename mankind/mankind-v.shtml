@@ -1,0 +1,19 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="date"      value="Giugno 2003" -->
+<!--#set var="dir"      value="mankind" -->
+<!--#set var="file"      value="mankind-f.shtml" -->
+<!--#set var="flink"      value="/./mankind/mankind-f.shtml" -->
+<!--#set var="ilink"      value="/./mankind/mankind.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="mankind" -->
+<!--#set var="keywords"      value="UNESCO, Patrimonio Mondiale, software libero, linux" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="base" -->
+<!--#set var="lm"      value="come editoriale su Linux Magazine n. 31 Giugno 2003" -->
+<!--#set var="next"      value="scolug" -->
+<!--#set var="prev"      value="1dim" -->
+<!--#set var="subtitle"      value="Il software libero è già un patrimonio dell'umanità." -->
+<!--#set var="subtitle1"      value="Facciamolo sapere a chi decide." -->
+<!--#set var="title"      value="Liberté, egalité, fraternité: software libero" -->

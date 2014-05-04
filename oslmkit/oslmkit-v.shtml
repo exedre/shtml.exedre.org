@@ -1,0 +1,19 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="small" -->
+<!--#set var="date"      value="02 Novembre 2003" -->
+<!--#set var="dir"      value="oslmkit" -->
+<!--#set var="file"      value="oslmkit-f.shtml" -->
+<!--#set var="flink"      value="/./oslmkit/oslmkit-f.shtml" -->
+<!--#set var="follow"      value="" -->
+<!--#set var="ilink"      value="/./oslmkit/oslmkit.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="oslmkit" -->
+<!--#set var="keywords"      value="Bill Gates, Richard Stallman, Pubblica Amministrazione, exedre" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="base" -->
+<!--#set var="lm"      value="" -->
+<!--#set var="next"      value="proudhon" -->
+<!--#set var="prev"      value="." -->
+<!--#set var="subtitle"      value="Linee Guida per la realizzazione di articoli per Linux Magazine" -->
+<!--#set var="title"      value="Open Source & Linux Magazine Authors' Kit" -->

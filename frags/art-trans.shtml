@@ -1,0 +1,4 @@
+<!-- Taduzione -->
+
+<P><I>"<!--#echo var='title'-->" ( <B>http://<!--#echo var="site"-->/<!--#echo var="dir" -->/ </B> ) </I><BR> 
+&copy; <!--#echo var='date'--> translation by <!--#echo var='me'-->  - All Rights Reserved.</P>

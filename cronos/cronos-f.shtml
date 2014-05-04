@@ -1,0 +1,428 @@
+<!--#include virtual="$base/frags/art-title.shtml" -->
+
+<p>questo è il papier-llo di cui parlavamo.  Serbalo con grande discrezione.
+ 
+<p>Vedi un po' quello che puoi fare.
+ 
+<h4>I miei hobby</h4>
+ 
+<P>Una cronologia di attività hobbistiche e non professionali che mi sono
+trovato a fare in questi ultimi anni risalendo fino ai bei tempi della
+"piccola" informatica. 
+ 
+<P>(1980) Organizzo tornei di videogames (l'Atari VCS) in vetrina da Moon
+(negozio di giocattoli). Mi diverto un mondo e verrò ricompensato con una
+scatola di VII Legio (un gioco di ruolo) e Yom Kippur (un boardgame). Non ho
+mai posseduto una console di videogames!
+ 
+<P>(1981) C'è un Osborne One in casa mia che cambia la mia vita (Lee
+Felsenstein aveva ragione: /è/ la rivoluzione!).  Un professore di fisica mi
+invita alla scoperta, sua e nostra dell'Apple ][ appena acquistato
+dall'Istituto Tecnico. Il mio Liceo Scientifico è ovviamente troppo snob per
+abbassarsi ad usare tali malefici apparecchi. Lungo periodo di frustrazione
+per una macchina il cui unico vero pregio è quello che puoi aprirla per
+vedere com'è fatta dentro. Si deve usare Visicalc o attendere l'arrivo della
+ROM del Basic, e allora... dàgli di esadecimale!
+ 
+<P>(1982) Compro un Commodore 64. Ho finalmente il Basic, ma dopo un po'
+m'annoia. E l'assembler è lo stesso dell'Apple. Ma qui c'è una mappa di
+memoria documentatissima. E' fighissimo. Incredibile ma vero ancora oggi
+ricordo senza grande fatica una decina di locazioni "importanti" della mappa
+di memoria (197, 1024, 2023, 2040, 2048, 32768, 53247, 61136 e
+sessantacinquemilacinquecentotrentacinque)
+ 
+<P>(1984) Con un amico costruiamo una specie di BASIC avanzato. Ha nuove
+istruzioni BASIC per la grafica e una serie di nuovi comandi interattivi per
+la gestione dei dischi. E' di gran lunga migliore del Simon's Basic. E se
+solo avessimo saputo cosa fosse avremmo potuto chiamarlo DOS e farci un
+sacco di soldi. Lungo periodo di innamoramento per i mostri matematici (il
+C64 ci mette 3 giorni a fare un frattale - in assembler), per Eliza di
+Weizenbaum e per la rubrica di Gardner(?!?) su Le Scienze. 
+ 
+<P>(1985)  I l primo  programma  "tutto mio" è MoniTHOR, una sorta di monitor,
+disassemblatore/assemblatore per C64 (e successivamente cross/assemblatore
+verso Z80 e 8086), scritto in assembler 6502 che usa l'editor interno del
+C64 per scrivere direttamente in assembly invece che in Basic  patchandolo a
+dovere.  Tu scrivi "LIST" e lui disassembla e mostra la memoria con le
+locazioni al posto dei numeri di linea e fai l'editng a tutto schermo come
+il BASIC: magico!  Per una serie di circostanze fortunose lo  piazzo
+(sorgente e tutto) ad una azienda americana che sviluppa videogiochi e
+programmi educational multipiattaforma. Ho perduto le tracce del programma
+(forse esiste una versione in un disco del 1541 che conservo se non si è
+smagnetizzato nel frattempo) e dopo qualche tempo anche dell'azienda (sembra
+acquisita dalla EA?!?).  Dopo questo successo abbandono l'informatica e non
+è l'ultimo anno di liceo ad attrarre la maggior parte delle mie attenzioni.
+Lungo viaggio a Parigi.
+ 
+<P>(1987)  Migro a Nord. Primo anno  di Ingegneria all'Università di Pisa.  Ho
+per le mani solo una HP28 su cui programmare in RPN. Con i colleghi del fan
+club HP si studiano mezzi rocamboleschi per scambiare dati (l'HP28 non ha
+porte di input ma solo un led per l'output con la stampante termica e ogni
+volta bisogna ribattere i programmi necessari e quando la -piccola- memoria
+è piena cancellarli). Alla fine si fa a fette con il Dremel l'apparecchio e
+si sostituisce il led con cui trasmette dati alla stampante con un piccolo
+connettore seriale. 
+ 
+<P>(1988)  Sono cosysop di Wolfnet,  la prima BBS Fidonet di Pisa e una delle
+prime in Italia. Mi occupo, dopo lunga gavetta con il "simpatico" sysop
+nella "pulizia" della BBS interattiva,  mi occuperò di tutte le ultime
+novità,  lasceremo Binkley e introdurremo Frodo e dopo un po' passeremo a
+Unix, prima il Coherent e poi il leggendario Santa Cruz Operation, SCO.
+Cesare vedeva lungo - soprattutto sulla Calibra lanciata a velocità folle
+nelle curve sottomonte, meno male. Ugo, il gatto di Cesare, fa costantemente
+la pipì sulle tastiere. Anche per questo motivo mi occupo dei programmi di
+colloquio con i "point" (ovvero i sistemi terminali di posta Fidonet)  e dei
+sistemi di amministrazione remota . Abbandono il 300 baud autocostruito -era
+la prima volta che mettevo mano ad un saldatore con cui in generale non c'è
+proprio un idillio ancor oggi- e passo a un 2400 - un meraviglioso
+Uniautomation con uno Z80 e l'eprom aggiornabile. Lo "tirero' " fino a 9600
+prima di cambiarlo con un Courier.
+ 
+<P>(1989)  Pubblico un programma per la fattorizzazione dei polinomi per la mia
+HP (che adesso è diventata un 48SX e non ha bisogno di essere fatta a fette
+perchè ha la sua seriale) e che ha bisogno di un computer come memoria di
+massa: e compro Amiga 2000 -e la dipingo di rosa- e passo all'assembler
+68000 ma soprattutto al casino di non avere una mappa di memoria fissa ma
+solo una locazione da big bang: $4. Con Amiga realizzo anche le eidopitture
+proittate in alcuni spettacoli teatrali e a notte inoltrata su una TV
+locale.  Partecipo alla realizzazione di un genlock a basso costo per Amiga
+per una società dell'hinterland napoletano - mi occupo solo della gestione
+hardware del bus  di espansione  e del driver  in assembler per
+l'autoconfigurazione. Partecipo ad una Fiera Amiga all'Ergife, mi fregi(an)o
+di titoli onorifici altisonanti come è d'uso ma che fanno più colpo su
+barbuti omaccioni che sulle agognate standiste. La cosa migliore della festa
+(oltre all'indicibile notturno) e' la cena luculliana offerta da Commodore a
+Trastevere a botta di pajata e coda alla vaccinara.  Non sono coinvolto
+(meno male) nella produzione dell'apparecchio che (si dice ma non so
+proprio  quanto sia vero) diventerà prodotto per il listino ufficiale Amiga.
+Ambedue i   infatti  genlock sembra avessero  una grande quantità di piccoli
+difetti  simili  dovuti alla bassa qualità di realizzazione  tra cui una
+saldatura fatta particolarmente male che metteva a massa quello che non
+avrebbe mai dovuto andarci. 
+ 
+<P>Esame di Calcolatori:  presento come un "esercizio" la progettazione di un
+microprocessore che "gioca" la guerra dei nuclei COREwars (poichè ho
+recuperato i disegni originali vale la pena vederli). Quando glielo presento
+il professor  Corsini, presidente del consiglio di corso di laurea e
+successivamente preside della Facoltà  (e mitico detentore dei diritti
+d'autore sulla frase "Ingegneria deve essere difficile" , da usare come arma
+di offesa nei confronti dei polli che osavano chiedergli di rendere più
+facile la vita agli studenti, che so aumentando gli appelli, rilasciando un
+po' di materiale didattico e così via). Egli  con la solita sentita
+partecipazione agli entusiasmi altrui mi guarda intedetto e poi mi  smonta:
+"Non starà pensando che qualcuno possa perdere tempo a costruire una cosa
+del genere? Lo ha fatto solo per esercizio, vero?" - non ho il coraggio di
+dirgli che credevo seriamente che l'industria dei semiconduttori non stesse
+aspettando altro che il mio progetto. Il microprocessore è acquisito e
+simulato dalla LSI Logic,  non credo che sia mai stato prodotto (ma chi può
+dirlo: se Motorola hanno prodotto il MIX di Knuth dopo trentanni, prima o
+poi potrebbe venire ben il tempo produrre il mio, no? Modestamente ;-)
+ 
+<P>(1990) Inizio a frequentare la Commodore. Mettiamo su un piccolo gruppo per
+dividere i costi della registrazione come sviluppatori. Ne divento
+coordinatore e nasce il PISAug (Programmatori Italiani per lo Sviluppo di
+Amiga). Realizziamo alcuni progetti di sviluppo hardware e software sotto
+Amiga ( anche  con Amiga Unix System V) , non vogliamo "vendere" ma imparare
+a fare. Siamo tra i primi sviluppatori registrati Commodore.  I miei
+progetti personali riguardano reti e comunicazioni. Sviluppo  anche una
+scheda di rete Token Bus (non Ring) attorno ad un chip Motorola (aargh...
+non mi ricordo  la sigla - ho però ancora il datasheet che  gira per casa)
+riutilizzando in pratica completamente il lavoro fatto per il genlock (da
+quello che ricordo Zorro III era veramente ben fatto).  Ovviamente il
+mercato andrà verso la "pessima" Ethernet, ma che fa? 
+ 
+<P>(1990) Mi metto in affari con il mio sysop per realizzare software e decido
+a mollare l'assembler e programmare in C - si deve fare un lavoro "pagato"
+per il leggendario Boarino (finirò tutto dopo una mezza estate di nottate
+passate a completare l'interfaccia grafica del programma e dopo aver creato
+una società - Rekursive Labs- per cui l'INPS di Pisa mi rompe ancora gli
+zebedei). Ci guadagno giusto giusto i soldi per un viaggio a Norimberga e
+per il 286 con cui mi faccio la mia BBS: si  chiama  riverrun_joyce
+(2:332/607)  in omaggio a Finnegan Wake.  Inizia così l'annoso litigio con
+la Telecom che pretende di farmi pagare il canone di utente telegrafico e
+che non vuole si fischi fuori dalla banda dei filtri che non ha. Io me ne
+frego. Verrà abolito dopo qualche tempo. La BBS gira  prima sull'80286 (in
+condizioni che non vi dico ma spero di trovare una foto che lo attestino)
+comprato per sviluppare il programma della Rekursive. Il software è
+BinkleyTerm,  poi passo tutto su AmigaOS prima e successivamente sullo Unix
+System V della Commodore piantato su ll' Amiga 4000 (e praticamente tutto
+software GNU)  che comprerò dopo qualche tempo . E' un sistema mail-only
+"chiuso", non accetta utenti interattivi. Un ISP antelitteram  con una unica
+linea  (gratuito, però). In sostanza serve al PISAug per le comunicazioni
+interne e a qualche ricercatore per connettersi in automatico ai suoi
+sistemi di posta internet. Forse è veramente uno dei primi link
+uucp->fidonet (e bitnet->fidonet), ma ad uso molto limitato.  Ne godono,
+oltre noi, alcuni ricercatori del CNUCE e dell'INFN. 
+ 
+<P>(1991)   Il PISAug  e Andrea Salati danno vita  alla prima conferenza IPISA
+(Incontro dei Programmatori Italiani per lo Sviluppo di Amiga) al Planetario
+di Modena in cui faccio due interventi su la programmazione ad ogetti e il
+C++. Gli eventi dell'incontro sono la presenza di Unix System V montato su
+Amiga 3000UX e  il rilascio del porting del GNU C sotto Amiga  di Davide
+Pasetto, componente del PISAug,  che ci aveva fatto ammattire a debuggare il
+"mostro": un grande lavoro che fu la base di tutti i nostri sviluppi
+successivi in C++.  Realizzo il Registro degli Operatori del Centro Stampa
+della Facoltà di Ingegneria, in TeX. 
+ 
+<P>(1992) E' tempo di far funzionare la carta di credito. Ordino dall'America
+una ventina di CD-Rom assortiti. C'è il CUG, del C User Group, il TUG del
+TeX User Group, c'è Sprite e la prima raccolta di Standard Internet (RFC).
+C'è persino un CD con il software di NeXT (che ovviamente mi sbatto sui
+denti). Due CD di SunSite e anche Yggdrasil con la versione di Linux 0.99.
+"Oh cos'è 'sto coso qui?". Lungo periodo di studio della bestia sconosciuta.
+Aspettavamo HURD e invece... Provo ripetutamente ad installare Linux sui
+'386 di amici e parenti - credo di non aver affrontato nulla di più
+complicato chei ricondurre a ragione quel Linux. Alla fine -visto che gli ho
+perduto tutti i dati- devo portarmi via il computer dei miei per cercare di
+recuperarli. Non lo vedranno più e, dopo ulteriori mesi di sbattimento, sarà
+la mia prima installazione Linux. [Ho detto mesi. E' così - a quel tempo i
+modem erano a 9600 massimo e per scaricare un aggiornamento bisognava andare
+al Centro di Calcolo in via Diotiosalvi - o Dio Ti Salvi - e armarsi di
+discrete riserve di dischi e, con tanta pazienza, scaricare, scaricare,
+scaricare, durante le due o tre ore al massimo per cui si riusciva a tenere
+bloccato un terminale. Si fa presto a fare i mesi, così!]
+ 
+<P>(1993)   Nel frattempo il PISAug  diventa il nucleo di Agemo, che è una vera
+società, coinvolge programmatori da Milano, Modena, Roma, Catania e Pisa,
+ovviamente. All'interno di Agemo, il PISAug sviluppa  A.M.I.C.O. - A
+Multimedia Interactive Collection of Objects - una liberia interattiva di
+gestione di oggetti multimediali per realizzare enciclopedie multimediali su
+Commodore CD-TV.  Licenziata come GPL  fu il primo guadagno importante del
+periodo universitario.
+ 
+<P>(1994) Abbandono riverrun_joyce al mio cosysop che ne diventa sysop
+e la rinomina Thunderbolt per associarla al nome Thunderbolt Machines
+della sua piccola azienda individuale. Io ne divento cosysop a mia
+volta, poche settimane prima del Fidobust . Gli passo pure la linea
+telefonica e non mi trovo implicato nella retata del tutto
+casualmente. Lungo periodo di attivismo digitale - su Fidonet e su
+Agorà Telematica. Scrivo "LE. CI. T I - La lega dei cittadini
+telematici" e molti interventi su COMMUNITY NETWORK condotta da
+Bernardo Parrella su Agorà (la BBS del Partito Radicale).  Un archivio
+di COMNET è tenuto su
+<http://www.olografix.org/gubi/estate/archivio/comnet.txt >
+http://www.olografix.org/gubi/estate/archivio/comnet.txt . Finirà che
+il "pezzo" su Leciti sarà rubato e riportato con diversa attribuzione
+di paternità da Decoder, un classico. Per i patiti di "No Copyright",
+è uno scialo, vero?
+ 
+<P>(1995) Sono eletto nel Consiglio della Facoltà di Ingegneria su "mandato"
+del Centro Stampa (non partecipo praticamente mai - solo quando sono in
+discussione le questioni relative al Centro). La lista del Centro Stampa
+prenderà più voti di tutte le altre messe assieme e avrebbe eletto l'80% dei
+rappresentanti se non avesse avuto -deliberatamente- due soli candidati.
+Cerchiamo di non "turbare" l'attività politica ma solo di garantire la
+sopravvivenza del Centro Stampa che i "politici" tentano ormai
+deliberatamente di affossare (e ci riusciranno dopo che andrà via l'ultima
+generazione dei fondatori).  L'elezione arriva dopo un lungo lavoro oscuro
+nella Commissione Biblioteca -organo responsabile in un primo momento del
+Centro Stampa. E successivamente lungo lavoro in Commissione Paritetica
+Studenti/Docenti (i Cinque dell'Apocalisse) dedicata sostanzialmente
+all'analisi dei bilanci dei Dipartimenti e gli Istituti della Facoltà.
+Storici (e a ricordarli oggi divertenti) gli scazzi con alcuni professori
+obbligati a renderci conto di come spendevano i finanziamenti pubblici.
+Prendo parte ai lavori del Consiglio degli Studenti dell'Ateneo sulla
+realizzazione del Regolemento dello Statuto dell'Università di Pisa. Che
+però posso frequentare solo episodicamente visto che vengo spedito a fare il
+servizio civile (illegalmente) a 600 chilometri dalla mia residenza (e
+relativo scazzo con annessa denuncia al Ministero della Difesa). Inizio il
+lavoro della tesi e mi trascino per l'Italia un Packard Bell P100, un
+Presario P133 e un portatile Concerto 486, tutti con Linux. 
+ 
+<P>(1996) Durante il servizio civile sulle ambulanze lavoro alla tesi e alla
+fine rilascio il progetto software (c2o2    e anaconda)  associato alla tesi
+di laurea sulla reingegnerizzazione di progetti Cobol verso sistemi Object
+Oriented (UML) come Public Domain, sarà portato avanti dal DSI
+dell'Università di Firenze  ( dove è attualmente disponibile presso il prof.
+Nesi). La parte più interessante è forse la grammatica lex/yacc del COBOL
+(non mi sembra ce ne siano molte in giro, eccola). La tesi contiene una
+lunga appendice con la documentazione in italiano del primissimo rilascio
+dell'UML di Booch (la v 0.4!). Rumbaugh e Jacobson verranno dopo.
+ 
+<P>(1997) Presentazione alla 1st Euromicro Working Conference on Software
+Maintenance and Reengineering, CSMR97  della pubblicazione   A. Fantechi, P.
+Nesi, E. Somma, ``Object Oriented Analysis of COBOL'', Proc. of the 1st
+Euromicro Working Conference on Software Maintenance and Reengineering,
+CSMR97, IEEE Press, Berlin, Germany, March 1997.   (E' possibile acquistarla
+su  <a href="http://www.compter.org/proceedings/csmr/7892/78920157abs.htm">>
+http://www.compter.org/proceedings/csmr/7892/78920157abs.htm</a>.  (Ecco alcuni
+riferimenti [
+<a href="http://cgi.cc.gatech.edu/cgi-bin/projects/reverse-cgi/get-references.sh?Reverse_Design">1</a>   ,   
+<a href="http://www.isst.fhg.de/CSMR/csmr-prgm.html"> 2</a>  ,
+<a href="http://www.isst.fhg.de/CSMR/csmr-prgm.html"> 3</a>  ,
+<a href="http://www.isst.fhg.de/CSMR/program_ascii.txt"> 4</a> ,
+<a href="http://www.isst.fhg.de/CSMR/program_ascii.txt"> 5 </a> ,
+<a href="http://www.lombardhill.com/biblio1.html">6 </a>,
+<a href="http://www.lombardhill.com/biblio1.html">7 </a>,
+<a href="http://www.dsi.unifi.it/~nesi/public.html">8 </a>,
+<a href="http://www.dsi.unifi.it/~nesi/public.html">9</a>,
+<a href="http://www.dsi.unifi.it/~nesi/wwwcobtoc/LUCIDI.html">10</a>
+<p> e il riferimento bibtex:
+
+ <verb>
+ @InProceedings{   fantechi:97,
+  author = {A. Fantechi and Paolo Nesi and E. Somma},
+  title = {Object-Oriented Analysis of COBOL},
+  booktitle = csmr1,
+  month = mar,
+  year = {1997},
+  publisher = ieeecsp,
+  abstract = {The object-oriented paradigm is presently considered the
+  one which best guarantees the investments for renewal. It
+  allows to produce software with high degrees of reusability
+  and maintainability, satisfying in a certain measure also
+  quality characteristics. These features are not obviously
+  automatically guaranteed by the simple adoption of an
+  object-oriented programming language, a process of
+  re-analysis is needed. In this view, several methods for
+  reengineering old applications according to the
+  object-oriented paradigm were defined and proposed. In this
+  paper, a method and tool (C2O2, COBOL to Object-Oriented)
+  for analyzing COBOL applications in order to extract its
+  object-oriented analysis is presented. The tool identifies
+  classes and their relationships by means of a process of
+  understanding and refinement in which COBOL data structures
+  are analyzed, converted in classes, aggregated, and
+  simplified semiautomatically. The algorithm is also capable
+  of detecting data structures which can cause problems
+  passing to the next millennium, as demonstrated with an
+  example.},
+  class = {Reverse_Engineering, Reverse_Design,
+  Encapsulation_and_Finding_Objects_in_Legacy_Code},
+  sender = {antonio@ifi.unizh.ch}
+}
+</verb>
+ 
+<P>(1997) Ritorno a Pisa e inizio a lavorare nel campo del supporto agli
+sviluppatori software (e anche su un progetto segreto che non sarà mai
+realizzato). Escono gli articoli "Il /proc filesystem di Linux"  su Login 8
+e "SATAN" sul 14.  
+ 
+<P>(1998) Cambio radicalmente lavoro. Lascio Pisa e mi trasferisco a L'Aquila.
+A Novembre poi mi stabilirò a Roma, dove sono tuttora. Finirò per
+collaborare con l'odiata Telecom. Sono coinvolto (quasi controvoglia) in un
+corso di post-diploma in una scuola di provincia del Sud. Preparo una
+settimana di corso sulla "progettazione informatica", che sarebbe stata hard
+anche per hacker incalliti. Ci divertiamo un mondo nell'aula informatica
+superattrezzata e trattiamo con grande libertà  di argomenti incredibili
+attraverso simulatori e compilatori (macchine di turing, il mix di Knuth,
+assembler a 8 bit, ma anche realizzazione di reti locali, e realizzazione di
+siti html). Si discute sull'importanza "sociale" degli strumenti
+informatici. Rimango colpito da alcune strane considerazioni sulla natura
+dei computer come strumento di libertà. (E' una scuola diversa da quello che
+ho fatto io, evidentemente - e meno male!)
+ 
+<P>(1999) Inizio quindi (non casualmente cioè) la collaborazione con Edizioni
+Master. Spedisco un nutrito gruppo di articoli che avrebbero dovuto essere
+pubblicati nel successivo semestre di ioProgrammo. Invece si trasformano nel
+numero 0 di Open Source & Linux Magazine (per motivi di marketing perderà
+subito la parte "Open Source &" sebbene noi continuiamo a ragionarci sopra
+ancora in questi termini) e sarà presentato allo SMAU del '99. Da quel
+momento Linux Magazine esce come allegato di Go!Online la testata su
+Internet, qualche volta allegato ad ioProgrammo, la testata di
+programmazione. Iniziano lunghissime email e scambi di idee con Jaco che
+dall'interno dell'editore cura la realizzazione del prodotto. Un gran bel
+periodo di brainstorming. Anche con poche decine di pagine bimestrali la
+fisionomia della rivista è chiara: linux desktop consumer comunità.
+Coinvolgo Bernardo Parrella che scrive interessanti "controeditoriali". C'è
+un solo problema: mancano gli autori e un linguaggio adatto a raccontare le
+cose.
+ 
+<P>E' veramente molto difficile realizzare Linux Magazine. Bisogna essere
+sufficientemente precisi, per non attirarsi le critiche dei tecnici
+brontoloni (che sono sempre pronti a crocifiggerti se non sei
+super-preciso), e allo stesso tempo bisogna semplificare le cose fino a
+banalizzarle. Viste le risorse abbandoniamo subito la prima velleità. I
+brontoloni brontoleranno, pazienza, e noi con il tempo cercheremo di far
+meglio. Coinvolgo tre colleghi (Francesco, Marco e Marcello). Si inizia a
+fare un gran bel lavoro assieme. C'è anche la fondazione informale di LMUG,
+lo user group di supporto a Linux Magazine di cui scherzosamente assumo la
+carica di Gran Mogol. In verità l'unica attività di LMUG è organizzare cene
+pantagrueliche nei locali del Testaccio, a Trastevere e ultimamente a San
+Lorenzo. Si gestisce anche una mailing-list (che ormai ha quattro anni di
+storia) che il mezzo di coordinamento principale, oltre le
+cene-redazionali-riunioni-del-LMUG.  E tutto questo nel tempo libero!
+Tentiamo di rintuzzare gli attacchi dell'editore che vuole aumentare la
+periodicità . Ci riuscirà solo nel Marzo del 2002.
+ 
+<P>(2000)  Estirpo Windows dal mio computer, tanto per vedere come mi trovo:
+benissimo! Vado in part-time per un corso di specializzazione post-laurea
+sulle telecomunicazioni. Devo frequentare per sei mesi e poi fare dieci
+esami. Insomma inizio a capire qualcosa sui telefoni. Scrivo una gran
+quantità di articoli su Linux. Coinvolgo Andrea, collega di corso, in Linux
+Magazine. Divento papà e cambio lavoro. Allo SMAU la BSA lancia una campagna
+di criminalizzazione contro la copia del software. Credo di essermi proprio
+arrabbiato. Scrivo un esposto all'Autority che ha compentenze sulla
+pubblicità ingannevole. Verrà respinto per "manifesta infondatezza". Scrivo
+un (diverso) esposto all'Istituto di Autodisciplina Pubblicitaria.
+L'istituto affronta il problema e assegna un avvocato alla questione. Farà
+un lavoro eccellente e riuscirà a far condannare la BSA e Mediaset. Pur
+interessate direttamente della questione nessuna associazione -nel campo del
+software libero (come Assoli) o dei diritti digitali (come Alcei)- ha
+ritenuto di sostenere la denuncia. Lo spot verrà condannato come pubblicità
+ingannevole e per lo sfruttamento della credulità e della paura. Il Giurì
+non può, come avrebbe potuto l'Authority, comminare alcuna forma di
+risarcimento del danno. Risultato è che mentre nel pubblico degli addetti ai
+lavori ha avuto molto maggiore risalto la mia denuncia (pubblicata su
+PuntoInformatico, ZeusNews, MyTech, e qui qui e qui). Il pubblico televisivo
+ha continuato a *dover* pensare che "copiare software è reato". Aumentano i
+collaboratori di Linux Magazine e la rivista diventa bimestrale. Mi ritiro
+dalla gestione diretta del prodotto e lascio fare a chi lo sa far meglio. Mi
+viene riservato l'editoriale che verranno distribuiti con licenza pubblica
+(o FDL a scelta).
+ 
+<P>(2001) Una volta finita, arrivano le adesioni alla campagna sulla
+BSA, l'Associazione Software Libero e le attuali campagne <a
+href="http://www.softwarelibero.it/docs/pirateria.shtml">anti-"pirateria"</a>,
+il sito di Alcei non ne fa menzione ma il suo presidente Andrea Monti
+la cita (senza riportare le fonti come correttezza impone) qui qui e
+qui.  Scrivo un piccolo divertimento filosofico letterario:
+"L'antipirateria dice: la proprietà privata è un furto". (Viene
+pubblicato su PuntoInformatico, ZeusNews e ha una vasta circolazione
+nelle mailing list). Del tutto casualmente dopo qualche giorno Claudio
+Magris sulla prima del Corriere della Sera, in un articolo sul diritto
+d'autore -ovviamente allineato agli interessi dei grandi editori- cita
+?!? che parafrasa Prouhdhon. Giovanni D'Ammassa, animatore del sito
+Dirittodautore.it mi risponde per le rime.  Dopo qualche anno curerà
+una rubrica dove criticherà ... per gli stessi motivi miei, riportando
+con grande correttezza anche la "vecchia" notizia della (e persino
+citandomi! Grazie Giovanni). Giovanni D'Ammassa "La copia del software
+e i sistemi di protezione" PC Magazine Febbraio 1993 VNU business
+publications.
+ 
+<P>(2002)  Nell'estate 2002, dopo una fallimentare stagione di spot sempre più
+edulcorati per evitare nuovi viene estromesso la faccia cattiva della BSA,
+il presidente Paolo Ardemagni sarà sostituito da Yolanda Rios,
+amministratore di Autodesk Italia. Le invio i miei auguri con una  "Lettera
+Aperta al presidente BSA ", pubblicata su  . Lei risponde così. Linux
+Magazine diventa mensile. 
+ 
+<P>(2003) Arriva Bill Gates in Italia. Il mio articolo "" viene pubblicato su
+ZeusNews e Vita.it. Critico la manifestazione apocalittica dei pinguini
+inframmezzati ai no-global o disobbedienti che si profila con (dalla mailing
+list di FSF "Ci sarà solo (forse) una piccola masnada di cretini vestiti da
+pinguini a ricordarci della superiorità animale dove almeno non esistono
+pinguini vestiti da cretini.") e scrivo un editoriale ("") molto polemico.
+Poi la manifestazione si smonta, e finirà per diventare quella di un piccolo
+gruppo che supporta le idee delle principali associazioni del software
+libero. Cioè perfetta! Per l'occasione metto su il mio sito (
+<http://www.exedre.org> www.exedre.org). 
+ 
+<P>...e adesso? Partecipo alla mailing list "Italy" della Free
+Software Foundation Europe, continuo a scrivere articoli che sono
+rilasciati pubblicamente, qualche volta sono invitato -e più spesso
+no- in convegni e dibattiti, leggo molti degli articoli che saranno
+pubblicati su Linux Magazine e, ogni tanto, mi riposo. Molte delle
+cose più "fresche" possono essere reperite sul mio nuovo sito ( <a
+href="http://www.exedre.org">www.exedre.org</a> ) ).
+ 
+<P>Per avere un mio curriculum professionale è necessario (ma non sufficiente)
+scrivermi personalmente indicando il motivo specifico della richiesta, e
+tutte le informazioni ideali per convincermi a spedirvelo, specificando
+inoltre con grande precisione l'uso che si intende fare delle informazioni
+ricevute. E non vi aspettate che ve lo spedisca!
+
+<!--#include virtual="$base/frags/firma.shtml" -->
+
+<!--#include virtual="$base/frags/art-copy.shtml" -->
+<!--#include virtual="$base/frags/art-accessori.shtml" -->

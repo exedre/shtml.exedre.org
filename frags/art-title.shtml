@@ -1,0 +1,14 @@
+<!-- FRAGMENT art-title.shtml -->
+<!-- Titolo dell'articolo -->
+
+<h1><!--#echo var="title"--></h1>
+<i>
+<!-- #if expr="$subtitle" -->
+<!--#echo var="subtitle"-->
+<!-- #endif -->
+<!--#if expr="$subtitle1" -->
+<br><!--#echo var="subtitle1"-->
+<!--#endif -->
+</i>
+<br><!--#echo var="date"-->
+<br>

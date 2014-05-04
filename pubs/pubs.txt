@@ -1,0 +1,24 @@
+aia
+
+
+indicizza.php - 
+	outputs - MD5 - length - title - 
+
+Fase 1 - Installazione e prima configurazione
+	 Aggiungere almeno un peer
+	 OK
+
+Fase 2 - Indicizzazione pubblicazioni
+	 indicizza.php -> TABLE todo
+	 			   	  mkindex()
+					  
+					  
+Fase 3 - Verifica in rete della disponibilità dei riferimenti e aggiornamento DB locale
+	 discover.php -> TABLE peer
+	 			  Esegue una ricerca sul peer principale della disponibilità dei riferimenti
+				  		 netdiscover(peer,MD5s)
+	 			  
+Fase 4 - Pulizia pubblicazioni
+	 Fase 4.1 - Ricerca su google scholar
+	 Fase 4.2 - Copia BibTeX
+

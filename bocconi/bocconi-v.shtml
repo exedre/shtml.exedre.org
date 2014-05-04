@@ -1,0 +1,20 @@
+<!--#include virtual="/./frags/art-void.shtml"-->
+<!--#set var="base"      value="/." -->
+<!--#set var="bio"      value="" -->
+<!--#set var="date"      value="SDA Bocconi, Milano - 15 Luglio 2004" -->
+<!--#set var="dir"      value="bocconi" -->
+<!--#set var="file"      value="bocconi-f.shtml" -->
+<!--#set var="flink"      value="/./bocconi/bocconi-f.shtml" -->
+<!--#set var="follow"      value="" -->
+<!--#set var="ilink"      value="/./bocconi/bocconi.shtml" -->
+<!--#set var="index"      value="yes" -->
+<!--#set var="input"      value="bocconi" -->
+<!--#set var="keywords"      value="bocconi, exedre" -->
+<!--#set var="kind"      value="sitepage" -->
+<!--#set var="license"      value="none" -->
+<!--#set var="lm"      value="" -->
+<!--#set var="next"      value="disobbedienti" -->
+<!--#set var="prev"      value="." -->
+<!--#set var="subtitle"      value="How Open-Source is changing business rules and organizations" -->
+<!--#set var="title"      value="Business evolution through IT revolution" -->
+<!--#set var="translation"      value="yes" -->

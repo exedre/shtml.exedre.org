@@ -1,0 +1,280 @@
+Da: Elettrico <elettrico@ecn.org>
+Data: Lun 24 feb 2003  13:20:15 Europe/Rome
+A: cyber-rights@ecn.org, esomma@ieee.org
+Oggetto: emanuele somma su linux magazine
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+di profeti e pontificatori e' pieno il mondo, ma mai avrei pensato di
+leggere una pagina intera scritta da uno di loro su linux magazine.
+da sempre noto come le riviste dedicate a linux tendano ad ignorare
+tutta quella parte dell'attivismo che reputano "scomoda" perche' troppo
+politicizzata. molto piu' semplice del resto dare spazio alle parole di
+un deputato, che tanto avra' gia' parlato (o sparato cazzate, a seconda
+dei gusti) piu' volte in visione nazionale su una qualche trasmissione
+di una qualche rete televisiva, piuttosto che dedicare un po' di spazio
+ad una visione ahime' troppo vicina, come va di moda dire ora, a
+posizioni politiche "pericolose". ancora poi saltasse fuori che linux e'
+legato ad al quaeda.
+
+emanuele somma dedica il suo editoriale alla visita di bill gates, o
+meglio al "contorno", e gia' dal titolo si evince il tono "non fateci
+abusare di un disobbediente vestito da pinguino".
+oltre ad evincersi il tono si capisce fin da subito che somma non ha
+capito nulla. dove abbia letto infatti che la componente disobbediente
+era maggioritaria e promotrice non si sa. probabilmente non sapeva, e
+non si e' preso la briga di documentarsi (come se un "giornalista" di
+una testata di informatica non avesse il dovere di farlo prima di
+scrivere), che quel giorno c'erano, vestiti da pinguini e non,
+componenti del movimento "no-global" (lui li chiama cosi'),
+programmatori di software libero, lavoratori interinali e non nel campo
+dell'informatica, attivisti degli hacklab (accidenti, proprio
+l'arcipelago che tanto si cerca di ignorare) e esponenti di varie
+associazioni schierate a favore dell'open source.
+
+da subito comunque l'editoriale parte con una chicca: bill gates non e'
+venuto qui per pubblicizzare il suo amato software proprietario. somma
+ci spiega i Veri Motivi che lui, non si sa bene perche', sa: "una
+chiacchierata con pera", "una lezioncina di filosofia", "probabilmente
+qualche accorducolo su qualche gioiello di famiglia" (intende le aziende
+italiane), comunque una visita dalla "minima valenza politica".
+chiaramente non e' che si fa cogliere da dubbi, lui ne e' sicuro.
+probabilmente avra' seguito bill.
+
+poi prosegue parlando dell'inscenamento di qualche bella manifestazione
+da parte del "movimento no-global". e qui subito ecco un'altra chicca:
+"non si sa ancora il motivo della manifestazione". ah, non si sapeva? ma
+sono l'unico cretino che ha letto varie email sulla questione in questa
+e altre liste? boh! forse somma usa documentarsi sulle questioni
+riguardanti il software libero e l'attivismo in vari campi non
+direttamente alla fonte, ovvero in questo caso in rete, magari in questa
+stessa lista o in altri luoghi virtuali dedicati alle discussioni sul
+tema, ma bensi' legge solo la stampa tradizionale (sempre contenente
+articoli approfonditi ed argomentati, soprattutto per quanto riguarda
+l'informatica...) che come dice lui stesso "ha farneticato le solite
+banalita' tirando per' in mezzo linux e il software libero"... quali
+sarebbero queste "solite banalita'"? e perche' dice "tirando PERO' in
+mezzo linux"? non ci e' dato sapere. probabilmente il senso e'
+"accidenti a questi idioti che coi loro articoli mostrano la faccia
+politicizzata dell'attivismo open source, che poi linux si sporca con
+questi -oh mio dio!- comunisti ed anarchici!". ma questa ovviamente e'
+una _mia_ interpretazione.
+
+prosegue pero' somma: "qualche LUG, con sprezzo del ridicolo, si sta
+organizzando per esserci"... che dire? questa frase si commenta da sola:
+il software libero si puo' solamente sostenere da dietro una scrivania,
+lavorando per una rivista di settore, o comunque in qualche modo simile.
+ogni altra cosa, dall'attivismo digitale ad una qualsiasi forma di
+protesta contro chi fa del software proprietario e definisce l'open
+source "pericoloso per l'economia" e' una cosa RIDICOLA. per quanto mi
+riguarda son contento di fare parte del circo.
+
+poi l'editoriale va avanti, con un assaggio di socioeconomia: "che il
+software libero, linux in testa, sia la punta piu' avantaza del processo
+di globalizzazione e' evidente". ah si'? e' la "punta piu' avanzata"?
+pensavo che il software libero fosse una delle componenti della classe
+"software", la quale a sua volta fa parte della classe "informatica", la
+quale ancora sta nel grande insieme della "tecnologia". mi sbagliavo,
+somma mi ha illuminato.
+il delirio pero' non si ferma qui, deve dimostrare che tutto quello che
+e' successo e' ridicolo, per cui cerca di costruire una serie di
+sillogismi sconcertanti: secondo lui infatti il software libero e'
+completamente "americano" (prima mette "completamente" come aggettivo
+rafforzativo e poi mette le virgolette alla parola "americano"... forse
+sa che sta dicendo una cazzata). e perche' sarebbe americano? semplice,
+prima di tutto per la "nazionalita' o la localita' di lavoro dei suoi
+principali interpreti"... ergo questi "antiamericani" (i no-global
+appunto) sono sciocchi perche' appoggiano una cosa americana... quindi
+applicando il ragionamento ad altri campi l'automobile e' una cosa
+"italiana", e chiunque abbia a che fare con le automobili
+automaticamente accetta e condivide in toto la cultura italiana. mah.
+inoltre linux e' americano perche' (tenetevi forte) "solo una societa'
+'americanizzata', basata realmente sulla sacralita' della liberta' di
+espressione, sul 1mo emendamento, puo' riuscire a difendere il software
+libero". rendiamoci conto di cosa viene messo in piedi in questa frase.
+prima di tutto la liberta' di espressione diventa una cosa americana.
+non e' piu' un valore umano, globale, a cui tutti possono ispirarsi. no.
+e' un valore solo americano, racchiuso nel primo emendamento, quindi
+tutte le societa' che prevedono la liberta' di espressione sono
+"americanizzate". immaginiamo quindi che anche tutti gli stati dove
+esista la pena di morte si rifacciano alla tradizione forcaiola degli
+usa, per cui possiamo definirli "americanizzati".
+
+proseguendo poi nella lettura il concetto di fondo viene esplicitato:
+"ma una delle ragioni del movimento anti-globalizzazione non e' la
+resistenza all'americanizzazione del mondo? anzi, non e' un
+anti-americanismo viscerale quello che anima molti disobbedienti?"
+ma a somma e' mai passato per l'anticamera del cervello che non esiste
+solo bianco o nero, che essere americano non vuol dire essere bush o la
+shell, che vivere negli usa non vuol dire essere uno stronzo
+imperialista per assunto? ma come cazzo si fa ad accomunare una cultura
+della condivisione, della collaborazione, del libero accesso come quella
+che sta alla base di molti movimenti, compreso quello del free software,
+con l'america di bush, della guerra all'iraq, del sostegno ai dittatori,
+dell'imperialismo, dello sfruttamento globale? quale capriola neuronale
+e' necessario fare all'interno del proprio cervello per scrivere una
+tale castroneria? siamo ai livelli di un asilo: "america cacca" o
+"america buono". evidentemente somma prima di giudicare un'idea, un
+concetto, un comportamento, si sincera della nazionalita' dello stesso.
+quindi, ad esempio, siccome io non sono d'accordo sulla guerra all'iraq
+e critico l'amministrazione bush non posso nemmeno usare linux, e
+sostenerlo, in quanto prodotto americano (cosa su cui comunque avrei da
+ridire). mah.
+
+si lancia poi, sempre il nostro caro, su disquisizioni sulla critica
+all'informatizzazione e alla bioingegneria che il movimento "no-global"
+porta avanti al suo interno.
+
+a questo punto della lettura io mi sono fermato sconcertato. come puo'
+un elemento simile scrivere un editoriale su un mensile di informatica?
+stiamo parlando di una persona che reputa la tecnologia in se' buona o
+cattiva, scrive stupidaggini che sembrano uscite da un diaro di un
+bambino delle elementari. la bioingegneria e' BUONA. punto. i
+"no-global" dicono che e' cattiva. punto. sono due costrutti FALSI e
+STUPIDI. primo perche' non v'e' tecnologia buona o cattiva, ma sono
+buoni o cattivi gli usi che se ne fanno, secondo perche' io stesso sono
+stato promotore un paio di anni fa assieme ad alcuni "no-global"
+universitari di un incontro con a tema la tecnologia. nella giornata
+ricca di spunti di riflessione si parlo' anche di biotecnologia e la
+critica che vi era nelle discussioni era l'uso che se ne fa, non ho
+sentito nessuno dire "andrebbe vietata", ho sentito varie posizioni
+confrontarsi, da chi diceva che andrebbe liberalizzata a chi ne
+criticava il monopolio. ma evidentemente somma era impegnato quel giorno.
+
+vado poi avanti a leggere a vedo che somma ci spiega perche' noi
+"no-global" (mi fa un po' senso definirmi con un termine sciocco coniato
+dalla stampa, ma almeno cosi' anche somma puo' capire) abbiamo
+manifestato contro bill gates. copio tutta la frase perche' e' troppo
+bella:
+
+"se si scava al di la' della facciata di comodo che si e' data per
+raccattare qualche adepto in un movimento come quello del software
+libero che ha veramente i numeri per fare le rivoluzioni, il vero motivo
+della manifestazione che si profila contro bill gates (ma a favore di
+che?) e' che la microsoft rappresenta l'archetipo (riuscito) di una
+azienda moderna, basata su un uso flessibile del personale, con un vasto
+utilizzo di lavoro interinale e consulenti esterni. gran parte dei quali
+ molto ben contenti di esserlo."
+
+WOW! quale insieme notevole di concetti:
+1- il movimento "no-global" deve raccattare adepti in giro
+2- lo fa con operazioni di facciata
+3- lo fa nel campo del software libero perche' li' si che ci sono i
+numeri per fare la rivoluzione
+4- la microsoft e' un archetipo di azienda moderna
+5- i lavoratori interinali sono contenti di essere tali
+
+prego, commentare a piacere, di seguito i miei:
+
+1- boh, sara', puo' essere. ma somma lo sa perche' lo ha letto sulla
+stampa? oppure glielo ha detto suo cugino? ma lo sa somma che esistono
+da anni gli hackmeeting e gli hacklab, luoghi di attivismo a doppio
+filo, dove si mescolano (e con piacere!) politica e software libero?
+2- facendo riferimento a quanto scritto prima, bastava cercasse in rete
+per trovare il succo e non la facciata, ma evidentemente comprende solo
+quello che e' superficiale come il suo editoriale
+3- meno male che noi che usiamo e sosteniamo il software libero abbiamo
+i numeri per fare la rivoluzione. non vedo l'ora di vedere i risultati
+di tale preponderanza numerica un po' ovunque. l'importante pero' e' non
+metterci di mezzo altre cose eh, tipo che so, la pace, che poi rischiamo
+di dividerci fra chi il cervello lo usa per ragionare e chi invece come
+magazzino per assiomi tipo linux=bello, politica=cacca, ecc
+4- qui mi sfugge il concetto di "azienda moderna". se l'azienda moderna
+e' quella che esternalizza i servizi allora anche un qualsiasi ente
+locale e' un'azienda moderna.
+5- bisognerebbe chiederlo a loro. chissa' se somma e' interinale.
+
+le sconsiderate riflessioni (ma non mi viene proprio di considerarle
+tali, vista l'assenza di pensiero che c'e' dietro) di somma continuano:
+"sostenere linux significa estendere lo spazio di autonomia individuale
+non sindacalizzabile"... questo dipenderebbe da linux? ovvero chi usa
+windows puo' sperare di trovarsi un giorno in un "sindacato degli
+informatici" mentre invece chi usa linux ahime' restera' non
+sindacalizzabile. quale sarebbe la differenza? e non e' che invece il
+problema e' insito nel modello di produzione tanto amato nel terziario,
+tanto caro alla microsoft ed alle aziende di informatica di oggi?
+
+inoltre poi sostenere linux significa anche avere "una fede spropositata
+nell'economia di mercato". personalmente sostengo il software libero per
+il modello di sviluppo che propone, non per l'economia in cui viene
+calato. fede nell'economia di mercato la avra' la red hat, non so, non
+vedo perche' io che ritengo basilare l'accesso alla conoscenza dovrei
+avere fede in un'economia che la impedisce per detenere monopoli che
+creano ricavi senza senso.
+
+avvicinandosi pian piano alla conclusione somma ci fa godere di un altro
+paio di assiomi: "mentre dichiararsi a favore del software libero, per
+un no-global convinto, puo' non essere un problema, sembra molto piu'
+difficile che un fan del software libero possa qualificarsi come
+no-global".
+l'unico problema che vedo io e' che quando ci si dichiara sostenitori di
+qualcosa bisogna sapere di cosa si parla, essersi documentati, aver
+provato, e se non aver capito almeno averci ragionato. in entrambi i
+casi. altrimenti si dicono e fanno cazzate. e questo editoriale sembra
+appunto un buon esempio.
+
+va avanti poi il nostro amico dicendo che "un fan del software libero
+abbia in comune con bill gates piu' di quanto ne abbia con un
+no-global"... forse dipende dal livello di stronzaggine,
+spregiudicatezza e rispetto per gli altri con la quale conduce la
+propria vita, ma mi chiedo come si possano racchiudere numeri "da
+rivoluzione" in classi cosi' definite ed etichettate, e fare
+similitudini simili.
+
+"difficile pero' che il movimento del software libero possa avere
+qualcosa da ridire (se non da ridere) su un disobbediente che indossi un
+vestito da pinguino e manifesti contro bill gates." - e infatti somma
+spreca ben due colonne, che sicuramente avrebbe potuto riempire con
+qualcosa di piu' utile al movimento del software libero - "al limite
+avvertirlo che sotto il vestito da pinguino a fianco a lui potrebbe
+trovarsi un consulente ibm, un trivellatore della shell, un capitano
+della marina tedesca, o una spia dell'nsa, dell'fbi e della cia" - e'
+chiaro il concetto, a questo punto. il software libero e' una cosa a
+parte, non si vive, e' un compartimento stagno.
+quindi chi invece fa piu' o meno attenzione a tutti i risvolti della
+propria vita, e magari lega l'adozione del software libero sul suo
+computer ad un discorso etico piu' ampio, che coinvolge anche altri
+aspetti, e di conseguenza _sa_ che proprio per il suo stesso
+comportamento _non gli potra' mai capitare di trovarsi a chiacchierare
+con un agente della cia_ (a meno che non sia in incognito, ovvio, noi
+l'onniscenza di somma non l'abbiamo e ci accontentiamo dei nostri cinque
+sensi) e' solo un povero illuso. il software libero e' BUONO e va
+sostenuto SEMPRE e A PRIORI di qualsiasi cosa. saro' scemo, ma non
+faccio cosi'. non so somma.
+
+finalmente l'ultimo paragrafo: "la tolleranza ci impone di accettare
+anche questo suo impegno per la causa con amore ed amicizia, ma forse
+sarebbe il caso che il disobbediente/no-global di turno si affretti ad
+inventare una nuova licenza. posso anche suggerigli il nome: software
+giusto. peccato che in inglese verrebbe fuori: right software".
+
+l'unica cosa che ho da dire, saltando a pie' pari la triste conclusione
+dell'editoriale (anche perche' in inglese "destra" in senso politico
+l'ho sempre sentita chiamare right-wing, ma magari mi sbaglio) e' che se
+la tolleranza di somma gli fa accettare con amore ed amicizia
+l'attivismo politicizzato capita invece che l'economia di mercato,
+quella a cui ahime' siamo assoggettati, e quella che tiene in piedi
+l'editore di linux magazine "edizioni master" permette che lui sprechi
+inchiostro e carte per scrivere uno degli articoli piu' superficiali che
+io abbia mai letto sull'attivismo politicizzato.
+complimenti, un giornalista di "libero" forse non avrebbe saputo fare di
+meglio. pardon, peggio.
+
+
+- --
+
+"...i tuoi angeli custodi non hanno la divisa blu..."
+                    "ninna nanna del duro" - Fred Buscaglione
+http://www.autistici.org/underscore/acari/elettrico/publickey.txt
+keyserver.autistici.org
+Key fingerprint = D32C 7B60 F65C EF4D FCA8  BC99 C4DB 0E52 1D7B 9A83
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.6 (GNU/Linux)
+Comment: For info see http://www.gnupg.org
+
+iD8DBQE+Wg3/xNsOUh17moMRAvJCAJoDRUhPimb3UdK1ccyE9mEERgNl6gCfaDXS
+WrwX3dA79fi5YGfCz5OHEm4=
+=4kGp
+-----END PGP SIGNATURE-----
+
